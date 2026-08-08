@@ -1,0 +1,44 @@
+[
+    {
+        "Config": "Tier 1 (Org Acids)",
+        "R2_marginal": 0.1454,
+        "R2_conditional": 0.999,
+        "MAE": 0.0299
+    },
+    {
+        "Config": "Tier 2 (MP Ratio)",
+        "R2_marginal": 0.1756,
+        "R2_conditional": 0.999,
+        "MAE": 0.0318
+    },
+    {
+        "Config": "Tier 3 (TAS Ratio)",
+        "R2_marginal": 0.1668,
+        "R2_conditional": 0.9979,
+        "MAE": 0.0404
+    },
+    {
+        "Config": "Tier 4 (Asphaltenes)",
+        "R2_marginal": 0.1494,
+        "R2_conditional": 0.9978,
+        "MAE": 0.0447
+    },
+    {
+        "Config": "Tiers 1+2",
+        "R2_marginal": 0.1676,
+        "R2_conditional": 0.9994,
+        "MAE": 0.0231
+    },
+    {
+        "Config": "Tiers 1+2+3",
+        "R2_marginal": 0.1725,
+        "R2_conditional": 0.9994,
+        "MAE": 0.0225
+    },
+    {
+        "Config": "Full Cascade (phi_cascade)",
+        "R2_marginal": 0.1841,
+        "R2_conditional": 0.9999,
+        "MAE": 0.0082
+    }
+]

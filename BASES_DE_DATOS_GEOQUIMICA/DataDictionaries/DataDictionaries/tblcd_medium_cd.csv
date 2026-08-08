@@ -1,0 +1,20 @@
+medium_cd,medium_cd_ref,comments_medium_cd,version_when_added
+OW,LOCAL,Well sampled for oil,version 1.0
+OC,NWIS,Core sampled for oil,version 1.0
+WG,NWIS,Groundwater. Water below the surface of the Earth contained in the saturated zone. It does not include soil moisture or interstitial water.,version 1.0
+WI,NWIS,"Water occuring in the small openings, spaces, pores, and voids between particles of unconsolidated materials. Includes water found in the interstices of shallow sediments of a lake, wetland, reservoir, or stream, and in the vadose zone between the root zone and the water table. The water is held in place by entrapment, ionic attraction, and capillary or adhesive forces, rather than from pressure components of saturation.",version 1.0
+WS,NWIS,"Surface water. Water on the surface of the Earth stored or transported in rivers, streams, estuaries, lakes, ponds, swamps, glaciers, or other aquatic areas. It also may refer to water in urban drains
+and storm-sewer systems.",version 1.0
+WW,NWIS,"Wet deposition. Water reaching the Earth's surface through precipitation as rain, snow, sleet, hail, or condensation of fog and dew",version 1.0
+SB,NWIS,Bottom material underlying a body of water,version 1.0
+ST,NWIS,"Solids. Total array of materials that are collected as part of a ""clean sweep""",version 1.0
+SC,NWIS,Core Material. Can be consolidated or unconsolidated,version 1.0
+SU,NWIS,Borehole Cuttings. Unconsolidated or consolidated material removed from a pipe or casing during drilling.,version 1.0
+SO,NWIS,Soil,version 1.0
+SL,NWIS,Sludge. Originated from an anthropogenic source covering the ground or water body,version 1.0
+SD,NWIS,Dry deposition from the atmosphere during dry weather periods,version 1.0
+OWQ,LOCAL,QC sample - well sampled for oil.,version 1.0
+OCQ,LOCAL,QC sample - core sampled for oil.,version 1.0
+OAQ,NWIS,QC sample - Any substance that is not part of an aquatic environment and cannot be described by the Sample Medium Codes.,version 2.0
+WGQ,NWIS,QC sample - Water below the surface of the Earth contained in the saturated zone. It does not include soil moisture or interstitial water.,version 2.0
+AS,NWIS,"Soil gas. Gases occurring in the small openings, spaces, and voids between articles of unconsolidated materials in that portion of the vadose water zone between the root zone and the water table.",version 3.0

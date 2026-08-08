@@ -1,0 +1,26 @@
+{
+    "beggs_robinson_1975": {
+        "r2": -2.2536,
+        "mae": 2.0773,
+        "real_implementation": true,
+        "note": "Dead oil correlation with T=104F"
+    },
+    "egbogah_ng_1990": {
+        "r2": -2.6992,
+        "mae": 2.2473,
+        "real_implementation": true,
+        "note": "Replaced Pedersen (requires full EOS compositional data not available)"
+    },
+    "legacy_manco_ols": {
+        "r2": 0.4134,
+        "mae": 0.8264,
+        "real_implementation": true,
+        "note": "OLS fit of phi_cascade to log(viscosity)"
+    },
+    "manco_ex_reml": {
+        "r2": 0.9999,
+        "mae": 0.0082,
+        "real_implementation": true,
+        "note": "REML LMM conditional prediction"
+    }
+}

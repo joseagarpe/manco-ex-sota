@@ -1,0 +1,11 @@
+{
+    "beta_global": 12.7798,
+    "max_vif": 21.86,
+    "r2_marginal": 0.4134,
+    "r2_conditional": 0.9203,
+    "r2_conditional_full": 1.0,
+    "r2_cv_mean": 0.6008,
+    "r2_cv_std": 0.8216,
+    "shapiro_p": 0.9447,
+    "delta_Xd_crit": 8.5
+}

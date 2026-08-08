@@ -1,0 +1,24 @@
+{
+  "sample_count_N": 41,
+  "basin_count": 5,
+  "bootstrap_iterations_B": 10000,
+  "r2_mean": 0.9992,
+  "r2_ci_95": [
+    0.9989,
+    0.9996
+  ],
+  "slope_mean": 1.6931,
+  "slope_ci_95": [
+    1.6651,
+    1.7319
+  ],
+  "kruskal_wallis_H": 19.3051,
+  "kruskal_wallis_pvalue": 0.0007,
+  "basin_sample_counts": {
+    "USGS PGRL Repository": 10,
+    "Orinoco Oil Belt": 11,
+    "Bongor Basin": 8,
+    "Junggar Basin": 7,
+    "Athabasca Oil Sands": 5
+  }
+}

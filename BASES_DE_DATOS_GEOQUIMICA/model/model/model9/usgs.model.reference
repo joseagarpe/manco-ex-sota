@@ -1,0 +1,9 @@
+xul=342550.608        # upper left x-coordinate
+yul=5270928.086         # upper left y-coordinate
+rotation=0.     # model grid rotation (degrees)
+length_units meters      # model length units (feet, meters, etc.)
+time_units seconds        # model time units (days, years, etc.)
+start_date 08/20/1979    # state date of the model on date of initial pipeline failure
+start_time 00:00:00    # start time of the model
+model SUTRA     # model type 
+epsg 26915            # epsg code from spatialreference.com

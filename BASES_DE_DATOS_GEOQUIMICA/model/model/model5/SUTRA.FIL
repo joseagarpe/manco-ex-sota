@@ -1,0 +1,8 @@
+INP    50 'Case-170912l.inp'
+ICS    55 'Case-170912l.ics'
+LST    60 'Case-170912l.lst'
+RST    66 'Case-170912l.rst'
+NOD    30 'Case-170912l.nod'
+ELE    40 'Case-170912l.ele'
+OBS    70 'Case-170912l.obs'
+SMY    80 'Case-170912l.smy'

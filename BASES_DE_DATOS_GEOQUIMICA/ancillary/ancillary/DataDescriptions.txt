@@ -1,0 +1,84 @@
+Publication containing results from models in this model archive:
+---------------------------
+Warren, Ean, and Bekins, B. A., 2018, Relative Contributions of Microbial 
+and Infrastructure Heat at a Crude Oil-Contaminated Site: Journal of 
+Contaminant Hydrology, vol. 211, April 2018, p. 94-103, 
+https://doi.org/10.1016/j.jconhyd.2018.03.011
+
+Model archive:
+---------------------
+Warren, Ean, and Bekins, B. A., 2018, SUTRA model simulations used to evaluate 
+heat flow from microbial activity at a crude oil-contaminated site, 
+https://doi.org/10.5066/F7N58KKX 
+-------------------------------------------------------------------------------
+
+Archive Revision History:
+------------------------    
+   12/10/2017 Model archive created to conform to the structure specified
+              for public release of groundwater flow and transport models.
+   01/11/2018 Model archive update based on Hedeff Essaid's review of model
+              archive.
+   04/17/2018 Model archive update with final information for Warren2018_JCH
+   
+-------------------------------------------------------------------------------
+
+This file describes measured temperature data used in Warren and Bekins 
+(2018). The first section describes data files found in DataArchive\ 
+subfolder. The second section describes which data file contributed to each 
+figure from the results section of the reference. 
+
+Section 1. Data files
+----------------------
+
+Data files are in DataArchive\ and are comma-delimited with column headers in 
+the first row. Data sources consist of temperature (°C) loggers collecting at 
+1-hour (unsaturated zone measurements) or 6-hour (groundwater measurements) 
+intervals for 20 July 2013 to 19 July 2014 (inclusive). The locations of the 
+observation sites are shown in Figures 1 and 5b of Warren and Bekins (2018).
+
+File name							Contents
+---------							---------------------
+DataArchiveBackupGroundwater.csv    Groundwater temperatures. The first column
+                                    contains the well names, second column 
+									contains distances (m) of wells from center
+									of source zone. Third column contains 
+									average annual temperatures at 0.5 m below 
+									water table. The fourth column contains 
+									average annual temperatures at 4.0 m below 
+									water table.
+
+DataArchiveBackupBkgd1Unsat.csv     Unsaturated zone temperatures at Bkgd1. The
+                                    first column contains the elevations (m) of
+									the data. The second column contains 
+									average annual temperatures (°C).
+
+DataArchiveBackupBkgd2Unsat.csv		Unsaturated zone temperatures at Bkgd2. The
+                                    first column contains the elevations (m) of
+									the data. The second column contains 
+									average annual temperatures (°C).
+
+DataArchiveBackupOil1Unsat.csv      Unsaturated zone temperatures at Oil1. The 
+                                    first column contains the elevations (m) 
+									of the data. The second column contains 
+									average annual temperatures (°C).
+
+DataArchiveBackupOil2Unsat.csv      Unsaturated zone temperatures at Oil2. The 
+                                    first column contains the elevations (m) 
+									of the data. The second column contains 
+									average annual temperatures (°C).
+
+
+Section 2. Use of Data
+-----------------------
+Table 5: DataArchiveBackupOil1Unsat.csv and DataArchiveBackupOil2Unsat.csv
+
+Figure 7a: DataArchiveBackupBkgd2Unsat.csv
+
+Figure 7b: DataArchiveBackupOil1Unsat.csv
+
+Figure 7c: DataArchiveBackupOil2Unsat.csv
+
+Figure 8: DataArchiveBackupGroundwater.csv
+
+Calibration of pipeline temperature in the background case scenario (Model1): 
+DataArchiveBackupBkgd1Unsat.csv and DataArchiveBackupBkgd2Unsat.csv

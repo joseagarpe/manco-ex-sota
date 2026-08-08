@@ -1,0 +1,834 @@
+Unique_ID,Lysimeter_ID,CollectionDate,USGS_siteno,UTM_x_Z15,UTM_y_Z15,Distance_from_421,Param_name,Param_ShortName,Result_Value,Result_Flag,Unit,Laboratory,meth_cd
+L1802_1.8_20180628,L1802-1.8,2018-06-28,,342698.85,5270942.37,429.393,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,57.7,,(mg/L of C),RBPGL,COMB4
+L1802_1.8_20181018,L1802-1.8,2018-10-18,,342698.85,5270942.37,429.393,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,19.4,,(mg/L of C),RBPGL,COMB4
+L1802_3.3_20180628,L1802-3.3,2018-06-28,,342699.31,5270943.24,429.436,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,10.0,,(mg/L of C),RBPGL,COMB4
+L1802_3.3_20180702,L1802-3.3,2018-07-02,,342699.31,5270943.24,429.436,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,9.30,,(mg/L of C),RBPGL,COMB4
+L1802_3.3_20181018,L1802-3.3,2018-10-18,,342699.31,5270943.24,429.436,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,10.5,,(mg/L of C),RBPGL,COMB4
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,32.4,,(mg/L of C),RBPGL,COMB4
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,3.65,,(mg/L of C),RBPGL,COMB4
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,3.70,,(mg/L of C),RBPGL,COMB4
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,6.04,,(mg/L of C),RBPGL,COMB4
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,7.49,,(mg/L of C),RBPGL,COMB4
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,3.87,,(mg/L of C),RBPGL,COMB4
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,48.6,,(mg/L of C),RBPGL,COMB4
+L310_1.5_20210312,L310-1.5,2021-03-12,,342605.76,5270952.42,433.453,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,7.20,,(mg/L of C),RBPGL,COMB4
+L310_1.5_20210411,L310-1.5,2021-04-11,,342605.76,5270952.42,433.453,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,3.73,,(mg/L of C),RBPGL,COMB4
+L310_1.5_20210416,L310-1.5,2021-04-16,,342605.76,5270952.42,433.453,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,1.74,,(mg/L of C),RBPGL,COMB4
+L310_1.5_20210422,L310-1.5,2021-04-22,,342605.76,5270952.42,433.453,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,1.52,,(mg/L of C),RBPGL,COMB4
+L310_1.5_20210429,L310-1.5,2021-04-29,,342605.76,5270952.42,433.453,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,1.60,,(mg/L of C),RBPGL,COMB4
+L310_4.5_20210312,L310-4.5,2021-03-12,,342604.47,5270953.06,433.572,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,7.04,,(mg/L of C),RBPGL,COMB4
+L310_4.5_20210318,L310-4.5,2021-03-18,,342604.47,5270953.06,433.572,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,1.49,,(mg/L of C),RBPGL,COMB4
+L310_4.5_20210404,L310-4.5,2021-04-04,,342604.47,5270953.06,433.572,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,1.65,,(mg/L of C),RBPGL,COMB4
+L310_4.5_20210411,L310-4.5,2021-04-11,,342604.47,5270953.06,433.572,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,1.58,,(mg/L of C),RBPGL,COMB4
+L310_4.5_20210416,L310-4.5,2021-04-16,,342604.47,5270953.06,433.572,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,2.20,,(mg/L of C),RBPGL,COMB4
+L310_4.5_20210422,L310-4.5,2021-04-22,,342604.47,5270953.06,433.572,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,2.08,,(mg/L of C),RBPGL,COMB4
+L310_4.5_20210429,L310-4.5,2021-04-29,,342604.47,5270953.06,433.572,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,2.45,,(mg/L of C),RBPGL,COMB4
+L9014_1.5_20210318,L9014-1.5,2021-03-18,473426095052509,342794.83,5271049.55,430.335,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,4.44,,(mg/L of C),RBPGL,COMB4
+L9014_1.5_20210411,L9014-1.5,2021-04-11,473426095052509,342794.83,5271049.55,430.335,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,4.14,,(mg/L of C),RBPGL,COMB4
+L9014_1.5_20210416,L9014-1.5,2021-04-16,473426095052509,342794.83,5271049.55,430.335,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,4.71,,(mg/L of C),RBPGL,COMB4
+L9014_3.0_20210404,L9014-3.0,2021-04-04,473426095052510,342794.05,5271050.17,430.344,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,3.64,,(mg/L of C),RBPGL,COMB4
+L9014_3.0_20210411,L9014-3.0,2021-04-11,473426095052510,342794.05,5271050.17,430.344,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,3.69,,(mg/L of C),RBPGL,COMB4
+L9014_3.0_20210416,L9014-3.0,2021-04-16,473426095052510,342794.05,5271050.17,430.344,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,3.83,,(mg/L of C),RBPGL,COMB4
+L9014_3.0_20210422,L9014-3.0,2021-04-22,473426095052510,342794.05,5271050.17,430.344,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,5.88,,(mg/L of C),RBPGL,COMB4
+L9014_3.0_20210429,L9014-3.0,2021-04-29,473426095052510,342794.05,5271050.17,430.344,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,3.81,,(mg/L of C),RBPGL,COMB4
+L9014_4.5_20210312,L9014-4.5,2021-03-12,473426095052511,342793.30,5271051.13,430.350,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,11.3,,(mg/L of C),RBPGL,COMB4
+L9014_4.5_20210318,L9014-4.5,2021-03-18,473426095052511,342793.30,5271051.13,430.350,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,13.8,,(mg/L of C),RBPGL,COMB4
+L9014_4.5_20210325,L9014-4.5,2021-03-25,473426095052511,342793.30,5271051.13,430.350,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,10.8,,(mg/L of C),RBPGL,COMB4
+L9014_4.5_20210404,L9014-4.5,2021-04-04,473426095052511,342793.30,5271051.13,430.350,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,9.22,,(mg/L of C),RBPGL,COMB4
+L9014_4.5_20210411,L9014-4.5,2021-04-11,473426095052511,342793.30,5271051.13,430.350,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,9.71,,(mg/L of C),RBPGL,COMB4
+L9014_4.5_20210416,L9014-4.5,2021-04-16,473426095052511,342793.30,5271051.13,430.350,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,13.8,,(mg/L of C),RBPGL,COMB4
+L9014_4.5_20210422,L9014-4.5,2021-04-22,473426095052511,342793.30,5271051.13,430.350,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,11.4,,(mg/L of C),RBPGL,COMB4
+L9014_4.5_20210429,L9014-4.5,2021-04-29,473426095052511,342793.30,5271051.13,430.350,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,9.75,,(mg/L of C),RBPGL,COMB4
+L9017_1.3_20210312,L9017-1.3,2021-03-12,473425095052677,342760.39,5271035.11,430.055,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,14.5,,(mg/L of C),RBPGL,COMB4
+L9017_1.3_20210318,L9017-1.3,2021-03-18,473425095052677,342760.39,5271035.11,430.055,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,4.00,,(mg/L of C),RBPGL,COMB4
+L9017_1.3_20210404,L9017-1.3,2021-04-04,473425095052677,342760.39,5271035.11,430.055,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,3.78,,(mg/L of C),RBPGL,COMB4
+L9017_1.3_20210416,L9017-1.3,2021-04-16,473425095052677,342760.39,5271035.11,430.055,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,3.85,,(mg/L of C),RBPGL,COMB4
+L9017_1.3_20210411,L9017-1.3,2021-04-11,473425095052677,342760.39,5271035.11,430.055,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,4.13,,(mg/L of C),RBPGL,COMB4
+L9017_1.3_20210422,L9017-1.3,2021-04-22,473425095052677,342760.39,5271035.11,430.055,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,3.98,,(mg/L of C),RBPGL,COMB4
+L9017_1.3_20210429,L9017-1.3,2021-04-29,473425095052677,342760.39,5271035.11,430.055,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,4.19,,(mg/L of C),RBPGL,COMB4
+L9017_2.5_20210312,L9017-2.5,2021-03-12,473425095052687,342758.38,5271037.77,430.109,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,8.27,,(mg/L of C),RBPGL,COMB4
+L9017_2.5_20210318,L9017-2.5,2021-03-18,473425095052687,342758.38,5271037.77,430.109,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,6.04,,(mg/L of C),RBPGL,COMB4
+L9017_2.5_20210325,L9017-2.5,2021-03-25,473425095052687,342758.38,5271037.77,430.109,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,6.18,,(mg/L of C),RBPGL,COMB4
+L9017_2.5_20210404,L9017-2.5,2021-04-04,473425095052687,342758.38,5271037.77,430.109,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,7.21,,(mg/L of C),RBPGL,COMB4
+L9017_2.5_20210411,L9017-2.5,2021-04-11,473425095052687,342758.38,5271037.77,430.109,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,5.68,,(mg/L of C),RBPGL,COMB4
+L9017_2.5_20210416,L9017-2.5,2021-04-16,473425095052687,342758.38,5271037.77,430.109,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,7.41,,(mg/L of C),RBPGL,COMB4
+L9017_2.5_20210422,L9017-2.5,2021-04-22,473425095052687,342758.38,5271037.77,430.109,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,6.27,,(mg/L of C),RBPGL,COMB4
+L9017_2.5_20210429,L9017-2.5,2021-04-29,473425095052687,342758.38,5271037.77,430.109,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,5.19,,(mg/L of C),RBPGL,COMB4
+L9017_3.7_20210312,L9017-3.7,2021-03-12,473425095052682,342759.47,5271036.87,430.055,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,27.2,,(mg/L of C),RBPGL,COMB4
+L9017_3.7_20210318,L9017-3.7,2021-03-18,473425095052682,342759.47,5271036.87,430.055,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,19.0,,(mg/L of C),RBPGL,COMB4
+L9017_3.7_20210404,L9017-3.7,2021-04-04,473425095052682,342759.47,5271036.87,430.055,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,14.2,,(mg/L of C),RBPGL,COMB4
+L9017_3.7_20210411,L9017-3.7,2021-04-11,473425095052682,342759.47,5271036.87,430.055,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,17.0,,(mg/L of C),RBPGL,COMB4
+L9017_3.7_20210416,L9017-3.7,2021-04-16,473425095052682,342759.47,5271036.87,430.055,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,17.3,,(mg/L of C),RBPGL,COMB4
+L9017_3.7_20210422,L9017-3.7,2021-04-22,473425095052682,342759.47,5271036.87,430.055,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,20.6,,(mg/L of C),RBPGL,COMB4
+L9017_3.7_20210429,L9017-3.7,2021-04-29,473425095052682,342759.47,5271036.87,430.055,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",NVDOC,39.6,,(mg/L of C),RBPGL,COMB4
+L1802_1.8_20180628,L1802-1.8,2018-06-28,,342698.85,5270942.37,429.393,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,447,,(mg/L of bicarbonate),RBPGL,TT097
+L1802_3.3_20180628,L1802-3.3,2018-06-28,,342699.31,5270943.24,429.436,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,465,,(mg/L of bicarbonate),RBPGL,TT097
+L1802_3.3_20180702,L1802-3.3,2018-07-02,,342699.31,5270943.24,429.436,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,504,,(mg/L of bicarbonate),RBPGL,TT097
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,164,,(mg/L of bicarbonate),RBPGL,TT097
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,120,,(mg/L of bicarbonate),RBPGL,TT097
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,624,,(mg/L of bicarbonate),RBPGL,TT097
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,652,,(mg/L of bicarbonate),RBPGL,TT097
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,336,,(mg/L of bicarbonate),RBPGL,TT097
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,420,,(mg/L of bicarbonate),RBPGL,TT097
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,527,,(mg/L of bicarbonate),RBPGL,TT097
+L310_1.5_20210312,L310-1.5,2021-03-12,,342605.76,5270952.42,433.453,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,200,,(mg/L of bicarbonate),RBPGL,TT097
+L310_1.5_20210411,L310-1.5,2021-04-11,,342605.76,5270952.42,433.453,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,201,,(mg/L of bicarbonate),RBPGL,TT097
+L310_1.5_20210416,L310-1.5,2021-04-16,,342605.76,5270952.42,433.453,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,210,,(mg/L of bicarbonate),RBPGL,TT097
+L310_1.5_20210422,L310-1.5,2021-04-22,,342605.76,5270952.42,433.453,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,181,,(mg/L of bicarbonate),RBPGL,TT097
+L310_1.5_20210429,L310-1.5,2021-04-29,,342605.76,5270952.42,433.453,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,222,,(mg/L of bicarbonate),RBPGL,TT097
+L310_4.5_20210312,L310-4.5,2021-03-12,,342604.47,5270953.06,433.572,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,227,,(mg/L of bicarbonate),RBPGL,TT097
+L310_4.5_20210318,L310-4.5,2021-03-18,,342604.47,5270953.06,433.572,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,254,,(mg/L of bicarbonate),RBPGL,TT097
+L310_4.5_20210325,L310-4.5,2021-03-25,,342604.47,5270953.06,433.572,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,272,,(mg/L of bicarbonate),RBPGL,TT097
+L310_4.5_20210404,L310-4.5,2021-04-04,,342604.47,5270953.06,433.572,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,267,,(mg/L of bicarbonate),RBPGL,TT097
+L310_4.5_20210411,L310-4.5,2021-04-11,,342604.47,5270953.06,433.572,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,271,,(mg/L of bicarbonate),RBPGL,TT097
+L310_4.5_20210416,L310-4.5,2021-04-16,,342604.47,5270953.06,433.572,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,272,,(mg/L of bicarbonate),RBPGL,TT097
+L310_4.5_20210422,L310-4.5,2021-04-22,,342604.47,5270953.06,433.572,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,254,,(mg/L of bicarbonate),RBPGL,TT097
+L310_4.5_20210429,L310-4.5,2021-04-29,,342604.47,5270953.06,433.572,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,256,,(mg/L of bicarbonate),RBPGL,TT097
+L9014_1.5_20210318,L9014-1.5,2021-03-18,473426095052509,342794.83,5271049.55,430.335,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,141,,(mg/L of bicarbonate),RBPGL,TT097
+L9014_1.5_20210411,L9014-1.5,2021-04-11,473426095052509,342794.83,5271049.55,430.335,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,151,,(mg/L of bicarbonate),RBPGL,TT097
+L9014_1.5_20210416,L9014-1.5,2021-04-16,473426095052509,342794.83,5271049.55,430.335,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,161,,(mg/L of bicarbonate),RBPGL,TT097
+L9014_1.5_20210422,L9014-1.5,2021-04-22,473426095052509,342794.83,5271049.55,430.335,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,138,,(mg/L of bicarbonate),RBPGL,TT097
+L9014_1.5_20210429,L9014-1.5,2021-04-29,473426095052509,342794.83,5271049.55,430.335,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,141,,(mg/L of bicarbonate),RBPGL,TT097
+L9014_3.0_20210404,L9014-3.0,2021-04-04,473426095052510,342794.05,5271050.17,430.344,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,546,,(mg/L of bicarbonate),RBPGL,TT097
+L9014_3.0_20210411,L9014-3.0,2021-04-11,473426095052510,342794.05,5271050.17,430.344,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,560,,(mg/L of bicarbonate),RBPGL,TT097
+L9014_3.0_20210416,L9014-3.0,2021-04-16,473426095052510,342794.05,5271050.17,430.344,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,576,,(mg/L of bicarbonate),RBPGL,TT097
+L9014_3.0_20210422,L9014-3.0,2021-04-22,473426095052510,342794.05,5271050.17,430.344,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,503,,(mg/L of bicarbonate),RBPGL,TT097
+L9014_3.0_20210429,L9014-3.0,2021-04-29,473426095052510,342794.05,5271050.17,430.344,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,468,,(mg/L of bicarbonate),RBPGL,TT097
+L9014_4.5_20210312,L9014-4.5,2021-03-12,473426095052511,342793.30,5271051.13,430.350,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,616,,(mg/L of bicarbonate),RBPGL,TT097
+L9014_4.5_20210318,L9014-4.5,2021-03-18,473426095052511,342793.30,5271051.13,430.350,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,793,,(mg/L of bicarbonate),RBPGL,TT097
+L9014_4.5_20210325,L9014-4.5,2021-03-25,473426095052511,342793.30,5271051.13,430.350,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,780,,(mg/L of bicarbonate),RBPGL,TT097
+L9014_4.5_20210404,L9014-4.5,2021-04-04,473426095052511,342793.30,5271051.13,430.350,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,804,,(mg/L of bicarbonate),RBPGL,TT097
+L9014_4.5_20210411,L9014-4.5,2021-04-11,473426095052511,342793.30,5271051.13,430.350,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,829,,(mg/L of bicarbonate),RBPGL,TT097
+L9014_4.5_20210416,L9014-4.5,2021-04-16,473426095052511,342793.30,5271051.13,430.350,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,778,,(mg/L of bicarbonate),RBPGL,TT097
+L9014_4.5_20210422,L9014-4.5,2021-04-22,473426095052511,342793.30,5271051.13,430.350,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,749,,(mg/L of bicarbonate),RBPGL,TT097
+L9014_4.5_20210429,L9014-4.5,2021-04-29,473426095052511,342793.30,5271051.13,430.350,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,724,,(mg/L of bicarbonate),RBPGL,TT097
+L9017_1.3_20210312,L9017-1.3,2021-03-12,473425095052677,342760.39,5271035.11,430.055,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,321,,(mg/L of bicarbonate),RBPGL,TT097
+L9017_1.3_20210318,L9017-1.3,2021-03-18,473425095052677,342760.39,5271035.11,430.055,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,333,,(mg/L of bicarbonate),RBPGL,TT097
+L9017_1.3_20210404,L9017-1.3,2021-04-04,473425095052677,342760.39,5271035.11,430.055,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,377,,(mg/L of bicarbonate),RBPGL,TT097
+L9017_1.3_20210416,L9017-1.3,2021-04-16,473425095052677,342760.39,5271035.11,430.055,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,373,,(mg/L of bicarbonate),RBPGL,TT097
+L9017_1.3_20210411,L9017-1.3,2021-04-11,473425095052677,342760.39,5271035.11,430.055,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,378,,(mg/L of bicarbonate),RBPGL,TT097
+L9017_1.3_20210422,L9017-1.3,2021-04-22,473425095052677,342760.39,5271035.11,430.055,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,340,,(mg/L of bicarbonate),RBPGL,TT097
+L9017_1.3_20210429,L9017-1.3,2021-04-29,473425095052677,342760.39,5271035.11,430.055,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,358,,(mg/L of bicarbonate),RBPGL,TT097
+L9017_2.5_20210312,L9017-2.5,2021-03-12,473425095052687,342758.38,5271037.77,430.109,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,568,,(mg/L of bicarbonate),RBPGL,TT097
+L9017_2.5_20210318,L9017-2.5,2021-03-18,473425095052687,342758.38,5271037.77,430.109,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,591,,(mg/L of bicarbonate),RBPGL,TT097
+L9017_2.5_20210325,L9017-2.5,2021-03-25,473425095052687,342758.38,5271037.77,430.109,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,586,,(mg/L of bicarbonate),RBPGL,TT097
+L9017_2.5_20210404,L9017-2.5,2021-04-04,473425095052687,342758.38,5271037.77,430.109,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,575,,(mg/L of bicarbonate),RBPGL,TT097
+L9017_2.5_20210411,L9017-2.5,2021-04-11,473425095052687,342758.38,5271037.77,430.109,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,568,,(mg/L of bicarbonate),RBPGL,TT097
+L9017_2.5_20210416,L9017-2.5,2021-04-16,473425095052687,342758.38,5271037.77,430.109,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,564,,(mg/L of bicarbonate),RBPGL,TT097
+L9017_2.5_20210422,L9017-2.5,2021-04-22,473425095052687,342758.38,5271037.77,430.109,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,518,,(mg/L of bicarbonate),RBPGL,TT097
+L9017_2.5_20210429,L9017-2.5,2021-04-29,473425095052687,342758.38,5271037.77,430.109,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,510,,(mg/L of bicarbonate),RBPGL,TT097
+L9017_3.7_20210312,L9017-3.7,2021-03-12,473425095052682,342759.47,5271036.87,430.055,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,670,,(mg/L of bicarbonate),RBPGL,TT097
+L9017_3.7_20210318,L9017-3.7,2021-03-18,473425095052682,342759.47,5271036.87,430.055,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,440,,(mg/L of bicarbonate),RBPGL,TT097
+L9017_3.7_20210404,L9017-3.7,2021-04-04,473425095052682,342759.47,5271036.87,430.055,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,574,,(mg/L of bicarbonate),RBPGL,TT097
+L9017_3.7_20210411,L9017-3.7,2021-04-11,473425095052682,342759.47,5271036.87,430.055,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,580,,(mg/L of bicarbonate),RBPGL,TT097
+L9017_3.7_20210416,L9017-3.7,2021-04-16,473425095052682,342759.47,5271036.87,430.055,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,609,,(mg/L of bicarbonate),RBPGL,TT097
+L9017_3.7_20210422,L9017-3.7,2021-04-22,473425095052682,342759.47,5271036.87,430.055,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,531,,(mg/L of bicarbonate),RBPGL,TT097
+L9017_3.7_20210429,L9017-3.7,2021-04-29,473425095052682,342759.47,5271036.87,430.055,"Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as bicarbonate",Alkalinity,547,,(mg/L of bicarbonate),RBPGL,TT097
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.575,,(mg N/L),RBPGL,PHN10
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.911,,(mg N/L),RBPGL,PHN10
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,1.25,,(mg N/L),RBPGL,PHN10
+L310_1.5_20210312,L310-1.5,2021-03-12,,342605.76,5270952.42,433.453,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L310_1.5_20210411,L310-1.5,2021-04-11,,342605.76,5270952.42,433.453,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L310_1.5_20210416,L310-1.5,2021-04-16,,342605.76,5270952.42,433.453,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L310_1.5_20210422,L310-1.5,2021-04-22,,342605.76,5270952.42,433.453,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L310_1.5_20210429,L310-1.5,2021-04-29,,342605.76,5270952.42,433.453,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L310_4.5_20210312,L310-4.5,2021-03-12,,342604.47,5270953.06,433.572,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L310_4.5_20210318,L310-4.5,2021-03-18,,342604.47,5270953.06,433.572,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L310_4.5_20210404,L310-4.5,2021-04-04,,342604.47,5270953.06,433.572,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L310_4.5_20210411,L310-4.5,2021-04-11,,342604.47,5270953.06,433.572,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L310_4.5_20210416,L310-4.5,2021-04-16,,342604.47,5270953.06,433.572,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L310_4.5_20210422,L310-4.5,2021-04-22,,342604.47,5270953.06,433.572,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L310_4.5_20210429,L310-4.5,2021-04-29,,342604.47,5270953.06,433.572,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9014_1.5_20210318,L9014-1.5,2021-03-18,473426095052509,342794.83,5271049.55,430.335,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9014_1.5_20210411,L9014-1.5,2021-04-11,473426095052509,342794.83,5271049.55,430.335,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9014_1.5_20210416,L9014-1.5,2021-04-16,473426095052509,342794.83,5271049.55,430.335,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9014_1.5_20210422,L9014-1.5,2021-04-22,473426095052509,342794.83,5271049.55,430.335,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9014_3.0_20210404,L9014-3.0,2021-04-04,473426095052510,342794.05,5271050.17,430.344,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9014_3.0_20210411,L9014-3.0,2021-04-11,473426095052510,342794.05,5271050.17,430.344,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9014_3.0_20210416,L9014-3.0,2021-04-16,473426095052510,342794.05,5271050.17,430.344,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9014_3.0_20210422,L9014-3.0,2021-04-22,473426095052510,342794.05,5271050.17,430.344,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9014_3.0_20210429,L9014-3.0,2021-04-29,473426095052510,342794.05,5271050.17,430.344,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9014_4.5_20210312,L9014-4.5,2021-03-12,473426095052511,342793.30,5271051.13,430.350,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,1.13,,(mg N/L),RBPGL,PHN10
+L9014_4.5_20210318,L9014-4.5,2021-03-18,473426095052511,342793.30,5271051.13,430.350,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,2.12,E_GTRL,(mg N/L),RBPGL,PHN10
+L9014_4.5_20210404,L9014-4.5,2021-04-04,473426095052511,342793.30,5271051.13,430.350,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,1.42,,(mg N/L),RBPGL,PHN10
+L9014_4.5_20210411,L9014-4.5,2021-04-11,473426095052511,342793.30,5271051.13,430.350,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,1.61,,(mg N/L),RBPGL,PHN10
+L9014_4.5_20210416,L9014-4.5,2021-04-16,473426095052511,342793.30,5271051.13,430.350,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,1.84,,(mg N/L),RBPGL,PHN10
+L9014_4.5_20210422,L9014-4.5,2021-04-22,473426095052511,342793.30,5271051.13,430.350,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,1.31,,(mg N/L),RBPGL,PHN10
+L9014_4.5_20210429,L9014-4.5,2021-04-29,473426095052511,342793.30,5271051.13,430.350,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,1.74,,(mg N/L),RBPGL,PHN10
+L9017_1.3_20210312,L9017-1.3,2021-03-12,473425095052677,342760.39,5271035.11,430.055,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9017_1.3_20210318,L9017-1.3,2021-03-18,473425095052677,342760.39,5271035.11,430.055,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9017_1.3_20210404,L9017-1.3,2021-04-04,473425095052677,342760.39,5271035.11,430.055,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9017_1.3_20210416,L9017-1.3,2021-04-16,473425095052677,342760.39,5271035.11,430.055,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9017_1.3_20210411,L9017-1.3,2021-04-11,473425095052677,342760.39,5271035.11,430.055,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9017_1.3_20210422,L9017-1.3,2021-04-22,473425095052677,342760.39,5271035.11,430.055,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9017_1.3_20210429,L9017-1.3,2021-04-29,473425095052677,342760.39,5271035.11,430.055,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9017_2.5_20210312,L9017-2.5,2021-03-12,473425095052687,342758.38,5271037.77,430.109,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9017_2.5_20210318,L9017-2.5,2021-03-18,473425095052687,342758.38,5271037.77,430.109,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9017_2.5_20210404,L9017-2.5,2021-04-04,473425095052687,342758.38,5271037.77,430.109,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9017_2.5_20210411,L9017-2.5,2021-04-11,473425095052687,342758.38,5271037.77,430.109,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9017_2.5_20210416,L9017-2.5,2021-04-16,473425095052687,342758.38,5271037.77,430.109,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9017_2.5_20210422,L9017-2.5,2021-04-22,473425095052687,342758.38,5271037.77,430.109,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9017_2.5_20210429,L9017-2.5,2021-04-29,473425095052687,342758.38,5271037.77,430.109,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.020,LTRL,(mg N/L),RBPGL,PHN10
+L9017_3.7_20210312,L9017-3.7,2021-03-12,473425095052682,342759.47,5271036.87,430.055,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.918,,(mg N/L),RBPGL,PHN10
+L9017_3.7_20210318,L9017-3.7,2021-03-18,473425095052682,342759.47,5271036.87,430.055,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.041,,(mg N/L),RBPGL,PHN10
+L9017_3.7_20210404,L9017-3.7,2021-04-04,473425095052682,342759.47,5271036.87,430.055,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.409,,(mg N/L),RBPGL,PHN10
+L9017_3.7_20210411,L9017-3.7,2021-04-11,473425095052682,342759.47,5271036.87,430.055,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.591,,(mg N/L),RBPGL,PHN10
+L9017_3.7_20210416,L9017-3.7,2021-04-16,473425095052682,342759.47,5271036.87,430.055,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.604,,(mg N/L),RBPGL,PHN10
+L9017_3.7_20210422,L9017-3.7,2021-04-22,473425095052682,342759.47,5271036.87,430.055,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.598,,(mg N/L),RBPGL,PHN10
+L9017_3.7_20210429,L9017-3.7,2021-04-29,473425095052682,342759.47,5271036.87,430.055,"Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen",Ammonia,0.436,,(mg N/L),RBPGL,PHN10
+L310_1.5_20210312,L310-1.5,2021-03-12,,342605.76,5270952.42,433.453,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L310_1.5_20210411,L310-1.5,2021-04-11,,342605.76,5270952.42,433.453,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L310_1.5_20210416,L310-1.5,2021-04-16,,342605.76,5270952.42,433.453,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L310_1.5_20210422,L310-1.5,2021-04-22,,342605.76,5270952.42,433.453,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L310_1.5_20210429,L310-1.5,2021-04-29,,342605.76,5270952.42,433.453,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L310_4.5_20210312,L310-4.5,2021-03-12,,342604.47,5270953.06,433.572,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L310_4.5_20210318,L310-4.5,2021-03-18,,342604.47,5270953.06,433.572,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L310_4.5_20210404,L310-4.5,2021-04-04,,342604.47,5270953.06,433.572,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L310_4.5_20210411,L310-4.5,2021-04-11,,342604.47,5270953.06,433.572,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L310_4.5_20210416,L310-4.5,2021-04-16,,342604.47,5270953.06,433.572,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L310_4.5_20210422,L310-4.5,2021-04-22,,342604.47,5270953.06,433.572,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L310_4.5_20210429,L310-4.5,2021-04-29,,342604.47,5270953.06,433.572,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9014_1.5_20210318,L9014-1.5,2021-03-18,473426095052509,342794.83,5271049.55,430.335,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9014_1.5_20210411,L9014-1.5,2021-04-11,473426095052509,342794.83,5271049.55,430.335,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9014_1.5_20210416,L9014-1.5,2021-04-16,473426095052509,342794.83,5271049.55,430.335,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9014_1.5_20210422,L9014-1.5,2021-04-22,473426095052509,342794.83,5271049.55,430.335,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9014_3.0_20210404,L9014-3.0,2021-04-04,473426095052510,342794.05,5271050.17,430.344,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9014_3.0_20210411,L9014-3.0,2021-04-11,473426095052510,342794.05,5271050.17,430.344,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9014_3.0_20210416,L9014-3.0,2021-04-16,473426095052510,342794.05,5271050.17,430.344,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9014_3.0_20210422,L9014-3.0,2021-04-22,473426095052510,342794.05,5271050.17,430.344,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9014_3.0_20210429,L9014-3.0,2021-04-29,473426095052510,342794.05,5271050.17,430.344,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9014_4.5_20210312,L9014-4.5,2021-03-12,473426095052511,342793.30,5271051.13,430.350,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9014_4.5_20210318,L9014-4.5,2021-03-18,473426095052511,342793.30,5271051.13,430.350,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9014_4.5_20210404,L9014-4.5,2021-04-04,473426095052511,342793.30,5271051.13,430.350,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9014_4.5_20210411,L9014-4.5,2021-04-11,473426095052511,342793.30,5271051.13,430.350,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9014_4.5_20210416,L9014-4.5,2021-04-16,473426095052511,342793.30,5271051.13,430.350,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9014_4.5_20210422,L9014-4.5,2021-04-22,473426095052511,342793.30,5271051.13,430.350,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9014_4.5_20210429,L9014-4.5,2021-04-29,473426095052511,342793.30,5271051.13,430.350,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9017_1.3_20210312,L9017-1.3,2021-03-12,473425095052677,342760.39,5271035.11,430.055,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9017_1.3_20210318,L9017-1.3,2021-03-18,473425095052677,342760.39,5271035.11,430.055,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9017_1.3_20210404,L9017-1.3,2021-04-04,473425095052677,342760.39,5271035.11,430.055,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9017_1.3_20210416,L9017-1.3,2021-04-16,473425095052677,342760.39,5271035.11,430.055,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9017_1.3_20210411,L9017-1.3,2021-04-11,473425095052677,342760.39,5271035.11,430.055,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9017_1.3_20210422,L9017-1.3,2021-04-22,473425095052677,342760.39,5271035.11,430.055,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9017_1.3_20210429,L9017-1.3,2021-04-29,473425095052677,342760.39,5271035.11,430.055,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9017_2.5_20210312,L9017-2.5,2021-03-12,473425095052687,342758.38,5271037.77,430.109,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.341,,(mg P/L),RBPGL,CL127
+L9017_2.5_20210318,L9017-2.5,2021-03-18,473425095052687,342758.38,5271037.77,430.109,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9017_2.5_20210404,L9017-2.5,2021-04-04,473425095052687,342758.38,5271037.77,430.109,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9017_2.5_20210411,L9017-2.5,2021-04-11,473425095052687,342758.38,5271037.77,430.109,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9017_2.5_20210416,L9017-2.5,2021-04-16,473425095052687,342758.38,5271037.77,430.109,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9017_2.5_20210421,L9017-2.5,2021-04-21,473425095052687,342758.38,5271037.77,430.109,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9017_2.5_20210429,L9017-2.5,2021-04-29,473425095052687,342758.38,5271037.77,430.109,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9017_3.7_20210312,L9017-3.7,2021-03-12,473425095052682,342759.47,5271036.87,430.055,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9017_3.7_20210318,L9017-3.7,2021-03-18,473425095052682,342759.47,5271036.87,430.055,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9017_3.7_20210404,L9017-3.7,2021-04-04,473425095052682,342759.47,5271036.87,430.055,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9017_3.7_20210411,L9017-3.7,2021-04-11,473425095052682,342759.47,5271036.87,430.055,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9017_3.7_20210416,L9017-3.7,2021-04-16,473425095052682,342759.47,5271036.87,430.055,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9017_3.7_20210421,L9017-3.7,2021-04-21,473425095052682,342759.47,5271036.87,430.055,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L9017_3.7_20210429,L9017-3.7,2021-04-29,473425095052682,342759.47,5271036.87,430.055,"Orthophosphate, water, filtered, ascorbic acid colorimetry",Orthophosphate,0.250,LTRL,(mg P/L),RBPGL,CL127
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Sodium, water, filtered, milligrams per liter",Sodium,12.6,,(mg/L),MERI,LIC09
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Sodium, water, filtered, milligrams per liter",Sodium,10.7,,(mg/L),MERI,LIC09
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Sodium, water, filtered, milligrams per liter",Sodium,2.85,,(mg/L),MERI,LIC09
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Sodium, water, filtered, milligrams per liter",Sodium,1.06,E,(mg/L),MERI,LIC09
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Sodium, water, filtered, milligrams per liter",Sodium,1.10,E,(mg/L),MERI,LIC09
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Sodium, water, filtered, milligrams per liter",Sodium,2.05,,(mg/L),MERI,LIC09
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Sodium, water, filtered, milligrams per liter",Sodium,2.87,,(mg/L),MERI,LIC09
+L310_4.5_20210318,L310-4.5,2021-03-18,,342604.47,5270953.06,433.572,"Sodium, water, filtered, milligrams per liter",Sodium,0.590,E,(mg/L),MERI,LIC09
+L310_4.5_20210404,L310-4.5,2021-04-04,,342604.47,5270953.06,433.572,"Sodium, water, filtered, milligrams per liter",Sodium,0.331,LTMDL,(mg/L),MERI,LIC09
+L9014_3.0_20210429,L9014-3.0,2021-04-29,473426095052510,342794.05,5271050.17,430.344,"Sodium, water, filtered, milligrams per liter",Sodium,0.370,E,(mg/L),MERI,LIC09
+L9014_4.5_20210325,L9014-4.5,2021-03-25,473426095052511,342793.30,5271051.13,430.350,"Sodium, water, filtered, milligrams per liter",Sodium,1.21,E,(mg/L),MERI,LIC09
+L9014_4.5_20210411,L9014-4.5,2021-04-11,473426095052511,342793.30,5271051.13,430.350,"Sodium, water, filtered, milligrams per liter",Sodium,0.590,E,(mg/L),MERI,LIC09
+L9014_4.5_20210422,L9014-4.5,2021-04-22,473426095052511,342793.30,5271051.13,430.350,"Sodium, water, filtered, milligrams per liter",Sodium,1.36,E,(mg/L),MERI,LIC09
+L9017_3.7_20210318,L9017-3.7,2021-03-18,473425095052682,342759.47,5271036.87,430.055,"Sodium, water, filtered, milligrams per liter",Sodium,0.370,E,(mg/L),MERI,LIC09
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Potassium, water, filtered, milligrams per liter",Potassium,1.56,,(mg/L),MERI,LIC09
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Potassium, water, filtered, milligrams per liter",Potassium,1.68,,(mg/L),MERI,LIC09
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Potassium, water, filtered, milligrams per liter",Potassium,0.725,E,(mg/L),MERI,LIC09
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Potassium, water, filtered, milligrams per liter",Potassium,0.700,E,(mg/L),MERI,LIC09
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Potassium, water, filtered, milligrams per liter",Potassium,0.545,E,(mg/L),MERI,LIC09
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Potassium, water, filtered, milligrams per liter",Potassium,0.925,,(mg/L),MERI,LIC09
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Potassium, water, filtered, milligrams per liter",Potassium,1.55,,(mg/L),MERI,LIC09
+L310_4.5_20210411,L310-4.5,2021-04-11,,342604.47,5270953.06,433.572,"Potassium, water, filtered, milligrams per liter",Potassium,2.00,,(mg/L),MERI,LIC09
+L9014_3.0_20210429,L9014-3.0,2021-04-29,473426095052510,342794.05,5271050.17,430.344,"Potassium, water, filtered, milligrams per liter",Potassium,5.99,,(mg/L),MERI,LIC09
+L9014_4.5_20210411,L9014-4.5,2021-04-11,473426095052511,342793.30,5271051.13,430.350,"Potassium, water, filtered, milligrams per liter",Potassium,1.33,,(mg/L),MERI,LIC09
+L9017_2.5_20210411,L9017-2.5,2021-04-11,473425095052687,342758.38,5271037.77,430.109,"Potassium, water, filtered, milligrams per liter",Potassium,0.930,,(mg/L),MERI,LIC09
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Calcium, water, filtered, milligrams per liter",Calcium,74.6,,(mg/L),MERI,LIC09
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Calcium, water, filtered, milligrams per liter",Calcium,22.0,,(mg/L),MERI,LIC09
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Calcium, water, filtered, milligrams per liter",Calcium,158,,(mg/L),MERI,LIC09
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Calcium, water, filtered, milligrams per liter",Calcium,169,,(mg/L),MERI,LIC09
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Calcium, water, filtered, milligrams per liter",Calcium,82.2,,(mg/L),MERI,LIC09
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Calcium, water, filtered, milligrams per liter",Calcium,101,,(mg/L),MERI,LIC09
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Calcium, water, filtered, milligrams per liter",Calcium,128,,(mg/L),MERI,LIC09
+L310_1.5_20210312,L310-1.5,2021-03-12,,342605.76,5270952.42,433.453,"Calcium, water, filtered, milligrams per liter",Calcium,13.3,,(mg/L),MERI,LIC09
+L310_1.5_20210411,L310-1.5,2021-04-11,,342605.76,5270952.42,433.453,"Calcium, water, filtered, milligrams per liter",Calcium,13.5,,(mg/L),MERI,LIC09
+L310_1.5_20210416,L310-1.5,2021-04-16,,342605.76,5270952.42,433.453,"Calcium, water, filtered, milligrams per liter",Calcium,11.0,,(mg/L),MERI,LIC09
+L310_1.5_20210422,L310-1.5,2021-04-22,,342605.76,5270952.42,433.453,"Calcium, water, filtered, milligrams per liter",Calcium,14.4,,(mg/L),MERI,LIC09
+L310_1.5_20210429,L310-1.5,2021-04-29,,342605.76,5270952.42,433.453,"Calcium, water, filtered, milligrams per liter",Calcium,14.2,,(mg/L),MERI,LIC09
+L310_4.5_20210312,L310-4.5,2021-03-12,,342604.47,5270953.06,433.572,"Calcium, water, filtered, milligrams per liter",Calcium,8.40,,(mg/L),MERI,LIC09
+L310_4.5_20210318,L310-4.5,2021-03-18,,342604.47,5270953.06,433.572,"Calcium, water, filtered, milligrams per liter",Calcium,15.6,,(mg/L),MERI,LIC09
+L310_4.5_20210404,L310-4.5,2021-04-04,,342604.47,5270953.06,433.572,"Calcium, water, filtered, milligrams per liter",Calcium,12.1,,(mg/L),MERI,LIC09
+L310_4.5_20210411,L310-4.5,2021-04-11,,342604.47,5270953.06,433.572,"Calcium, water, filtered, milligrams per liter",Calcium,19.3,,(mg/L),MERI,LIC09
+L310_4.5_20210416,L310-4.5,2021-04-16,,342604.47,5270953.06,433.572,"Calcium, water, filtered, milligrams per liter",Calcium,13.3,,(mg/L),MERI,LIC09
+L310_4.5_20210422,L310-4.5,2021-04-22,,342604.47,5270953.06,433.572,"Calcium, water, filtered, milligrams per liter",Calcium,17.8,,(mg/L),MERI,LIC09
+L310_4.5_20210429,L310-4.5,2021-04-29,,342604.47,5270953.06,433.572,"Calcium, water, filtered, milligrams per liter",Calcium,13.9,,(mg/L),MERI,LIC09
+L9014_3.0_20210404,L9014-3.0,2021-04-04,473426095052510,342794.05,5271050.17,430.344,"Calcium, water, filtered, milligrams per liter",Calcium,31.2,,(mg/L),MERI,LIC09
+L9014_3.0_20210411,L9014-3.0,2021-04-11,473426095052510,342794.05,5271050.17,430.344,"Calcium, water, filtered, milligrams per liter",Calcium,39.8,,(mg/L),MERI,LIC09
+L9014_3.0_20210416,L9014-3.0,2021-04-16,473426095052510,342794.05,5271050.17,430.344,"Calcium, water, filtered, milligrams per liter",Calcium,36.7,,(mg/L),MERI,LIC09
+L9014_3.0_20210422,L9014-3.0,2021-04-22,473426095052510,342794.05,5271050.17,430.344,"Calcium, water, filtered, milligrams per liter",Calcium,39.5,,(mg/L),MERI,LIC09
+L9014_3.0_20210429,L9014-3.0,2021-04-29,473426095052510,342794.05,5271050.17,430.344,"Calcium, water, filtered, milligrams per liter",Calcium,38.3,,(mg/L),MERI,LIC09
+L9014_4.5_20210312,L9014-4.5,2021-03-12,473426095052511,342793.30,5271051.13,430.350,"Calcium, water, filtered, milligrams per liter",Calcium,39.2,,(mg/L),MERI,LIC09
+L9014_4.5_20210318,L9014-4.5,2021-03-18,473426095052511,342793.30,5271051.13,430.350,"Calcium, water, filtered, milligrams per liter",Calcium,49.9,,(mg/L),MERI,LIC09
+L9014_4.5_20210325,L9014-4.5,2021-03-25,473426095052511,342793.30,5271051.13,430.350,"Calcium, water, filtered, milligrams per liter",Calcium,59.4,,(mg/L),MERI,LIC09
+L9014_4.5_20210404,L9014-4.5,2021-04-04,473426095052511,342793.30,5271051.13,430.350,"Calcium, water, filtered, milligrams per liter",Calcium,41.3,,(mg/L),MERI,LIC09
+L9014_4.5_20210411,L9014-4.5,2021-04-11,473426095052511,342793.30,5271051.13,430.350,"Calcium, water, filtered, milligrams per liter",Calcium,127,,(mg/L),MERI,LIC09
+L9014_4.5_20210416,L9014-4.5,2021-04-16,473426095052511,342793.30,5271051.13,430.350,"Calcium, water, filtered, milligrams per liter",Calcium,58.2,,(mg/L),MERI,LIC09
+L9014_4.5_20210422,L9014-4.5,2021-04-22,473426095052511,342793.30,5271051.13,430.350,"Calcium, water, filtered, milligrams per liter",Calcium,55.2,,(mg/L),MERI,LIC09
+L9014_4.5_20210429,L9014-4.5,2021-04-29,473426095052511,342793.30,5271051.13,430.350,"Calcium, water, filtered, milligrams per liter",Calcium,56.8,,(mg/L),MERI,LIC09
+L9017_1.3_20210312,L9017-1.3,2021-03-12,473425095052677,342760.39,5271035.11,430.055,"Calcium, water, filtered, milligrams per liter",Calcium,16.2,,(mg/L),MERI,LIC09
+L9017_1.3_20210318,L9017-1.3,2021-03-18,473425095052677,342760.39,5271035.11,430.055,"Calcium, water, filtered, milligrams per liter",Calcium,23.9,,(mg/L),MERI,LIC09
+L9017_1.3_20210404,L9017-1.3,2021-04-04,473425095052677,342760.39,5271035.11,430.055,"Calcium, water, filtered, milligrams per liter",Calcium,25.3,,(mg/L),MERI,LIC09
+L9017_1.3_20210416,L9017-1.3,2021-04-16,473425095052677,342760.39,5271035.11,430.055,"Calcium, water, filtered, milligrams per liter",Calcium,28.7,,(mg/L),MERI,LIC09
+L9017_1.3_20210411,L9017-1.3,2021-04-11,473425095052677,342760.39,5271035.11,430.055,"Calcium, water, filtered, milligrams per liter",Calcium,28.2,,(mg/L),MERI,LIC09
+L9017_1.3_20210422,L9017-1.3,2021-04-22,473425095052677,342760.39,5271035.11,430.055,"Calcium, water, filtered, milligrams per liter",Calcium,28.2,,(mg/L),MERI,LIC09
+L9017_1.3_20210429,L9017-1.3,2021-04-29,473425095052677,342760.39,5271035.11,430.055,"Calcium, water, filtered, milligrams per liter",Calcium,25.7,,(mg/L),MERI,LIC09
+L9017_2.5_20210312,L9017-2.5,2021-03-12,473425095052687,342758.38,5271037.77,430.109,"Calcium, water, filtered, milligrams per liter",Calcium,24.1,,(mg/L),MERI,LIC09
+L9017_2.5_20210318,L9017-2.5,2021-03-18,473425095052687,342758.38,5271037.77,430.109,"Calcium, water, filtered, milligrams per liter",Calcium,34.0,,(mg/L),MERI,LIC09
+L9017_2.5_20210325,L9017-2.5,2021-03-25,473425095052687,342758.38,5271037.77,430.109,"Calcium, water, filtered, milligrams per liter",Calcium,29.1,,(mg/L),MERI,LIC09
+L9017_2.5_20210404,L9017-2.5,2021-04-04,473425095052687,342758.38,5271037.77,430.109,"Calcium, water, filtered, milligrams per liter",Calcium,30.5,,(mg/L),MERI,LIC09
+L9017_2.5_20210411,L9017-2.5,2021-04-11,473425095052687,342758.38,5271037.77,430.109,"Calcium, water, filtered, milligrams per liter",Calcium,91.6,,(mg/L),MERI,LIC09
+L9017_2.5_20210416,L9017-2.5,2021-04-16,473425095052687,342758.38,5271037.77,430.109,"Calcium, water, filtered, milligrams per liter",Calcium,39.4,,(mg/L),MERI,LIC09
+L9017_2.5_20210422,L9017-2.5,2021-04-22,473425095052687,342758.38,5271037.77,430.109,"Calcium, water, filtered, milligrams per liter",Calcium,42.8,,(mg/L),MERI,LIC09
+L9017_2.5_20210429,L9017-2.5,2021-04-29,473425095052687,342758.38,5271037.77,430.109,"Calcium, water, filtered, milligrams per liter",Calcium,39.1,,(mg/L),MERI,LIC09
+L9017_3.7_20210312,L9017-3.7,2021-03-12,473425095052682,342759.47,5271036.87,430.055,"Calcium, water, filtered, milligrams per liter",Calcium,30.0,,(mg/L),MERI,LIC09
+L9017_3.7_20210318,L9017-3.7,2021-03-18,473425095052682,342759.47,5271036.87,430.055,"Calcium, water, filtered, milligrams per liter",Calcium,22.3,,(mg/L),MERI,LIC09
+L9017_3.7_20210404,L9017-3.7,2021-04-04,473425095052682,342759.47,5271036.87,430.055,"Calcium, water, filtered, milligrams per liter",Calcium,29.3,,(mg/L),MERI,LIC09
+L9017_3.7_20210411,L9017-3.7,2021-04-11,473425095052682,342759.47,5271036.87,430.055,"Calcium, water, filtered, milligrams per liter",Calcium,40.3,,(mg/L),MERI,LIC09
+L9017_3.7_20210416,L9017-3.7,2021-04-16,473425095052682,342759.47,5271036.87,430.055,"Calcium, water, filtered, milligrams per liter",Calcium,29.7,,(mg/L),MERI,LIC09
+L9017_3.7_20210422,L9017-3.7,2021-04-22,473425095052682,342759.47,5271036.87,430.055,"Calcium, water, filtered, milligrams per liter",Calcium,28.2,,(mg/L),MERI,LIC09
+L9017_3.7_20210429,L9017-3.7,2021-04-29,473425095052682,342759.47,5271036.87,430.055,"Calcium, water, filtered, milligrams per liter",Calcium,32.8,,(mg/L),MERI,LIC09
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Magnesium, water, filtered, milligrams per liter",Magnesium,15.2,,(mg/L),MERI,LIC09
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Magnesium, water, filtered, milligrams per liter",Magnesium,6.25,,(mg/L),MERI,LIC09
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Magnesium, water, filtered, milligrams per liter",Magnesium,22.1,,(mg/L),MERI,LIC09
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Magnesium, water, filtered, milligrams per liter",Magnesium,11.6,,(mg/L),MERI,LIC09
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Magnesium, water, filtered, milligrams per liter",Magnesium,9.91,,(mg/L),MERI,LIC09
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Magnesium, water, filtered, milligrams per liter",Magnesium,12.8,,(mg/L),MERI,LIC09
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Magnesium, water, filtered, milligrams per liter",Magnesium,14.4,,(mg/L),MERI,LIC09
+L310_1.5_20210312,L310-1.5,2021-03-12,,342605.76,5270952.42,433.453,"Magnesium, water, filtered, milligrams per liter",Magnesium,1.90,,(mg/L),MERI,LIC09
+L310_1.5_20210411,L310-1.5,2021-04-11,,342605.76,5270952.42,433.453,"Magnesium, water, filtered, milligrams per liter",Magnesium,2.71,,(mg/L),MERI,LIC09
+L310_1.5_20210416,L310-1.5,2021-04-16,,342605.76,5270952.42,433.453,"Magnesium, water, filtered, milligrams per liter",Magnesium,1.58,,(mg/L),MERI,LIC09
+L310_1.5_20210422,L310-1.5,2021-04-22,,342605.76,5270952.42,433.453,"Magnesium, water, filtered, milligrams per liter",Magnesium,2.14,,(mg/L),MERI,LIC09
+L310_1.5_20210429,L310-1.5,2021-04-29,,342605.76,5270952.42,433.453,"Magnesium, water, filtered, milligrams per liter",Magnesium,2.01,,(mg/L),MERI,LIC09
+L310_4.5_20210312,L310-4.5,2021-03-12,,342604.47,5270953.06,433.572,"Magnesium, water, filtered, milligrams per liter",Magnesium,1.70,,(mg/L),MERI,LIC09
+L310_4.5_20210318,L310-4.5,2021-03-18,,342604.47,5270953.06,433.572,"Magnesium, water, filtered, milligrams per liter",Magnesium,3.24,,(mg/L),MERI,LIC09
+L310_4.5_20210404,L310-4.5,2021-04-04,,342604.47,5270953.06,433.572,"Magnesium, water, filtered, milligrams per liter",Magnesium,2.35,,(mg/L),MERI,LIC09
+L310_4.5_20210411,L310-4.5,2021-04-11,,342604.47,5270953.06,433.572,"Magnesium, water, filtered, milligrams per liter",Magnesium,3.85,,(mg/L),MERI,LIC09
+L310_4.5_20210416,L310-4.5,2021-04-16,,342604.47,5270953.06,433.572,"Magnesium, water, filtered, milligrams per liter",Magnesium,2.12,,(mg/L),MERI,LIC09
+L310_4.5_20210422,L310-4.5,2021-04-22,,342604.47,5270953.06,433.572,"Magnesium, water, filtered, milligrams per liter",Magnesium,3.41,,(mg/L),MERI,LIC09
+L310_4.5_20210429,L310-4.5,2021-04-29,,342604.47,5270953.06,433.572,"Magnesium, water, filtered, milligrams per liter",Magnesium,2.41,,(mg/L),MERI,LIC09
+L9014_3.0_20210404,L9014-3.0,2021-04-04,473426095052510,342794.05,5271050.17,430.344,"Magnesium, water, filtered, milligrams per liter",Magnesium,2.91,,(mg/L),MERI,LIC09
+L9014_3.0_20210411,L9014-3.0,2021-04-11,473426095052510,342794.05,5271050.17,430.344,"Magnesium, water, filtered, milligrams per liter",Magnesium,4.49,,(mg/L),MERI,LIC09
+L9014_3.0_20210416,L9014-3.0,2021-04-16,473426095052510,342794.05,5271050.17,430.344,"Magnesium, water, filtered, milligrams per liter",Magnesium,3.45,,(mg/L),MERI,LIC09
+L9014_3.0_20210422,L9014-3.0,2021-04-22,473426095052510,342794.05,5271050.17,430.344,"Magnesium, water, filtered, milligrams per liter",Magnesium,3.72,,(mg/L),MERI,LIC09
+L9014_3.0_20210429,L9014-3.0,2021-04-29,473426095052510,342794.05,5271050.17,430.344,"Magnesium, water, filtered, milligrams per liter",Magnesium,3.66,,(mg/L),MERI,LIC09
+L9014_4.5_20210312,L9014-4.5,2021-03-12,473426095052511,342793.30,5271051.13,430.350,"Magnesium, water, filtered, milligrams per liter",Magnesium,2.74,,(mg/L),MERI,LIC09
+L9014_4.5_20210318,L9014-4.5,2021-03-18,473426095052511,342793.30,5271051.13,430.350,"Magnesium, water, filtered, milligrams per liter",Magnesium,3.47,,(mg/L),MERI,LIC09
+L9014_4.5_20210325,L9014-4.5,2021-03-25,473426095052511,342793.30,5271051.13,430.350,"Magnesium, water, filtered, milligrams per liter",Magnesium,4.10,,(mg/L),MERI,LIC09
+L9014_4.5_20210404,L9014-4.5,2021-04-04,473426095052511,342793.30,5271051.13,430.350,"Magnesium, water, filtered, milligrams per liter",Magnesium,2.88,,(mg/L),MERI,LIC09
+L9014_4.5_20210411,L9014-4.5,2021-04-11,473426095052511,342793.30,5271051.13,430.350,"Magnesium, water, filtered, milligrams per liter",Magnesium,4.94,,(mg/L),MERI,LIC09
+L9014_4.5_20210416,L9014-4.5,2021-04-16,473426095052511,342793.30,5271051.13,430.350,"Magnesium, water, filtered, milligrams per liter",Magnesium,3.84,,(mg/L),MERI,LIC09
+L9014_4.5_20210422,L9014-4.5,2021-04-22,473426095052511,342793.30,5271051.13,430.350,"Magnesium, water, filtered, milligrams per liter",Magnesium,4.18,,(mg/L),MERI,LIC09
+L9014_4.5_20210429,L9014-4.5,2021-04-29,473426095052511,342793.30,5271051.13,430.350,"Magnesium, water, filtered, milligrams per liter",Magnesium,3.85,,(mg/L),MERI,LIC09
+L9017_1.3_20210312,L9017-1.3,2021-03-12,473425095052677,342760.39,5271035.11,430.055,"Magnesium, water, filtered, milligrams per liter",Magnesium,1.50,,(mg/L),MERI,LIC09
+L9017_1.3_20210318,L9017-1.3,2021-03-18,473425095052677,342760.39,5271035.11,430.055,"Magnesium, water, filtered, milligrams per liter",Magnesium,1.93,,(mg/L),MERI,LIC09
+L9017_1.3_20210404,L9017-1.3,2021-04-04,473425095052677,342760.39,5271035.11,430.055,"Magnesium, water, filtered, milligrams per liter",Magnesium,1.93,,(mg/L),MERI,LIC09
+L9017_1.3_20210416,L9017-1.3,2021-04-16,473425095052677,342760.39,5271035.11,430.055,"Magnesium, water, filtered, milligrams per liter",Magnesium,2.36,,(mg/L),MERI,LIC09
+L9017_1.3_20210411,L9017-1.3,2021-04-11,473425095052677,342760.39,5271035.11,430.055,"Magnesium, water, filtered, milligrams per liter",Magnesium,2.00,,(mg/L),MERI,LIC09
+L9017_1.3_20210422,L9017-1.3,2021-04-22,473425095052677,342760.39,5271035.11,430.055,"Magnesium, water, filtered, milligrams per liter",Magnesium,2.44,,(mg/L),MERI,LIC09
+L9017_1.3_20210429,L9017-1.3,2021-04-29,473425095052677,342760.39,5271035.11,430.055,"Magnesium, water, filtered, milligrams per liter",Magnesium,2.00,,(mg/L),MERI,LIC09
+L9017_2.5_20210312,L9017-2.5,2021-03-12,473425095052687,342758.38,5271037.77,430.109,"Magnesium, water, filtered, milligrams per liter",Magnesium,2.22,,(mg/L),MERI,LIC09
+L9017_2.5_20210318,L9017-2.5,2021-03-18,473425095052687,342758.38,5271037.77,430.109,"Magnesium, water, filtered, milligrams per liter",Magnesium,2.92,,(mg/L),MERI,LIC09
+L9017_2.5_20210325,L9017-2.5,2021-03-25,473425095052687,342758.38,5271037.77,430.109,"Magnesium, water, filtered, milligrams per liter",Magnesium,2.47,,(mg/L),MERI,LIC09
+L9017_2.5_20210404,L9017-2.5,2021-04-04,473425095052687,342758.38,5271037.77,430.109,"Magnesium, water, filtered, milligrams per liter",Magnesium,2.57,,(mg/L),MERI,LIC09
+L9017_2.5_20210411,L9017-2.5,2021-04-11,473425095052687,342758.38,5271037.77,430.109,"Magnesium, water, filtered, milligrams per liter",Magnesium,4.34,,(mg/L),MERI,LIC09
+L9017_2.5_20210416,L9017-2.5,2021-04-16,473425095052687,342758.38,5271037.77,430.109,"Magnesium, water, filtered, milligrams per liter",Magnesium,4.03,,(mg/L),MERI,LIC09
+L9017_2.5_20210422,L9017-2.5,2021-04-22,473425095052687,342758.38,5271037.77,430.109,"Magnesium, water, filtered, milligrams per liter",Magnesium,3.41,,(mg/L),MERI,LIC09
+L9017_2.5_20210429,L9017-2.5,2021-04-29,473425095052687,342758.38,5271037.77,430.109,"Magnesium, water, filtered, milligrams per liter",Magnesium,3.00,,(mg/L),MERI,LIC09
+L9017_3.7_20210312,L9017-3.7,2021-03-12,473425095052682,342759.47,5271036.87,430.055,"Magnesium, water, filtered, milligrams per liter",Magnesium,2.41,,(mg/L),MERI,LIC09
+L9017_3.7_20210318,L9017-3.7,2021-03-18,473425095052682,342759.47,5271036.87,430.055,"Magnesium, water, filtered, milligrams per liter",Magnesium,0.920,E,(mg/L),MERI,LIC09
+L9017_3.7_20210404,L9017-3.7,2021-04-04,473425095052682,342759.47,5271036.87,430.055,"Magnesium, water, filtered, milligrams per liter",Magnesium,2.06,,(mg/L),MERI,LIC09
+L9017_3.7_20210411,L9017-3.7,2021-04-11,473425095052682,342759.47,5271036.87,430.055,"Magnesium, water, filtered, milligrams per liter",Magnesium,2.68,,(mg/L),MERI,LIC09
+L9017_3.7_20210416,L9017-3.7,2021-04-16,473425095052682,342759.47,5271036.87,430.055,"Magnesium, water, filtered, milligrams per liter",Magnesium,2.12,,(mg/L),MERI,LIC09
+L9017_3.7_20210422,L9017-3.7,2021-04-22,473425095052682,342759.47,5271036.87,430.055,"Magnesium, water, filtered, milligrams per liter",Magnesium,1.95,,(mg/L),MERI,LIC09
+L9017_3.7_20210429,L9017-3.7,2021-04-29,473425095052682,342759.47,5271036.87,430.055,"Magnesium, water, filtered, milligrams per liter",Magnesium,2.36,,(mg/L),MERI,LIC09
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.122,,(mg/L),MERI,00109
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L310_1.5_20210312,L310-1.5,2021-03-12,,342605.76,5270952.42,433.453,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L310_1.5_20210411,L310-1.5,2021-04-11,,342605.76,5270952.42,433.453,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L310_1.5_20210416,L310-1.5,2021-04-16,,342605.76,5270952.42,433.453,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L310_1.5_20210422,L310-1.5,2021-04-22,,342605.76,5270952.42,433.453,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L310_1.5_20210429,L310-1.5,2021-04-29,,342605.76,5270952.42,433.453,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L310_4.5_20210312,L310-4.5,2021-03-12,,342604.47,5270953.06,433.572,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.350,,(mg/L),MERI,00109
+L310_4.5_20210318,L310-4.5,2021-03-18,,342604.47,5270953.06,433.572,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.100,,(mg/L),MERI,00109
+L310_4.5_20210325,L310-4.5,2021-03-25,,342604.47,5270953.06,433.572,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L310_4.5_20210404,L310-4.5,2021-04-04,,342604.47,5270953.06,433.572,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.100,,(mg/L),MERI,00109
+L310_4.5_20210411,L310-4.5,2021-04-11,,342604.47,5270953.06,433.572,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.100,,(mg/L),MERI,00109
+L310_4.5_20210416,L310-4.5,2021-04-16,,342604.47,5270953.06,433.572,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.090,,(mg/L),MERI,00109
+L310_4.5_20210422,L310-4.5,2021-04-22,,342604.47,5270953.06,433.572,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.090,,(mg/L),MERI,00109
+L310_4.5_20210429,L310-4.5,2021-04-29,,342604.47,5270953.06,433.572,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.090,,(mg/L),MERI,00109
+L9014_1.5_20210325,L9014-1.5,2021-03-25,473426095052509,342794.83,5271049.55,430.335,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9014_1.5_20210416,L9014-1.5,2021-04-16,473426095052509,342794.83,5271049.55,430.335,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9014_1.5_20210422,L9014-1.5,2021-04-22,473426095052509,342794.83,5271049.55,430.335,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9014_1.5_20210429,L9014-1.5,2021-04-29,473426095052509,342794.83,5271049.55,430.335,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9014_3.0_20210404,L9014-3.0,2021-04-04,473426095052510,342794.05,5271050.17,430.344,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9014_3.0_20210411,L9014-3.0,2021-04-11,473426095052510,342794.05,5271050.17,430.344,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9014_3.0_20210416,L9014-3.0,2021-04-16,473426095052510,342794.05,5271050.17,430.344,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9014_3.0_20210422,L9014-3.0,2021-04-22,473426095052510,342794.05,5271050.17,430.344,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9014_3.0_20210429,L9014-3.0,2021-04-29,473426095052510,342794.05,5271050.17,430.344,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210312,L9014-4.5,2021-03-12,473426095052511,342793.30,5271051.13,430.350,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210318,L9014-4.5,2021-03-18,473426095052511,342793.30,5271051.13,430.350,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210325,L9014-4.5,2021-03-25,473426095052511,342793.30,5271051.13,430.350,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210404,L9014-4.5,2021-04-04,473426095052511,342793.30,5271051.13,430.350,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210411,L9014-4.5,2021-04-11,473426095052511,342793.30,5271051.13,430.350,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210416,L9014-4.5,2021-04-16,473426095052511,342793.30,5271051.13,430.350,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210422,L9014-4.5,2021-04-22,473426095052511,342793.30,5271051.13,430.350,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210429,L9014-4.5,2021-04-29,473426095052511,342793.30,5271051.13,430.350,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210312,L9017-1.3,2021-03-12,473425095052677,342760.39,5271035.11,430.055,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210318,L9017-1.3,2021-03-18,473425095052677,342760.39,5271035.11,430.055,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210404,L9017-1.3,2021-04-04,473425095052677,342760.39,5271035.11,430.055,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210416,L9017-1.3,2021-04-16,473425095052677,342760.39,5271035.11,430.055,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210411,L9017-1.3,2021-04-11,473425095052677,342760.39,5271035.11,430.055,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210422,L9017-1.3,2021-04-22,473425095052677,342760.39,5271035.11,430.055,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210429,L9017-1.3,2021-04-29,473425095052677,342760.39,5271035.11,430.055,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210312,L9017-2.5,2021-03-12,473425095052687,342758.38,5271037.77,430.109,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210318,L9017-2.5,2021-03-18,473425095052687,342758.38,5271037.77,430.109,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210325,L9017-2.5,2021-03-25,473425095052687,342758.38,5271037.77,430.109,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210404,L9017-2.5,2021-04-04,473425095052687,342758.38,5271037.77,430.109,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210411,L9017-2.5,2021-04-11,473425095052687,342758.38,5271037.77,430.109,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210416,L9017-2.5,2021-04-16,473425095052687,342758.38,5271037.77,430.109,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210422,L9017-2.5,2021-04-22,473425095052687,342758.38,5271037.77,430.109,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210429,L9017-2.5,2021-04-29,473425095052687,342758.38,5271037.77,430.109,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9017_3.7_20210312,L9017-3.7,2021-03-12,473425095052682,342759.47,5271036.87,430.055,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9017_3.7_20210318,L9017-3.7,2021-03-18,473425095052682,342759.47,5271036.87,430.055,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9017_3.7_20210404,L9017-3.7,2021-04-04,473425095052682,342759.47,5271036.87,430.055,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9017_3.7_20210411,L9017-3.7,2021-04-11,473425095052682,342759.47,5271036.87,430.055,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9017_3.7_20210416,L9017-3.7,2021-04-16,473425095052682,342759.47,5271036.87,430.055,"Fluoride, water, filtered, milligrams per liter",Fluoride,0.079,LTMDL,(mg/L),MERI,00109
+L9017_3.7_20210429,L9017-3.7,2021-04-29,473425095052682,342759.47,5271036.87,430.055,"Fluoride, water, filtered, milligrams per liter",Fluoride,,U,(mg/L),MERI,00109
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Chloride, water, filtered, milligrams per liter",Chloride,28.5,,(mg/L),MERI,00109
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Chloride, water, filtered, milligrams per liter",Chloride,0.690,,(mg/L),MERI,00109
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Chloride, water, filtered, milligrams per liter",Chloride,1.21,,(mg/L),MERI,00109
+L310_1.5_20210312,L310-1.5,2021-03-12,,342605.76,5270952.42,433.453,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L310_1.5_20210411,L310-1.5,2021-04-11,,342605.76,5270952.42,433.453,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L310_1.5_20210416,L310-1.5,2021-04-16,,342605.76,5270952.42,433.453,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L310_1.5_20210422,L310-1.5,2021-04-22,,342605.76,5270952.42,433.453,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L310_1.5_20210429,L310-1.5,2021-04-29,,342605.76,5270952.42,433.453,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L310_4.5_20210312,L310-4.5,2021-03-12,,342604.47,5270953.06,433.572,"Chloride, water, filtered, milligrams per liter",Chloride,7.59,,(mg/L),MERI,00109
+L310_4.5_20210318,L310-4.5,2021-03-18,,342604.47,5270953.06,433.572,"Chloride, water, filtered, milligrams per liter",Chloride,1.79,,(mg/L),MERI,00109
+L310_4.5_20210325,L310-4.5,2021-03-25,,342604.47,5270953.06,433.572,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L310_4.5_20210404,L310-4.5,2021-04-04,,342604.47,5270953.06,433.572,"Chloride, water, filtered, milligrams per liter",Chloride,0.960,,(mg/L),MERI,00109
+L310_4.5_20210411,L310-4.5,2021-04-11,,342604.47,5270953.06,433.572,"Chloride, water, filtered, milligrams per liter",Chloride,0.850,,(mg/L),MERI,00109
+L310_4.5_20210416,L310-4.5,2021-04-16,,342604.47,5270953.06,433.572,"Chloride, water, filtered, milligrams per liter",Chloride,0.870,,(mg/L),MERI,00109
+L310_4.5_20210422,L310-4.5,2021-04-22,,342604.47,5270953.06,433.572,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L310_4.5_20210429,L310-4.5,2021-04-29,,342604.47,5270953.06,433.572,"Chloride, water, filtered, milligrams per liter",Chloride,0.800,,(mg/L),MERI,00109
+L9014_1.5_20210325,L9014-1.5,2021-03-25,473426095052509,342794.83,5271049.55,430.335,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9014_1.5_20210416,L9014-1.5,2021-04-16,473426095052509,342794.83,5271049.55,430.335,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9014_1.5_20210422,L9014-1.5,2021-04-22,473426095052509,342794.83,5271049.55,430.335,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9014_1.5_20210429,L9014-1.5,2021-04-29,473426095052509,342794.83,5271049.55,430.335,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9014_3.0_20210404,L9014-3.0,2021-04-04,473426095052510,342794.05,5271050.17,430.344,"Chloride, water, filtered, milligrams per liter",Chloride,1.10,,(mg/L),MERI,00109
+L9014_3.0_20210411,L9014-3.0,2021-04-11,473426095052510,342794.05,5271050.17,430.344,"Chloride, water, filtered, milligrams per liter",Chloride,1.10,,(mg/L),MERI,00109
+L9014_3.0_20210416,L9014-3.0,2021-04-16,473426095052510,342794.05,5271050.17,430.344,"Chloride, water, filtered, milligrams per liter",Chloride,1.12,,(mg/L),MERI,00109
+L9014_3.0_20210422,L9014-3.0,2021-04-22,473426095052510,342794.05,5271050.17,430.344,"Chloride, water, filtered, milligrams per liter",Chloride,1.16,,(mg/L),MERI,00109
+L9014_3.0_20210429,L9014-3.0,2021-04-29,473426095052510,342794.05,5271050.17,430.344,"Chloride, water, filtered, milligrams per liter",Chloride,1.40,,(mg/L),MERI,00109
+L9014_4.5_20210312,L9014-4.5,2021-03-12,473426095052511,342793.30,5271051.13,430.350,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210318,L9014-4.5,2021-03-18,473426095052511,342793.30,5271051.13,430.350,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210325,L9014-4.5,2021-03-25,473426095052511,342793.30,5271051.13,430.350,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210404,L9014-4.5,2021-04-04,473426095052511,342793.30,5271051.13,430.350,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210411,L9014-4.5,2021-04-11,473426095052511,342793.30,5271051.13,430.350,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210416,L9014-4.5,2021-04-16,473426095052511,342793.30,5271051.13,430.350,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210422,L9014-4.5,2021-04-22,473426095052511,342793.30,5271051.13,430.350,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210429,L9014-4.5,2021-04-29,473426095052511,342793.30,5271051.13,430.350,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210312,L9017-1.3,2021-03-12,473425095052677,342760.39,5271035.11,430.055,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210318,L9017-1.3,2021-03-18,473425095052677,342760.39,5271035.11,430.055,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210404,L9017-1.3,2021-04-04,473425095052677,342760.39,5271035.11,430.055,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210416,L9017-1.3,2021-04-16,473425095052677,342760.39,5271035.11,430.055,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210411,L9017-1.3,2021-04-11,473425095052677,342760.39,5271035.11,430.055,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210422,L9017-1.3,2021-04-22,473425095052677,342760.39,5271035.11,430.055,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210429,L9017-1.3,2021-04-29,473425095052677,342760.39,5271035.11,430.055,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210312,L9017-2.5,2021-03-12,473425095052687,342758.38,5271037.77,430.109,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210318,L9017-2.5,2021-03-18,473425095052687,342758.38,5271037.77,430.109,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210325,L9017-2.5,2021-03-25,473425095052687,342758.38,5271037.77,430.109,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210404,L9017-2.5,2021-04-04,473425095052687,342758.38,5271037.77,430.109,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210411,L9017-2.5,2021-04-11,473425095052687,342758.38,5271037.77,430.109,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210416,L9017-2.5,2021-04-16,473425095052687,342758.38,5271037.77,430.109,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210422,L9017-2.5,2021-04-22,473425095052687,342758.38,5271037.77,430.109,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210429,L9017-2.5,2021-04-29,473425095052687,342758.38,5271037.77,430.109,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9017_3.7_20210312,L9017-3.7,2021-03-12,473425095052682,342759.47,5271036.87,430.055,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9017_3.7_20210318,L9017-3.7,2021-03-18,473425095052682,342759.47,5271036.87,430.055,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9017_3.7_20210404,L9017-3.7,2021-04-04,473425095052682,342759.47,5271036.87,430.055,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9017_3.7_20210411,L9017-3.7,2021-04-11,473425095052682,342759.47,5271036.87,430.055,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L9017_3.7_20210416,L9017-3.7,2021-04-16,473425095052682,342759.47,5271036.87,430.055,"Chloride, water, filtered, milligrams per liter",Chloride,2.31,,(mg/L),MERI,00109
+L9017_3.7_20210429,L9017-3.7,2021-04-29,473425095052682,342759.47,5271036.87,430.055,"Chloride, water, filtered, milligrams per liter",Chloride,0.666,LTMDL,(mg/L),MERI,00109
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Nitrite, water, filtered, milligrams per liter",Nitrite,0.114,LTMDL,(mg/L),MERI,00109
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Nitrite, water, filtered, milligrams per liter",Nitrite,,U,(mg/L),MERI,00109
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Nitrite, water, filtered, milligrams per liter",Nitrite,,U,(mg/L),MERI,00109
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Nitrite, water, filtered, milligrams per liter",Nitrite,0.305,,(mg/L),MERI,00109
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Nitrite, water, filtered, milligrams per liter",Nitrite,,U,(mg/L),MERI,00109
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Nitrite, water, filtered, milligrams per liter",Nitrite,0.114,LTMDL,(mg/L),MERI,00109
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Nitrite, water, filtered, milligrams per liter",Nitrite,0.114,LTMDL,(mg/L),MERI,00109
+L310_1.5_20210411,L310-1.5,2021-04-11,,342605.76,5270952.42,433.453,"Nitrite, water, filtered, milligrams per liter",Nitrite,0.114,LTMDL,(mg/L),MERI,00109
+L310_1.5_20210416,L310-1.5,2021-04-16,,342605.76,5270952.42,433.453,"Nitrite, water, filtered, milligrams per liter",Nitrite,,U,(mg/L),MERI,00109
+L310_4.5_20210312,L310-4.5,2021-03-12,,342604.47,5270953.06,433.572,"Nitrite, water, filtered, milligrams per liter",Nitrite,,U,(mg/L),MERI,00109
+L310_4.5_20210318,L310-4.5,2021-03-18,,342604.47,5270953.06,433.572,"Nitrite, water, filtered, milligrams per liter",Nitrite,,U,(mg/L),MERI,00109
+L310_4.5_20210411,L310-4.5,2021-04-11,,342604.47,5270953.06,433.572,"Nitrite, water, filtered, milligrams per liter",Nitrite,0.114,LTMDL,(mg/L),MERI,00109
+L310_4.5_20210429,L310-4.5,2021-04-29,,342604.47,5270953.06,433.572,"Nitrite, water, filtered, milligrams per liter",Nitrite,,U,(mg/L),MERI,00109
+L9014_3.0_20210411,L9014-3.0,2021-04-11,473426095052510,342794.05,5271050.17,430.344,"Nitrite, water, filtered, milligrams per liter",Nitrite,0.114,LTMDL,(mg/L),MERI,00109
+L9014_3.0_20210416,L9014-3.0,2021-04-16,473426095052510,342794.05,5271050.17,430.344,"Nitrite, water, filtered, milligrams per liter",Nitrite,0.114,LTMDL,(mg/L),MERI,00109
+L9014_3.0_20210422,L9014-3.0,2021-04-22,473426095052510,342794.05,5271050.17,430.344,"Nitrite, water, filtered, milligrams per liter",Nitrite,0.114,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210404,L9014-4.5,2021-04-04,473426095052511,342793.30,5271051.13,430.350,"Nitrite, water, filtered, milligrams per liter",Nitrite,,U,(mg/L),MERI,00109
+L9014_4.5_20210411,L9014-4.5,2021-04-11,473426095052511,342793.30,5271051.13,430.350,"Nitrite, water, filtered, milligrams per liter",Nitrite,,U,(mg/L),MERI,00109
+L9014_4.5_20210416,L9014-4.5,2021-04-16,473426095052511,342793.30,5271051.13,430.350,"Nitrite, water, filtered, milligrams per liter",Nitrite,,U,(mg/L),MERI,00109
+L9014_4.5_20210422,L9014-4.5,2021-04-22,473426095052511,342793.30,5271051.13,430.350,"Nitrite, water, filtered, milligrams per liter",Nitrite,0.114,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210429,L9014-4.5,2021-04-29,473426095052511,342793.30,5271051.13,430.350,"Nitrite, water, filtered, milligrams per liter",Nitrite,,U,(mg/L),MERI,00109
+L9017_1.3_20210318,L9017-1.3,2021-03-18,473425095052677,342760.39,5271035.11,430.055,"Nitrite, water, filtered, milligrams per liter",Nitrite,,U,(mg/L),MERI,00109
+L9017_1.3_20210416,L9017-1.3,2021-04-16,473425095052677,342760.39,5271035.11,430.055,"Nitrite, water, filtered, milligrams per liter",Nitrite,0.114,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210411,L9017-1.3,2021-04-11,473425095052677,342760.39,5271035.11,430.055,"Nitrite, water, filtered, milligrams per liter",Nitrite,,U,(mg/L),MERI,00109
+L9017_2.5_20210325,L9017-2.5,2021-03-25,473425095052687,342758.38,5271037.77,430.109,"Nitrite, water, filtered, milligrams per liter",Nitrite,,U,(mg/L),MERI,00109
+L9017_2.5_20210404,L9017-2.5,2021-04-04,473425095052687,342758.38,5271037.77,430.109,"Nitrite, water, filtered, milligrams per liter",Nitrite,0.114,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210416,L9017-2.5,2021-04-16,473425095052687,342758.38,5271037.77,430.109,"Nitrite, water, filtered, milligrams per liter",Nitrite,0.114,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210422,L9017-2.5,2021-04-22,473425095052687,342758.38,5271037.77,430.109,"Nitrite, water, filtered, milligrams per liter",Nitrite,0.114,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210429,L9017-2.5,2021-04-29,473425095052687,342758.38,5271037.77,430.109,"Nitrite, water, filtered, milligrams per liter",Nitrite,,U,(mg/L),MERI,00109
+L9017_3.7_20210318,L9017-3.7,2021-03-18,473425095052682,342759.47,5271036.87,430.055,"Nitrite, water, filtered, milligrams per liter",Nitrite,,U,(mg/L),MERI,00109
+L9017_3.7_20210411,L9017-3.7,2021-04-11,473425095052682,342759.47,5271036.87,430.055,"Nitrite, water, filtered, milligrams per liter",Nitrite,0.114,LTMDL,(mg/L),MERI,00109
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Bromide, water, filtered, milligrams per liter",Bromide,,U,(mg/L),MERI,00109
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Bromide, water, filtered, milligrams per liter",Bromide,,U,(mg/L),MERI,00109
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Bromide, water, filtered, milligrams per liter",Bromide,,U,(mg/L),MERI,00109
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Bromide, water, filtered, milligrams per liter",Bromide,,U,(mg/L),MERI,00109
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Bromide, water, filtered, milligrams per liter",Bromide,,U,(mg/L),MERI,00109
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Bromide, water, filtered, milligrams per liter",Bromide,,U,(mg/L),MERI,00109
+L310_1.5_20210416,L310-1.5,2021-04-16,,342605.76,5270952.42,433.453,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L310_4.5_20210312,L310-4.5,2021-03-12,,342604.47,5270953.06,433.572,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L310_4.5_20210318,L310-4.5,2021-03-18,,342604.47,5270953.06,433.572,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L310_4.5_20210404,L310-4.5,2021-04-04,,342604.47,5270953.06,433.572,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L310_4.5_20210411,L310-4.5,2021-04-11,,342604.47,5270953.06,433.572,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L310_4.5_20210416,L310-4.5,2021-04-16,,342604.47,5270953.06,433.572,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L310_4.5_20210422,L310-4.5,2021-04-22,,342604.47,5270953.06,433.572,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9014_1.5_20210416,L9014-1.5,2021-04-16,473426095052509,342794.83,5271049.55,430.335,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9014_3.0_20210404,L9014-3.0,2021-04-04,473426095052510,342794.05,5271050.17,430.344,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9014_3.0_20210411,L9014-3.0,2021-04-11,473426095052510,342794.05,5271050.17,430.344,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9014_3.0_20210416,L9014-3.0,2021-04-16,473426095052510,342794.05,5271050.17,430.344,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9014_3.0_20210429,L9014-3.0,2021-04-29,473426095052510,342794.05,5271050.17,430.344,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210312,L9014-4.5,2021-03-12,473426095052511,342793.30,5271051.13,430.350,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210318,L9014-4.5,2021-03-18,473426095052511,342793.30,5271051.13,430.350,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210325,L9014-4.5,2021-03-25,473426095052511,342793.30,5271051.13,430.350,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210404,L9014-4.5,2021-04-04,473426095052511,342793.30,5271051.13,430.350,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210411,L9014-4.5,2021-04-11,473426095052511,342793.30,5271051.13,430.350,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210416,L9014-4.5,2021-04-16,473426095052511,342793.30,5271051.13,430.350,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210422,L9014-4.5,2021-04-22,473426095052511,342793.30,5271051.13,430.350,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210429,L9014-4.5,2021-04-29,473426095052511,342793.30,5271051.13,430.350,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210312,L9017-1.3,2021-03-12,473425095052677,342760.39,5271035.11,430.055,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210318,L9017-1.3,2021-03-18,473425095052677,342760.39,5271035.11,430.055,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210404,L9017-1.3,2021-04-04,473425095052677,342760.39,5271035.11,430.055,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210416,L9017-1.3,2021-04-16,473425095052677,342760.39,5271035.11,430.055,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210411,L9017-1.3,2021-04-11,473425095052677,342760.39,5271035.11,430.055,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210312,L9017-2.5,2021-03-12,473425095052687,342758.38,5271037.77,430.109,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210318,L9017-2.5,2021-03-18,473425095052687,342758.38,5271037.77,430.109,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210325,L9017-2.5,2021-03-25,473425095052687,342758.38,5271037.77,430.109,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210404,L9017-2.5,2021-04-04,473425095052687,342758.38,5271037.77,430.109,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210416,L9017-2.5,2021-04-16,473425095052687,342758.38,5271037.77,430.109,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210429,L9017-2.5,2021-04-29,473425095052687,342758.38,5271037.77,430.109,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9017_3.7_20210312,L9017-3.7,2021-03-12,473425095052682,342759.47,5271036.87,430.055,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9017_3.7_20210318,L9017-3.7,2021-03-18,473425095052682,342759.47,5271036.87,430.055,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9017_3.7_20210404,L9017-3.7,2021-04-04,473425095052682,342759.47,5271036.87,430.055,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9017_3.7_20210411,L9017-3.7,2021-04-11,473425095052682,342759.47,5271036.87,430.055,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L9017_3.7_20210429,L9017-3.7,2021-04-29,473425095052682,342759.47,5271036.87,430.055,"Bromide, water, filtered, milligrams per liter",Bromide,0.747,LTMDL,(mg/L),MERI,00109
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.945,,(mg/L),MERI,00109
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.742,,(mg/L),MERI,00109
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Nitrate, water, filtered, milligrams per liter",Nitrate,1.68,,(mg/L),MERI,00109
+L310_1.5_20210312,L310-1.5,2021-03-12,,342605.76,5270952.42,433.453,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L310_1.5_20210411,L310-1.5,2021-04-11,,342605.76,5270952.42,433.453,"Nitrate, water, filtered, milligrams per liter",Nitrate,1.14,,(mg/L),MERI,00109
+L310_1.5_20210416,L310-1.5,2021-04-16,,342605.76,5270952.42,433.453,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L310_1.5_20210422,L310-1.5,2021-04-22,,342605.76,5270952.42,433.453,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L310_1.5_20210429,L310-1.5,2021-04-29,,342605.76,5270952.42,433.453,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L310_4.5_20210312,L310-4.5,2021-03-12,,342604.47,5270953.06,433.572,"Nitrate, water, filtered, milligrams per liter",Nitrate,2.48,,(mg/L),MERI,00109
+L310_4.5_20210318,L310-4.5,2021-03-18,,342604.47,5270953.06,433.572,"Nitrate, water, filtered, milligrams per liter",Nitrate,3.46,,(mg/L),MERI,00109
+L310_4.5_20210325,L310-4.5,2021-03-25,,342604.47,5270953.06,433.572,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L310_4.5_20210404,L310-4.5,2021-04-04,,342604.47,5270953.06,433.572,"Nitrate, water, filtered, milligrams per liter",Nitrate,2.07,,(mg/L),MERI,00109
+L310_4.5_20210411,L310-4.5,2021-04-11,,342604.47,5270953.06,433.572,"Nitrate, water, filtered, milligrams per liter",Nitrate,2.26,,(mg/L),MERI,00109
+L310_4.5_20210416,L310-4.5,2021-04-16,,342604.47,5270953.06,433.572,"Nitrate, water, filtered, milligrams per liter",Nitrate,2.33,,(mg/L),MERI,00109
+L310_4.5_20210422,L310-4.5,2021-04-22,,342604.47,5270953.06,433.572,"Nitrate, water, filtered, milligrams per liter",Nitrate,2.22,,(mg/L),MERI,00109
+L310_4.5_20210429,L310-4.5,2021-04-29,,342604.47,5270953.06,433.572,"Nitrate, water, filtered, milligrams per liter",Nitrate,2.23,,(mg/L),MERI,00109
+L9014_1.5_20210325,L9014-1.5,2021-03-25,473426095052509,342794.83,5271049.55,430.335,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L9014_1.5_20210416,L9014-1.5,2021-04-16,473426095052509,342794.83,5271049.55,430.335,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L9014_1.5_20210422,L9014-1.5,2021-04-22,473426095052509,342794.83,5271049.55,430.335,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L9014_1.5_20210429,L9014-1.5,2021-04-29,473426095052509,342794.83,5271049.55,430.335,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L9014_3.0_20210404,L9014-3.0,2021-04-04,473426095052510,342794.05,5271050.17,430.344,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L9014_3.0_20210411,L9014-3.0,2021-04-11,473426095052510,342794.05,5271050.17,430.344,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L9014_3.0_20210416,L9014-3.0,2021-04-16,473426095052510,342794.05,5271050.17,430.344,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L9014_3.0_20210422,L9014-3.0,2021-04-22,473426095052510,342794.05,5271050.17,430.344,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L9014_3.0_20210429,L9014-3.0,2021-04-29,473426095052510,342794.05,5271050.17,430.344,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.790,,(mg/L),MERI,00109
+L9014_4.5_20210312,L9014-4.5,2021-03-12,473426095052511,342793.30,5271051.13,430.350,"Nitrate, water, filtered, milligrams per liter",Nitrate,1.74,,(mg/L),MERI,00109
+L9014_4.5_20210318,L9014-4.5,2021-03-18,473426095052511,342793.30,5271051.13,430.350,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210325,L9014-4.5,2021-03-25,473426095052511,342793.30,5271051.13,430.350,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210404,L9014-4.5,2021-04-04,473426095052511,342793.30,5271051.13,430.350,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210411,L9014-4.5,2021-04-11,473426095052511,342793.30,5271051.13,430.350,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210416,L9014-4.5,2021-04-16,473426095052511,342793.30,5271051.13,430.350,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210422,L9014-4.5,2021-04-22,473426095052511,342793.30,5271051.13,430.350,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210429,L9014-4.5,2021-04-29,473426095052511,342793.30,5271051.13,430.350,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.730,,(mg/L),MERI,00109
+L9017_1.3_20210312,L9017-1.3,2021-03-12,473425095052677,342760.39,5271035.11,430.055,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210318,L9017-1.3,2021-03-18,473425095052677,342760.39,5271035.11,430.055,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210404,L9017-1.3,2021-04-04,473425095052677,342760.39,5271035.11,430.055,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210416,L9017-1.3,2021-04-16,473425095052677,342760.39,5271035.11,430.055,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.800,,(mg/L),MERI,00109
+L9017_1.3_20210411,L9017-1.3,2021-04-11,473425095052677,342760.39,5271035.11,430.055,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.870,,(mg/L),MERI,00109
+L9017_1.3_20210422,L9017-1.3,2021-04-22,473425095052677,342760.39,5271035.11,430.055,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.890,,(mg/L),MERI,00109
+L9017_1.3_20210429,L9017-1.3,2021-04-29,473425095052677,342760.39,5271035.11,430.055,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.830,,(mg/L),MERI,00109
+L9017_2.5_20210312,L9017-2.5,2021-03-12,473425095052687,342758.38,5271037.77,430.109,"Nitrate, water, filtered, milligrams per liter",Nitrate,3.96,,(mg/L),MERI,00109
+L9017_2.5_20210318,L9017-2.5,2021-03-18,473425095052687,342758.38,5271037.77,430.109,"Nitrate, water, filtered, milligrams per liter",Nitrate,5.15,,(mg/L),MERI,00109
+L9017_2.5_20210325,L9017-2.5,2021-03-25,473425095052687,342758.38,5271037.77,430.109,"Nitrate, water, filtered, milligrams per liter",Nitrate,6.77,,(mg/L),MERI,00109
+L9017_2.5_20210404,L9017-2.5,2021-04-04,473425095052687,342758.38,5271037.77,430.109,"Nitrate, water, filtered, milligrams per liter",Nitrate,8.14,,(mg/L),MERI,00109
+L9017_2.5_20210411,L9017-2.5,2021-04-11,473425095052687,342758.38,5271037.77,430.109,"Nitrate, water, filtered, milligrams per liter",Nitrate,8.67,,(mg/L),MERI,00109
+L9017_2.5_20210416,L9017-2.5,2021-04-16,473425095052687,342758.38,5271037.77,430.109,"Nitrate, water, filtered, milligrams per liter",Nitrate,5.93,,(mg/L),MERI,00109
+L9017_2.5_20210422,L9017-2.5,2021-04-22,473425095052687,342758.38,5271037.77,430.109,"Nitrate, water, filtered, milligrams per liter",Nitrate,3.52,,(mg/L),MERI,00109
+L9017_2.5_20210429,L9017-2.5,2021-04-29,473425095052687,342758.38,5271037.77,430.109,"Nitrate, water, filtered, milligrams per liter",Nitrate,4.67,,(mg/L),MERI,00109
+L9017_3.7_20210312,L9017-3.7,2021-03-12,473425095052682,342759.47,5271036.87,430.055,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L9017_3.7_20210318,L9017-3.7,2021-03-18,473425095052682,342759.47,5271036.87,430.055,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L9017_3.7_20210404,L9017-3.7,2021-04-04,473425095052682,342759.47,5271036.87,430.055,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L9017_3.7_20210411,L9017-3.7,2021-04-11,473425095052682,342759.47,5271036.87,430.055,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L9017_3.7_20210416,L9017-3.7,2021-04-16,473425095052682,342759.47,5271036.87,430.055,"Nitrate, water, filtered, milligrams per liter",Nitrate,2.10,,(mg/L),MERI,00109
+L9017_3.7_20210429,L9017-3.7,2021-04-29,473425095052682,342759.47,5271036.87,430.055,"Nitrate, water, filtered, milligrams per liter",Nitrate,0.722,LTMDL,(mg/L),MERI,00109
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.494,,(mg/L),MERI,00109
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,,U,(mg/L),MERI,00109
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,,U,(mg/L),MERI,00109
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,,U,(mg/L),MERI,00109
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.453,,(mg/L),MERI,00109
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.089,,(mg/L),MERI,00109
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,,U,(mg/L),MERI,00109
+L310_1.5_20210312,L310-1.5,2021-03-12,,342605.76,5270952.42,433.453,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.270,,(mg/L),MERI,00109
+L310_1.5_20210411,L310-1.5,2021-04-11,,342605.76,5270952.42,433.453,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.140,,(mg/L),MERI,00109
+L310_1.5_20210416,L310-1.5,2021-04-16,,342605.76,5270952.42,433.453,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.210,,(mg/L),MERI,00109
+L310_1.5_20210422,L310-1.5,2021-04-22,,342605.76,5270952.42,433.453,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.170,,(mg/L),MERI,00109
+L310_1.5_20210429,L310-1.5,2021-04-29,,342605.76,5270952.42,433.453,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.190,,(mg/L),MERI,00109
+L310_4.5_20210312,L310-4.5,2021-03-12,,342604.47,5270953.06,433.572,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.073,LTMDL,(mg/L),MERI,00109
+L310_4.5_20210318,L310-4.5,2021-03-18,,342604.47,5270953.06,433.572,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.080,,(mg/L),MERI,00109
+L310_4.5_20210325,L310-4.5,2021-03-25,,342604.47,5270953.06,433.572,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.073,LTMDL,(mg/L),MERI,00109
+L310_4.5_20210404,L310-4.5,2021-04-04,,342604.47,5270953.06,433.572,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.080,,(mg/L),MERI,00109
+L310_4.5_20210411,L310-4.5,2021-04-11,,342604.47,5270953.06,433.572,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.080,,(mg/L),MERI,00109
+L310_4.5_20210416,L310-4.5,2021-04-16,,342604.47,5270953.06,433.572,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.080,,(mg/L),MERI,00109
+L310_4.5_20210422,L310-4.5,2021-04-22,,342604.47,5270953.06,433.572,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.073,LTMDL,(mg/L),MERI,00109
+L310_4.5_20210429,L310-4.5,2021-04-29,,342604.47,5270953.06,433.572,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.073,LTMDL,(mg/L),MERI,00109
+L9014_1.5_20210325,L9014-1.5,2021-03-25,473426095052509,342794.83,5271049.55,430.335,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.073,LTMDL,(mg/L),MERI,00109
+L9014_1.5_20210416,L9014-1.5,2021-04-16,473426095052509,342794.83,5271049.55,430.335,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.073,LTMDL,(mg/L),MERI,00109
+L9014_1.5_20210422,L9014-1.5,2021-04-22,473426095052509,342794.83,5271049.55,430.335,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.073,LTMDL,(mg/L),MERI,00109
+L9014_1.5_20210429,L9014-1.5,2021-04-29,473426095052509,342794.83,5271049.55,430.335,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.073,LTMDL,(mg/L),MERI,00109
+L9014_3.0_20210404,L9014-3.0,2021-04-04,473426095052510,342794.05,5271050.17,430.344,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.073,LTMDL,(mg/L),MERI,00109
+L9014_3.0_20210411,L9014-3.0,2021-04-11,473426095052510,342794.05,5271050.17,430.344,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.073,LTMDL,(mg/L),MERI,00109
+L9014_3.0_20210416,L9014-3.0,2021-04-16,473426095052510,342794.05,5271050.17,430.344,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.073,LTMDL,(mg/L),MERI,00109
+L9014_3.0_20210422,L9014-3.0,2021-04-22,473426095052510,342794.05,5271050.17,430.344,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.073,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210312,L9017-1.3,2021-03-12,473425095052677,342760.39,5271035.11,430.055,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.450,,(mg/L),MERI,00109
+L9017_1.3_20210318,L9017-1.3,2021-03-18,473425095052677,342760.39,5271035.11,430.055,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.370,,(mg/L),MERI,00109
+L9017_1.3_20210404,L9017-1.3,2021-04-04,473425095052677,342760.39,5271035.11,430.055,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.430,,(mg/L),MERI,00109
+L9017_1.3_20210416,L9017-1.3,2021-04-16,473425095052677,342760.39,5271035.11,430.055,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.430,,(mg/L),MERI,00109
+L9017_1.3_20210411,L9017-1.3,2021-04-11,473425095052677,342760.39,5271035.11,430.055,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.450,,(mg/L),MERI,00109
+L9017_1.3_20210422,L9017-1.3,2021-04-22,473425095052677,342760.39,5271035.11,430.055,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.430,,(mg/L),MERI,00109
+L9017_1.3_20210429,L9017-1.3,2021-04-29,473425095052677,342760.39,5271035.11,430.055,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.390,,(mg/L),MERI,00109
+L9017_2.5_20210312,L9017-2.5,2021-03-12,473425095052687,342758.38,5271037.77,430.109,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.420,,(mg/L),MERI,00109
+L9017_2.5_20210318,L9017-2.5,2021-03-18,473425095052687,342758.38,5271037.77,430.109,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.380,,(mg/L),MERI,00109
+L9017_2.5_20210325,L9017-2.5,2021-03-25,473425095052687,342758.38,5271037.77,430.109,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.450,,(mg/L),MERI,00109
+L9017_2.5_20210404,L9017-2.5,2021-04-04,473425095052687,342758.38,5271037.77,430.109,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.460,,(mg/L),MERI,00109
+L9017_2.5_20210411,L9017-2.5,2021-04-11,473425095052687,342758.38,5271037.77,430.109,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.450,,(mg/L),MERI,00109
+L9017_2.5_20210416,L9017-2.5,2021-04-16,473425095052687,342758.38,5271037.77,430.109,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.430,,(mg/L),MERI,00109
+L9017_2.5_20210422,L9017-2.5,2021-04-22,473425095052687,342758.38,5271037.77,430.109,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.420,,(mg/L),MERI,00109
+L9017_2.5_20210429,L9017-2.5,2021-04-29,473425095052687,342758.38,5271037.77,430.109,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.430,,(mg/L),MERI,00109
+L9017_3.7_20210416,L9017-3.7,2021-04-16,473425095052682,342759.47,5271036.87,430.055,"Phosphate, water, filtered, milligrams per liter as PO4",Phosphate,0.280,,(mg/L),MERI,00109
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Sulfate, water, filtered, milligrams per liter",Sulfate,111,,(mg/L),MERI,00109
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Sulfate, water, filtered, milligrams per liter",Sulfate,2.13,,(mg/L),MERI,00109
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Sulfate, water, filtered, milligrams per liter",Sulfate,2.92,,(mg/L),MERI,00109
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.81,,(mg/L),MERI,00109
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.96,,(mg/L),MERI,00109
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L310_1.5_20210312,L310-1.5,2021-03-12,,342605.76,5270952.42,433.453,"Sulfate, water, filtered, milligrams per liter",Sulfate,15.7,,(mg/L),MERI,00109
+L310_1.5_20210411,L310-1.5,2021-04-11,,342605.76,5270952.42,433.453,"Sulfate, water, filtered, milligrams per liter",Sulfate,4.60,,(mg/L),MERI,00109
+L310_1.5_20210416,L310-1.5,2021-04-16,,342605.76,5270952.42,433.453,"Sulfate, water, filtered, milligrams per liter",Sulfate,4.51,,(mg/L),MERI,00109
+L310_1.5_20210422,L310-1.5,2021-04-22,,342605.76,5270952.42,433.453,"Sulfate, water, filtered, milligrams per liter",Sulfate,4.26,,(mg/L),MERI,00109
+L310_1.5_20210429,L310-1.5,2021-04-29,,342605.76,5270952.42,433.453,"Sulfate, water, filtered, milligrams per liter",Sulfate,5.54,,(mg/L),MERI,00109
+L310_4.5_20210312,L310-4.5,2021-03-12,,342604.47,5270953.06,433.572,"Sulfate, water, filtered, milligrams per liter",Sulfate,76.0,,(mg/L),MERI,00109
+L310_4.5_20210318,L310-4.5,2021-03-18,,342604.47,5270953.06,433.572,"Sulfate, water, filtered, milligrams per liter",Sulfate,55.7,,(mg/L),MERI,00109
+L310_4.5_20210325,L310-4.5,2021-03-25,,342604.47,5270953.06,433.572,"Sulfate, water, filtered, milligrams per liter",Sulfate,4.47,,(mg/L),MERI,00109
+L310_4.5_20210404,L310-4.5,2021-04-04,,342604.47,5270953.06,433.572,"Sulfate, water, filtered, milligrams per liter",Sulfate,23.4,,(mg/L),MERI,00109
+L310_4.5_20210411,L310-4.5,2021-04-11,,342604.47,5270953.06,433.572,"Sulfate, water, filtered, milligrams per liter",Sulfate,24.3,,(mg/L),MERI,00109
+L310_4.5_20210416,L310-4.5,2021-04-16,,342604.47,5270953.06,433.572,"Sulfate, water, filtered, milligrams per liter",Sulfate,23.2,,(mg/L),MERI,00109
+L310_4.5_20210422,L310-4.5,2021-04-22,,342604.47,5270953.06,433.572,"Sulfate, water, filtered, milligrams per liter",Sulfate,15.4,,(mg/L),MERI,00109
+L310_4.5_20210429,L310-4.5,2021-04-29,,342604.47,5270953.06,433.572,"Sulfate, water, filtered, milligrams per liter",Sulfate,20.9,,(mg/L),MERI,00109
+L9014_1.5_20210325,L9014-1.5,2021-03-25,473426095052509,342794.83,5271049.55,430.335,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.48,,(mg/L),MERI,00109
+L9014_1.5_20210416,L9014-1.5,2021-04-16,473426095052509,342794.83,5271049.55,430.335,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9014_1.5_20210422,L9014-1.5,2021-04-22,473426095052509,342794.83,5271049.55,430.335,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.85,,(mg/L),MERI,00109
+L9014_1.5_20210429,L9014-1.5,2021-04-29,473426095052509,342794.83,5271049.55,430.335,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9014_3.0_20210404,L9014-3.0,2021-04-04,473426095052510,342794.05,5271050.17,430.344,"Sulfate, water, filtered, milligrams per liter",Sulfate,2.76,,(mg/L),MERI,00109
+L9014_3.0_20210411,L9014-3.0,2021-04-11,473426095052510,342794.05,5271050.17,430.344,"Sulfate, water, filtered, milligrams per liter",Sulfate,2.76,,(mg/L),MERI,00109
+L9014_3.0_20210416,L9014-3.0,2021-04-16,473426095052510,342794.05,5271050.17,430.344,"Sulfate, water, filtered, milligrams per liter",Sulfate,2.69,,(mg/L),MERI,00109
+L9014_3.0_20210422,L9014-3.0,2021-04-22,473426095052510,342794.05,5271050.17,430.344,"Sulfate, water, filtered, milligrams per liter",Sulfate,2.66,,(mg/L),MERI,00109
+L9014_3.0_20210429,L9014-3.0,2021-04-29,473426095052510,342794.05,5271050.17,430.344,"Sulfate, water, filtered, milligrams per liter",Sulfate,3.00,,(mg/L),MERI,00109
+L9014_4.5_20210312,L9014-4.5,2021-03-12,473426095052511,342793.30,5271051.13,430.350,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210318,L9014-4.5,2021-03-18,473426095052511,342793.30,5271051.13,430.350,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210325,L9014-4.5,2021-03-25,473426095052511,342793.30,5271051.13,430.350,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210404,L9014-4.5,2021-04-04,473426095052511,342793.30,5271051.13,430.350,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210411,L9014-4.5,2021-04-11,473426095052511,342793.30,5271051.13,430.350,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210416,L9014-4.5,2021-04-16,473426095052511,342793.30,5271051.13,430.350,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210422,L9014-4.5,2021-04-22,473426095052511,342793.30,5271051.13,430.350,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9014_4.5_20210429,L9014-4.5,2021-04-29,473426095052511,342793.30,5271051.13,430.350,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210312,L9017-1.3,2021-03-12,473425095052677,342760.39,5271035.11,430.055,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210318,L9017-1.3,2021-03-18,473425095052677,342760.39,5271035.11,430.055,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210404,L9017-1.3,2021-04-04,473425095052677,342760.39,5271035.11,430.055,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210416,L9017-1.3,2021-04-16,473425095052677,342760.39,5271035.11,430.055,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210411,L9017-1.3,2021-04-11,473425095052677,342760.39,5271035.11,430.055,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210422,L9017-1.3,2021-04-22,473425095052677,342760.39,5271035.11,430.055,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9017_1.3_20210429,L9017-1.3,2021-04-29,473425095052677,342760.39,5271035.11,430.055,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210312,L9017-2.5,2021-03-12,473425095052687,342758.38,5271037.77,430.109,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210318,L9017-2.5,2021-03-18,473425095052687,342758.38,5271037.77,430.109,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210325,L9017-2.5,2021-03-25,473425095052687,342758.38,5271037.77,430.109,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210404,L9017-2.5,2021-04-04,473425095052687,342758.38,5271037.77,430.109,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210411,L9017-2.5,2021-04-11,473425095052687,342758.38,5271037.77,430.109,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210416,L9017-2.5,2021-04-16,473425095052687,342758.38,5271037.77,430.109,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210422,L9017-2.5,2021-04-22,473425095052687,342758.38,5271037.77,430.109,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9017_2.5_20210429,L9017-2.5,2021-04-29,473425095052687,342758.38,5271037.77,430.109,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.36,LTMDL,(mg/L),MERI,00109
+L9017_3.7_20210312,L9017-3.7,2021-03-12,473425095052682,342759.47,5271036.87,430.055,"Sulfate, water, filtered, milligrams per liter",Sulfate,3.28,,(mg/L),MERI,00109
+L9017_3.7_20210318,L9017-3.7,2021-03-18,473425095052682,342759.47,5271036.87,430.055,"Sulfate, water, filtered, milligrams per liter",Sulfate,9.79,,(mg/L),MERI,00109
+L9017_3.7_20210404,L9017-3.7,2021-04-04,473425095052682,342759.47,5271036.87,430.055,"Sulfate, water, filtered, milligrams per liter",Sulfate,5.35,,(mg/L),MERI,00109
+L9017_3.7_20210411,L9017-3.7,2021-04-11,473425095052682,342759.47,5271036.87,430.055,"Sulfate, water, filtered, milligrams per liter",Sulfate,3.07,,(mg/L),MERI,00109
+L9017_3.7_20210416,L9017-3.7,2021-04-16,473425095052682,342759.47,5271036.87,430.055,"Sulfate, water, filtered, milligrams per liter",Sulfate,1.96,,(mg/L),MERI,00109
+L9017_3.7_20210429,L9017-3.7,2021-04-29,473425095052682,342759.47,5271036.87,430.055,"Sulfate, water, filtered, milligrams per liter",Sulfate,3.55,,(mg/L),MERI,00109
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Aluminum, water, filtered, micrograms per liter",Aluminum,2.02,LTMDL,(ug/L),MERI,PLM42
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Aluminum, water, filtered, micrograms per liter",Aluminum,5.97,,(ug/L),MERI,PLM42
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Aluminum, water, filtered, micrograms per liter",Aluminum,2.02,LTMDL,(ug/L),MERI,PLM42
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Aluminum, water, filtered, micrograms per liter",Aluminum,2.02,LTMDL,(ug/L),MERI,PLM42
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Aluminum, water, filtered, micrograms per liter",Aluminum,2.02,LTMDL,(ug/L),MERI,PLM42
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Aluminum, water, filtered, micrograms per liter",Aluminum,2.02,LTMDL,(ug/L),MERI,PLM42
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Aluminum, water, filtered, micrograms per liter",Aluminum,2.02,LTMDL,(ug/L),MERI,PLM42
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Arsenic, water, filtered, micrograms per liter",Arsenic,0.317,,(ug/L),MERI,PLM42
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Arsenic, water, filtered, micrograms per liter",Arsenic,0.282,,(ug/L),MERI,PLM42
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Arsenic, water, filtered, micrograms per liter",Arsenic,0.416,,(ug/L),MERI,PLM42
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Arsenic, water, filtered, micrograms per liter",Arsenic,8.44,,(ug/L),MERI,PLM42
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Arsenic, water, filtered, micrograms per liter",Arsenic,1.04,,(ug/L),MERI,PLM42
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Arsenic, water, filtered, micrograms per liter",Arsenic,0.597,,(ug/L),MERI,PLM42
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Arsenic, water, filtered, micrograms per liter",Arsenic,2.70,,(ug/L),MERI,PLM42
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Barium, water, filtered, micrograms per liter",Barium,99.6,,(ug/L),MERI,PLM42
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Barium, water, filtered, micrograms per liter",Barium,30.1,,(ug/L),MERI,PLM42
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Barium, water, filtered, micrograms per liter",Barium,96.8,,(ug/L),MERI,PLM42
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Barium, water, filtered, micrograms per liter",Barium,313,,(ug/L),MERI,PLM42
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Barium, water, filtered, micrograms per liter",Barium,64.3,,(ug/L),MERI,PLM42
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Barium, water, filtered, micrograms per liter",Barium,89.3,,(ug/L),MERI,PLM42
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Barium, water, filtered, micrograms per liter",Barium,80.7,,(ug/L),MERI,PLM42
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Beryllium, water, filtered, micrograms per liter",Beryllium,0.357,LTMDL,(ug/L),MERI,PLM42
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Beryllium, water, filtered, micrograms per liter",Beryllium,0.357,LTMDL,(ug/L),MERI,PLM42
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Beryllium, water, filtered, micrograms per liter",Beryllium,0.357,LTMDL,(ug/L),MERI,PLM42
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Beryllium, water, filtered, micrograms per liter",Beryllium,,U,(ug/L),MERI,PLM42
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Beryllium, water, filtered, micrograms per liter",Beryllium,0.357,LTMDL,(ug/L),MERI,PLM42
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Beryllium, water, filtered, micrograms per liter",Beryllium,,U,(ug/L),MERI,PLM42
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Beryllium, water, filtered, micrograms per liter",Beryllium,,U,(ug/L),MERI,PLM42
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Cadmium, water, filtered, micrograms per liter",Cadmium,0.094,LTMDL,(ug/L),MERI,PLM42
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Cadmium, water, filtered, micrograms per liter",Cadmium,0.094,LTMDL,(ug/L),MERI,PLM42
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Cadmium, water, filtered, micrograms per liter",Cadmium,0.094,LTMDL,(ug/L),MERI,PLM42
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Cadmium, water, filtered, micrograms per liter",Cadmium,0.094,LTMDL,(ug/L),MERI,PLM42
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Cadmium, water, filtered, micrograms per liter",Cadmium,0.094,LTMDL,(ug/L),MERI,PLM42
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Cadmium, water, filtered, micrograms per liter",Cadmium,0.094,LTMDL,(ug/L),MERI,PLM42
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Cadmium, water, filtered, micrograms per liter",Cadmium,0.094,LTMDL,(ug/L),MERI,PLM42
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Chromium, water, filtered, micrograms per liter",Chromium,0.565,,(ug/L),MERI,PLM42
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Chromium, water, filtered, micrograms per liter",Chromium,6.16,,(ug/L),MERI,PLM42
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Chromium, water, filtered, micrograms per liter",Chromium,0.156,LTMDL,(ug/L),MERI,PLM42
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Chromium, water, filtered, micrograms per liter",Chromium,1.01,,(ug/L),MERI,PLM42
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Chromium, water, filtered, micrograms per liter",Chromium,1.13,,(ug/L),MERI,PLM42
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Chromium, water, filtered, micrograms per liter",Chromium,3.24,,(ug/L),MERI,PLM42
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Chromium, water, filtered, micrograms per liter",Chromium,0.630,,(ug/L),MERI,PLM42
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Cobalt, water, filtered, micrograms per liter",Cobalt,4.16,,(ug/L),MERI,PLM42
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Cobalt, water, filtered, micrograms per liter",Cobalt,0.243,,(ug/L),MERI,PLM42
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Cobalt, water, filtered, micrograms per liter",Cobalt,0.195,,(ug/L),MERI,PLM42
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Cobalt, water, filtered, micrograms per liter",Cobalt,14.2,,(ug/L),MERI,PLM42
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Cobalt, water, filtered, micrograms per liter",Cobalt,0.141,,(ug/L),MERI,PLM42
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Cobalt, water, filtered, micrograms per liter",Cobalt,0.107,,(ug/L),MERI,PLM42
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Cobalt, water, filtered, micrograms per liter",Cobalt,2.28,,(ug/L),MERI,PLM42
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Copper, water, filtered, micrograms per liter",Copper,8.45,,(ug/L),MERI,PLM42
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Copper, water, filtered, micrograms per liter",Copper,3.08,,(ug/L),MERI,PLM42
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Copper, water, filtered, micrograms per liter",Copper,1.07,,(ug/L),MERI,PLM42
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Copper, water, filtered, micrograms per liter",Copper,0.636,LTMDL,(ug/L),MERI,PLM42
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Copper, water, filtered, micrograms per liter",Copper,7.18,,(ug/L),MERI,PLM42
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Copper, water, filtered, micrograms per liter",Copper,3.05,,(ug/L),MERI,PLM42
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Copper, water, filtered, micrograms per liter",Copper,0.636,LTMDL,(ug/L),MERI,PLM42
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Iron, water, filtered, micrograms per liter",Iron,3.92,,(ug/L),MERI,PLM42
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Iron, water, filtered, micrograms per liter",Iron,3.10,,(ug/L),MERI,PLM42
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Iron, water, filtered, micrograms per liter",Iron,2.53,LTMDL,(ug/L),MERI,PLM42
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Iron, water, filtered, micrograms per liter",Iron,7190,,(ug/L),MERI,PLM42
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Iron, water, filtered, micrograms per liter",Iron,3.32,,(ug/L),MERI,PLM42
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Iron, water, filtered, micrograms per liter",Iron,2.53,LTMDL,(ug/L),MERI,PLM42
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Iron, water, filtered, micrograms per liter",Iron,483,,(ug/L),MERI,PLM42
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Manganese, water, filtered, micrograms per liter",Manganese,349,,(ug/L),MERI,PLM42
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Manganese, water, filtered, micrograms per liter",Manganese,14.8,,(ug/L),MERI,PLM42
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Manganese, water, filtered, micrograms per liter",Manganese,3.03,,(ug/L),MERI,PLM42
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Manganese, water, filtered, micrograms per liter",Manganese,898,,(ug/L),MERI,PLM42
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Manganese, water, filtered, micrograms per liter",Manganese,2.95,,(ug/L),MERI,PLM42
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Manganese, water, filtered, micrograms per liter",Manganese,1.69,,(ug/L),MERI,PLM42
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Manganese, water, filtered, micrograms per liter",Manganese,1260,,(ug/L),MERI,PLM42
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Molybdenum, water, filtered, micrograms per liter",Molybdenum,58.6,,(ug/L),MERI,PLM42
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Molybdenum, water, filtered, micrograms per liter",Molybdenum,3.01,,(ug/L),MERI,PLM42
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Molybdenum, water, filtered, micrograms per liter",Molybdenum,1.73,LTMDL,(ug/L),MERI,PLM42
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Molybdenum, water, filtered, micrograms per liter",Molybdenum,1.86,,(ug/L),MERI,PLM42
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Molybdenum, water, filtered, micrograms per liter",Molybdenum,1.88,,(ug/L),MERI,PLM42
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Molybdenum, water, filtered, micrograms per liter",Molybdenum,2.73,,(ug/L),MERI,PLM42
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Molybdenum, water, filtered, micrograms per liter",Molybdenum,12.6,,(ug/L),MERI,PLM42
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Nickel, water, filtered, micrograms per liter",Nickel,79.8,,(ug/L),MERI,PLM42
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Nickel, water, filtered, micrograms per liter",Nickel,17.8,,(ug/L),MERI,PLM42
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Nickel, water, filtered, micrograms per liter",Nickel,0.817,LTMDL,(ug/L),MERI,PLM42
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Nickel, water, filtered, micrograms per liter",Nickel,33.3,,(ug/L),MERI,PLM42
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Nickel, water, filtered, micrograms per liter",Nickel,1.90,,(ug/L),MERI,PLM42
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Nickel, water, filtered, micrograms per liter",Nickel,6.62,,(ug/L),MERI,PLM42
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Nickel, water, filtered, micrograms per liter",Nickel,239,,(ug/L),MERI,PLM42
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Lead, water, filtered, micrograms per liter",Lead,0.122,LTMDL,(ug/L),MERI,PLM42
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Lead, water, filtered, micrograms per liter",Lead,0.122,LTMDL,(ug/L),MERI,PLM42
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Lead, water, filtered, micrograms per liter",Lead,0.122,LTMDL,(ug/L),MERI,PLM42
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Lead, water, filtered, micrograms per liter",Lead,0.122,LTMDL,(ug/L),MERI,PLM42
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Antimony, water, filtered, micrograms per liter",Antimony,0.421,,(ug/L),MERI,PLM42
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Antimony, water, filtered, micrograms per liter",Antimony,0.391,LTMDL,(ug/L),MERI,PLM42
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Antimony, water, filtered, micrograms per liter",Antimony,0.391,LTMDL,(ug/L),MERI,PLM42
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Antimony, water, filtered, micrograms per liter",Antimony,0.391,LTMDL,(ug/L),MERI,PLM42
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Antimony, water, filtered, micrograms per liter",Antimony,0.391,LTMDL,(ug/L),MERI,PLM42
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Antimony, water, filtered, micrograms per liter",Antimony,0.391,LTMDL,(ug/L),MERI,PLM42
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Antimony, water, filtered, micrograms per liter",Antimony,0.391,LTMDL,(ug/L),MERI,PLM42
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Selenium, water, filtered, micrograms per liter",Selenium,2.25,,(ug/L),MERI,PLM42
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Selenium, water, filtered, micrograms per liter",Selenium,1.13,LTMDL,(ug/L),MERI,PLM42
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Selenium, water, filtered, micrograms per liter",Selenium,1.13,LTMDL,(ug/L),MERI,PLM42
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Selenium, water, filtered, micrograms per liter",Selenium,1.29,,(ug/L),MERI,PLM42
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Selenium, water, filtered, micrograms per liter",Selenium,1.13,LTMDL,(ug/L),MERI,PLM42
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Selenium, water, filtered, micrograms per liter",Selenium,1.25,,(ug/L),MERI,PLM42
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Selenium, water, filtered, micrograms per liter",Selenium,1.13,LTMDL,(ug/L),MERI,PLM42
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Thallium, water, filtered, micrograms per liter",Thallium,0.131,LTMDL,(ug/L),MERI,PLM42
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Thallium, water, filtered, micrograms per liter",Thallium,0.131,LTMDL,(ug/L),MERI,PLM42
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Thallium, water, filtered, micrograms per liter",Thallium,0.131,LTMDL,(ug/L),MERI,PLM42
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Thallium, water, filtered, micrograms per liter",Thallium,0.131,LTMDL,(ug/L),MERI,PLM42
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Vanadium, water, filtered, micrograms per liter",Vanadium,1.33,,(ug/L),MERI,PLM42
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Vanadium, water, filtered, micrograms per liter",Vanadium,0.548,,(ug/L),MERI,PLM42
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Vanadium, water, filtered, micrograms per liter",Vanadium,0.239,,(ug/L),MERI,PLM42
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Vanadium, water, filtered, micrograms per liter",Vanadium,0.247,,(ug/L),MERI,PLM42
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Vanadium, water, filtered, micrograms per liter",Vanadium,1.57,,(ug/L),MERI,PLM42
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Vanadium, water, filtered, micrograms per liter",Vanadium,1.14,,(ug/L),MERI,PLM42
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Vanadium, water, filtered, micrograms per liter",Vanadium,0.430,,(ug/L),MERI,PLM42
+L310_1.5_20190628,L310-1.5,2019-06-28,,342605.76,5270952.42,433.453,"Zinc, water, filtered, micrograms per liter",Zinc,39.0,,(ug/L),MERI,PLM42
+L9014_1.5_20190627,L9014-1.5,2019-06-27,473426095052509,342794.83,5271049.55,430.335,"Zinc, water, filtered, micrograms per liter",Zinc,23.6,,(ug/L),MERI,PLM42
+L9014_3.0_20190627,L9014-3.0,2019-06-27,473426095052510,342794.05,5271050.17,430.344,"Zinc, water, filtered, micrograms per liter",Zinc,12.4,,(ug/L),MERI,PLM42
+L9014_4.5_20190627,L9014-4.5,2019-06-27,473426095052511,342793.30,5271051.13,430.350,"Zinc, water, filtered, micrograms per liter",Zinc,14.1,,(ug/L),MERI,PLM42
+L9017_1.3_20190627,L9017-1.3,2019-06-27,473425095052677,342760.39,5271035.11,430.055,"Zinc, water, filtered, micrograms per liter",Zinc,16.0,,(ug/L),MERI,PLM42
+L9017_2.5_20190627,L9017-2.5,2019-06-27,473425095052687,342758.38,5271037.77,430.109,"Zinc, water, filtered, micrograms per liter",Zinc,11.5,,(ug/L),MERI,PLM42
+L9017_3.7_20190627,L9017-3.7,2019-06-27,473425095052682,342759.47,5271036.87,430.055,"Zinc, water, filtered, micrograms per liter",Zinc,11.3,,(ug/L),MERI,PLM42

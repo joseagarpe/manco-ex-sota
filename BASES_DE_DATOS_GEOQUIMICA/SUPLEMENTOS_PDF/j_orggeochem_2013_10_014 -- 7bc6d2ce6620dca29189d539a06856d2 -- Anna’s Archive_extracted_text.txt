@@ -1,0 +1,1163 @@
+
+--- PAGE 1 ---
+Study of the biodegradation levels of oils from the Orinoco Oil Belt
+(Junin area) using different biodegradation scales
+Liliana López ⇑
+Instituto de Ciencias de la Tierra, Facultad de Ciencias, Universidad Central de Venezuela, 3895, Caracas 1010 A, Venezuela
+a r t i c l e
+i n f o
+Article history:
+Received 26 June 2013
+Received in revised form 17 October 2013
+Accepted 27 October 2013
+Available online 4 November 2013
+a b s t r a c t
+This work presents a study of the molecular composition of the saturated and aromatic hydrocarbon frac-
+tions of crude oils from the Orinoco Oil Belt (Junín area) in the Eastern Venezuelan Basin, with the pur-
+pose of classifying these samples following two distinct biodegradation assessment schemes: the PM
+scale [Peters, K.E., Moldowan, J.M., 1993. The Biomarker Guide: Interpreting Molecular Fossils in Petro-
+leum and Ancient Sediments. Prentice Hall, Englewood Cliffs, New Jersey, p. 363] and the Manco scale
+[Larter, S., Huang, H., Adams, J., Bennett, B., Snowdon, L.R., 2012. A practical biodegradation scale for
+use in reservoir geochemical studies of biodegraded oils. Organic Geochemistry 45, 66–76]. Both scales
+agree on the presence of different levels of biodegradation for the analyzed oils, although they are based
+on different groups of compounds. The PM scale uses mainly compounds from the saturated hydrocarbon
+fractions (e.g., n-alkanes, acyclic isoprenoids, terpanes and steranes) as well as aromatic steroids. On the
+other hand, the Manco scale considers other compounds (e.g., alkyltoluenes, naphthalene, methylnaph-
+thalene, phenanthrene, alkylphenanthrenes and methyldibenzothiophenes) not included in the PM bio-
+degradation scale. Thus, the combined use of these two scales allows the determination of the level of
+biodegradation of both saturated and aromatic compound classes. Dibenzothiophene (DBT), which was
+not included for the Manco score determination, also shows variations in peak intensity when compared
+to C4-alkylnaphthalenes, presumably associated with the process of biological alteration. The differences
+in the biodegradation levels observed in the present study may be attributed to variations in parameters
+that control biodegradation rates laterally across the study area or the existence of varying communities
+of microorganisms, among other possible factors.
+ 2013 Elsevier Ltd. All rights reserved.
+1. Introduction
+Organic geochemistry has incorporated several techniques and
+processes to support oil exploration and production. Analyses of
+source rocks, rock extract (bitumen) and crude oils provide infor-
+mation on organic matter type, paleoenvironmental sedimentation
+conditions, source rock maturity and, if possible, oil–oil and oil–
+source rock correlation. The composition of unaltered crude oils
+is primarily determined by the characteristics of the source rock:
+(1) organic matter type, (2) depositional environment and (3) level
+of maturity. In addition, hydrocarbon reservoirs may be subject to
+multiple stages of charge, as well as to a number of alteration pro-
+cesses (e.g., biodegradation, water washing, deasphalting, gravity
+segregation and reservoir thermal alteration), that also contribute
+to changes in oil composition (Volkman et al., 1983a,b, 1984; Tissot
+and Welte, 1984; Hunt, 1995; Wenger et al., 2002; Peters et al.,
+2005; Larter et al., 2012). All of these factors result in a wide range
+of variability in oil quality that can mislead the interpretation of
+geochemical analyses; for example, in correlation studies (Curiale,
+2008).
+Biodegradation of oil involves the competing microbial metab-
+olism of various classes of compounds that alters oil ﬂuid proper-
+ties and economic value. More speciﬁcally, oil biodegradation
+typically (a) decreases API gravity, (b) reduces the content of satu-
+rated and aromatic hydrocarbons relative to polar compounds (c)
+increases oil viscosity, (d) increases oil acidity and (e) increases
+the sulfur content, and the concentration of certain metals (e.g.,
+V and Ni). As a consequence, the residual oil resulting from biodeg-
+radation becomes enriched in NSO compounds (resin and asphal-
+tene fractions), sulfur and metals (Wenger et al., 2002; Peters
+et al., 2005; Larter et al., 2006). The alteration of petroleum by bio-
+degradation is controlled by reservoir temperature (< 80 C), nutri-
+ents (nitrogen, potassium and phosphorus), oil composition, the
+oil–water contact area, water salinity and oil volume in the reser-
+voir (Wenger et al., 2002; Larter et al., 2006). Some biomarkers are
+of limited use when oils show evidence of heavy to severe biodeg-
+radation (Peters et al., 2005). Therefore, other parameters must be
+used in correlation studies; for example, the V/Ni ratio in oils
+(Al-Shahristani and Al-Thyia, 1972; López et al., 1991, 1995;
+0146-6380/$ - see front matter  2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.orggeochem.2013.10.014
+⇑Tel.: +58 212 6051417; fax: +58 212 6051152.
+E-mail address: liliana.lopez@ciens.ucv.ve
+Organic Geochemistry 66 (2014) 60–69
+Contents lists available at ScienceDirect
+Organic Geochemistry
+journal homepage: www.elsevier.com/locate/orggeochem
+
+--- PAGE 2 ---
+Frankenberger et al., 1994; Alberdi et al., 1996; López and Lo
+Mónaco, 2004, 2010).
+The extent of biodegradation has been evaluated using different
+scales based on the alteration/removal of saturated and aromatic
+compounds. For example, Volkman et al. (1983b) developed a bio-
+degradation scale based on the alteration of compounds in the sat-
+urated
+hydrocarbon
+fractions.
+Later,
+Volkman
+et
+al.
+(1984)
+expanded this scale to include aromatic hydrocarbons. The PM bio-
+degradation scale (Peters and Moldowan, 1993) is based on satu-
+rated
+biomarkers
+and
+select
+aromatic
+compounds
+(mainly
+aromatic steroids). Another scale that considers both saturated
+and aromatic hydrocarbons was developed by Wenger et al.
+(2002).
+Therefore, different biomarker biodegradation scales have been
+developed to assess the extent of oil biodegradation based on the
+comparisons of the relative abundance of a selection of hydrocar-
+bon compound classes in saturated (e.g., n-alkanes, pristane,
+phytane, terpanes, steranes) and aromatic (e.g., C1-, C2-, C3- and
+C4-naphthalenes, C2-phenanthrenes, and aromatic steroids) hydro-
+carbon fractions with different susceptibility to biodegradation
+(Volkman et al., 1983b, 1984; Peters and Moldowan, 1993; Wenger
+et al., 2002).
+In the aromatic compounds, the biodegradation level decreases
+with increasing number of aromatic rings, and isomers within indi-
+vidual compound classes have different susceptibility to biodegra-
+dation related to the position of the alkyl substituents (Huang
+et al., 2004a). Based on the study of crude oils from the Barrow
+sub-basin (Western Australia), Volkman et al. (1984) proposed
+the following order of biodegradation of aromatic hydrocarbons
+in
+oxic
+conditions:
+benzene > toluene > naphthalene > phenan-
+threne o polycyclic aromatic hydrocarbons; and there is a C1 -
+> C2 > C3 > Cn (n is the total number of C atoms in the alkyl
+substituent) tendency to biodegradation within each class. From
+the relative concentration of alkylnaphthalenes, the following
+order of biodegradation rate was proposed: 2MN > 1MN > 2,7-,
+1,7- and 1,6-DMN > 1,3- and 2,6-DMN > 1,4- and 1,5-DMN > 1,2-
+DMN > 2,3-DMN and 1-EN > 2-EN > 1,8-DMN (MN = methylnaph-
+thalene, DM = dimethylnaphthalene and EN = ethylnaphthalene).
+With respect to the selective biodegradation of structural isomers,
+it is considered that the b-methyl substituents are oxidized faster
+than the a-methyl substituent.
+Recently, Larter et al. (2012) developed a new biodegradation
+scale called Manco (Modular Analysis and Numerical Classiﬁcation
+of Oils) scale, based on integrating the extent of biodegradation
+of various aromatic compounds such as alkyl aromatic compounds
+(e.g., alkyltoluenes, naphthalenes, methylnaphthalenes, phenan-
+threne,
+methylphenanthrenes,
+methyldibenzothiophenes)
+and
+steranes. The authors noted that this scale can be applicable to
+heavily and severely biodegraded oils from western Canada, with
+biodegradation PM levels 4–8, as well as to the large reserves of
+biodegraded, heavy and extra heavy crude oils located in the Ori-
+noco Oil Belt from eastern Venezuela.
+It is well known that crude oils from the Orinoco Oil Belt are
+heavy and extra heavy due to biodegradation (Cassani and Eglin-
+ton, 1986; Fiorillo, 1987; Audemard et al., 1987; Alberdi et al.,
+1996). However, the degree of biodegradation of these oils varies
+considerably; some oils are characterized by the presence of n-al-
+kanes with an unresolved complex mixture (UCM) without sterane
+and hopane alteration and others show alteration of steranes and
+hopanes with formation of 25-norhopanes (López and Lo Mónaco,
+2010). The level of biodegradation inﬂuences the enhanced oil
+recovery process. This article presents the geochemical analysis
+of eleven crude oils from the Orinoco Oil Belt (Junín area) to deter-
+mine their biodegradation levels using both PM and Manco scales.
+The application of some geochemical parameters as indicators of
+organic matter type, depositional environment and level of matu-
+rity of source rock is discussed to corroborate that the observed
+changes are the result of biodegradation.
+2. Geological setting
+The Eastern Venezuela Basin covers an area of 165,000 km2, cor-
+responding to a number of ﬁelds located in the northern part and
+the Orinoco Oil Belt within the southern ﬂank of the basin
+(Fig. 1). This basin is divided into the Guárico and the Maturin
+sub-basins. The area under study is located in the Maturin sub-ba-
+sin (González de Juana et al., 1980).
+The Orinoco Oil Belt is divided into four areas: Boyacá (Ma-
+chete), Junín (Zuata), Ayacucho (Hamaca) and Carabobo (Cerro Ne-
+gro).
+The
+area
+under
+study
+is
+located
+in
+the
+Junín
+area.
+Stratigraphically, it is made up of rocks from Paleozoic and Ceno-
+zoic age that overlie the Precambrian igneous–metamorphic com-
+plex
+of
+the
+Guayana
+Shield.
+The
+principal
+hydrocarbons
+accumulations are in the basal sands of the Oﬁcina (early Miocene)
+and the Merecure (Oligocene) formations, with some minor oil
+accumulations in the underlying sands of the Temblador Group
+(Cretaceous) (Vega and Rojas, 1987). The oil reservoirs are charac-
+terized by ﬂuvial sequences with high sand content and ﬂuvio-del-
+taic environments with low sand proportions (Kopper et al., 2001;
+Pardo et al., 2007). The biodegraded hydrocarbon accumulations in
+the basin are heavy to extra heavy, with high sulfur concentration
+(Alberdi et al., 1996; López and Lo Mónaco, 2010). Based on the V/
+Ni ratio and some biomarkers, the crude oils from the Orinoco Oil
+Belt have been separated into three families (Alberdi et al., 1996).
+Two oil families have high V/Ni ratios (A: V/Ni = 3.6 and B: V/
+Ni = 5.2) with the presence of 18a(H)-oleanane in oils of family
+A. These two oil families originated from different facies of the
+source rock in the Upper Cretaceous Querecual and the San Anto-
+nio formations (Guayuta Group). Analyses of biomarker parame-
+ters and V/Ni ratio in these oils indicate that they originated
+from a carbonate rich source rock facies, with marine organic
+matter input deposited in more reducing conditions. The third oil
+family has a low V/Ni ratio (C: V/Ni = 0.7) and contains 18a(H)-
+oleanane and high diasteranes, indicating that the oils originated
+from an Upper Cretaceous or Tertiary deltaic marine shale (Alberdi
+et al., 1996).
+3. Experimental
+3.1. Analytical procedure
+Eleven crude oil samples (labeled A through K) were separated
+into asphaltene and maltene fractions applying the NF-T60.115
+method (AFNOR, 1975). The maltene fraction was separated into
+its saturated, aromatic and resin fractions by means of adsorption
+chromatography, using packed columns (20 cm long and 1.5 cm in
+diameter) with alumina as the stationary phase (20 g). The satu-
+rated hydrocarbons were eluted with n-hexane (30 ml), the aro-
+matic hydrocarbons with toluene (20 ml), and a mixture (15 ml)
+of toluene:methanol (70:30) was used for the elution of polar com-
+pounds (resins). Puriﬁcation of the saturated and the aromatic
+hydrocarbon fractions was carried out twice by liquid chromatog-
+raphy using packed columns like those described above.
+3.2. Samples analysis
+Gas chromatography (GC) of the saturated hydrocarbon frac-
+tions was carried out on a 6890N Agilent technologies gas chro-
+matograph using a ﬂame ionization detector (FID) and type DB-1
+fused capillary columns (60 m  0.25 mm  0.25 lm). Detailed
+analyses of the saturated and aromatic biomarkers were performed
+L. López / Organic Geochemistry 66 (2014) 60–69
+61
+
+--- PAGE 3 ---
+by gas chromatography–mass spectrometry (GC–MS) coupling the
+gas chromatograph to a 5975 Agilent Technologies mass spectrom-
+eter (operated in the single ion monitoring mode). In this case, the
+GC system was equipped with either type DB-1 or DB-5, fused sil-
+ica
+capillary
+column
+(60 m  0.25 mm  0.25 lm)
+to
+analyze
+the saturated and aromatic fractions. The monitored ions were:
+m/z = 191, 177, 217, 218 for terpanes, steranes and diaster-
+anes; m/z = 178, 192, 184, 198 for phenanthrene, methylphe-
+nanthrenes,
+dibenzothiophene + tetramethylnaphthalenes,
+and
+methyldibenzothiophenes + pentamethylnaphthalenes,
+respec-
+tively; and m/z = 231 for triaromatic steroids.
+4. Results and discussion
+4.1. Oil composition
+All the oils extracted from shallow depth reservoirs are heavy
+and extra heavy with API gravities ranging from 7.3–9.2 (Table 1).
+They have a high content of resins and asphaltenes (NSO: 49–75%),
+and low content of saturated hydrocarbons (5–11%) as shown in
+Fig. 2.
+4.2. Biomarkers: Organic matter type and source rock
+Considering that the distribution of terpanes appears unaltered
+by the biodegradation process that affected the investigated oils,
+these biomarkers are used in this work to assess the characteristics
+of the source rock(s) that generated these oils. Detailed study of
+biomarkers in terpanes mass chromatogram (m/z = 191) indicated
+the presence of 18aH-oleanane (Figs. 3–5) and the oleanane index
+(OI = [oleanane/(oleanane + C30
+hopane]  100)
+was
+calculated.
+The values obtained range from 3.4–10.3 (Table 2), all related to
+limited higher plant input during organic matter deposition (Peters
+et al., 2005). This suggests variations in terrigenous organic mate-
+rial input during deposition of the source rock. Of the three families
+of crude oils deﬁned by Alberdi et al. (1996) for the Orinoco Oil
+Fig. 1. Location of the Junín area in the Orinoco Oil Belt, Venezuela (after Fiorillo, 1987).
+62
+L. López / Organic Geochemistry 66 (2014) 60–69
+
+--- PAGE 4 ---
+Belt, the crude oils from the Junín area (formerly Zuata) lie within
+the families A and B. However, the presence of 18aH-oleanane was
+reported only in oils of family A, with an average oleanane index of
+5%. Therefore, it is proposed here that the analyzed crude oils are
+related to the oils of family A previously studied by Alberdi et al.
+(1996).
+The C24/C23 and C26/C25 tricyclic terpanes and C31R/C30 hopane
+ratios can be used to distinguish oils derived from carbonate, mar-
+ine shale, lacustrine, marls or carbonate source rocks (Peters et al.,
+2005). The calculated ratios are C24/C23 = 0.42–0.49, C26/C25 = 0.75–
+1.76 (high value only oil A), and C31R/C30 hopane = 0.39–0.44
+(Table 2). According to Peters et al. (2005), oils from carbonate
+source rocks can be distinguished by low C24/C23 ratio (< 0.6),
+low C26/C25 ratio (C26/C25 < 1.1) and C31R/C30 hopane ratios > 0.30.
+Therefore, the results for the C24/C23, C26/C25 and C31R/C30 hopane
+ratios, along with the low diasterane to sterane signal, suggest that
+the analyzed oils originated from a marine-carbonate source rock.
+Additional information on source rock lithofacies is derived
+from the isomer distribution pattern of methyldibenzothiophenes
+(MeDBT) (Hughes, 1984). The distribution pattern of DBT isomers
+corresponds to 4-MeDBT > 2,3-MeDBT < 1-MeDBT, as presented
+in Fig. 6. The data show that these oils are associated with carbon-
+ate rich source rocks, as already indicated by the tricyclic terpanes
+and hopane ratios (although caution must be exercised when using
+these parameters, since they may be affected by biodegradation).
+4.3. Biomarkers: Maturity
+The Ts/(Ts + Tm) ratio is a thermal maturity parameter based on
+the lower thermal stability of 17a-22,29,30-trisnorhopane (Tm)
+compared to that of 18a-22,29,30-trisnorneohopane (Ts). The
+calculated values for Ts/(Ts + Tm) ratio for the present samples
+(Table 2) were low (0.17–0.26). According to Peters et al. (2005),
+oils from carbonate source rocks show unusually low Ts/(Ts + Tm)
+ratio (6 0.25) compared to those from shales of anoxic environ-
+ments [Ts/(Ts + Tm) = 0.26–0.35]. The results in Table 2 indicate
+small differences in the level of maturity among the oil samples
+from the Junín area.
+The C31 to C35 homohopane isomerization calculated by the ratio
+22S/(22S + 22R) presented values in the range of 0.54–0.70 (Table 3)
+indicating that the main phase of oil generation has been reached or
+surpassed. Other indicators of maturity, such as steranes isomeriza-
+tion (C2920S or C29bb), cannot be used, because the oils are biode-
+graded and the microbial alteration affects the distribution of
+regular steranes. Instead, other maturity parameters based on aro-
+matic hydrocarbons are used and were applied in this work. There-
+fore, the aromatic distributions obtained for phenanthrene (P, m/
+z = 178), methylphenanthrenes (Me-P, m/z = 192) and triaromatic
+steroid (TAS, m/z = 231), which are not altered by biodegradation,
+were analyzed for the identiﬁcation of oil maturity (Table 2).
+The maturity of oils was also interpreted using the inferred vitr-
+inite reﬂectance (%Rc, equation in Table 2) (Radke and Welte, 1983;
+Radke et al., 1986) derived from the methylphenanthrene index
+(MPI-1), which is calculated using the peak areas of P and Me-P
+from m/z = 178 and 192 fragmentograms (Fig. 6), respectively.
+According to the values of these parameters, the samples from
+Junín area are in the beginning of the oil window. However, cau-
+tion needs to be exercised when using this relationship in crude
+Table 1
+Depth (m), API gravity and SARA oil composition (%w/w) for oil samples from Junín
+area.
+Sample
+Depth
+API
+Saturated
+Aromatic
+Resins
+Asphaltenes
+NSO
+A
+a
+8.5
+5
+26
+54
+15
+69
+B
+372.2
+8.4
+7
+24
+57
+12
+69
+C
+357.6
+7.3
+8
+21
+60
+11
+71
+D
+412.7
+8.7
+6
+31
+53
+10
+63
+E
+316.4
+8.4
+11
+14
+67
+8
+75
+F
+427.4
+9.0
+5
+30
+50
+15
+65
+G
+439.9
+8.3
+6
+31
+58
+5
+63
+H
+340.2
+9.0
+6
+27
+56
+11
+67
+I
+324.0
+9.2
+6
+30
+54
+10
+64
+J
+337.8
+9.3
+10
+40
+38
+12
+50
+K
+323.8
+8.4
+6
+45
+36
+13
+49
+a Data not available.
+Fig. 2. SARA compositions of oils.
+Fig. 3. Mass chromatograms of the terpanes (m/z 191, left) and steranes (m/z 217, right) in the saturated hydrocarbon fractions isolated from Oil A.
+L. López / Organic Geochemistry 66 (2014) 60–69
+63
+
+--- PAGE 5 ---
+oils from marine origin (Radke and Welte, 1983; Radke et al.,
+1986).
+Fig. 6 displays the mass chromatogram of triaromatic steroid
+hydrocarbons (m/z = 231) for the oil sample A. According to the lit-
+erature, the TAS remains unaltered in biodegraded oils and is used
+to determine oil source maturity level (Volkman et al., 1984). The
+study is based on the conversion of group II C26–C28 (TAS-II) to
+group I C20–C21 (TAS-I) triaromatic steroids (Peters and Moldowan,
+1993), by side chain cleavage during thermal maturation (equation
+in Table 2). The calculated ratios TAS = TAS-I/(TAS-I + TAS-II), indi-
+cate low conversion of TAS-II to TAS-I, and therefore a low maturity
+level for studied oils.
+Fig. 4. Gas chromatograms of the distribution of terpanes (m/z 191, left) and steranes (m/z 217, right) in the saturated hydrocarbon fractions extracted from Oil H.
+Fig. 5. Gas chromatograms of the distribution of terpanes (m/z 191, left) and steranes (m/z 217, right) in the saturated hydrocarbon fractions extracted from Oil I.
+Table 2
+Molecular ratios for oils from the Junín area.
+Sample
+C24-3/C23-3
+a
+C26-3/C25-3
+a
+C3122S/(22S + 22R)a
+Ts/(Ts + Tm)a
+Oleanane indexa
+MP1-1b
+Rcb
+TASa
+A
+0.42
+1.76
+0.58
+0.19
+10.3
+0.79
+0.88
+14.0
+B
+0.47
+0.78
+0.58
+0.26
+6.7
+0.75
+0.85
+16.0
+C
+0.43
+0.78
+0.58
+0.19
+8.3
+0.91
+0.95
+12.4
+D
+0.46
+0.76
+0.59
+0.23
+6.3
+1.04
+1.02
+12.3
+E
+0.49
+0.79
+0.58
+0.26
+8.5
+0.80
+0.88
+12.1
+F
+0.45
+0.77
+0.59
+0.18
+3.4
+0.73
+0.84
+13.4
+G
+0.45
+0.78
+0.59
+0.17
+3.6
+NA
+NA
+NA
+H
+0.47
+0.75
+0.58
+0.20
+8.3
+0.90
+0.94
+13.9
+I
+0.47
+0.85
+0.58
+0.21
+6.9
+NA
+NA
+NA
+J
+0.47
+0.88
+0.58
+0.26
+8.5
+0.94
+0.96
+15.5
+K
+0.44
+0.83
+0.58
+0.19
+10.3
+1.09
+1.05
+13.8
+C24-3/C23-3: Terpane tricyclic C24 to C23 ratio.
+C26-3/C25-3: Terpane tricyclic C26 to C25 ratio.
+Homohopanes isomerization = C3122S/(22S + 22R).
+Ts/Ts + Tm: [C2718a-trisnorhopane/(C2718a-trisnorhopane + C2717aTrisnorhopane)]  100.
+Oleanane index = oleanane/(oleanane + C30 hopane)  100.
+MP1-1 = 1.5(2Me + 3Me)/(P + 1Me + 9Me).
+Rc = 0.6MPI-1 + 0.4.
+TAS = TAI/(TAI + TAII) = ((C20–C21)/(C26–C28))  100; TAI = group I of triaromatic steroids C20–C21; TAII = group II of triaromatic steroids C26–C28.
+NA: no analyzed.
+a Peters et al. (2005).
+b Radke and Welte (1983).
+64
+L. López / Organic Geochemistry 66 (2014) 60–69
+
+--- PAGE 6 ---
+4.4. Biomarkers: biodegradation level: PM scale
+Fig. 7 shows typical examples of the distribution of n-alkanes
+and acyclic isoprenoid alkanes for two representative oils labeled
+A and C. All the samples studied exhibited a similar distribution
+for these compounds. The observed depletion of n-alkanes and acy-
+clic isoprenoid alkanes (phytane and pristane) indicate that all oils
+studied are biodegraded. In addition, the analysis of the distribu-
+tion of terpanes and steranes revealed different levels of biodegra-
+dation according to the PM scale, as discussed next.
+Oil A, was biodegraded to PM level 6–7 (heavy) as indicated by
+the depletion of n-alkanes and acyclic isoprenoid alkanes (pristane
+and phytane) and the alteration of C27–C29 steranes. There is evi-
+dence of partial degradation of C29–C30 hopanes and C31–C35
+homohopanes. The analysis of the fractions derived from oil A also
+revealed a preservation of diasteranes, C20 pregnane and C21 homo-
+pregnane, as presented in Fig. 3.
+Oils C, E, F, H, J and K have PM level 5–6 (moderate to heavy)
+and are characterized by depleted n-alkanes and acyclic isoprenoid
+alkanes (pristane and phytane), abundance of C23 tricyclic terpanes
+and slightly altered steranes. There is evidence of partial degrada-
+tion of C29–C30 hopanes and C31–C35 homohopanes (Fig. 4).
+Oils B, D, G and I have a PM level 4–5 (moderate) and are char-
+acterized by depleted n-alkanes and acyclic isoprenoids (pristane
+Fig. 6. Gas chromatograms of the: (A) C4-alkylnaphthalenes + dibenzothiophenes (m/z 184), (B) phenanthrenes (m/z 178), (C) methyldibenzothiophenes (m/z 198), (D)
+methylphenanthrene (m/z 192) and (E) triaromatic steroids (m/z 231) for Oil A.
+Table 3
+Manco scores calculated for oils from Orinoco Oil Belt Venezuela, Junín area.
+Sample
+Alkyl-tol
+N + MN
+C2N
+C3N
+MeDBT
+C4N
+C0-2P
+Sterane
+MN2
+PM level
+A
+4
+4
+4
+4
+0
+2
+0
+3
+963
+6–7 Heavy
+B
+4
+4
+4
+4
+0
+0
+0
+0
+500
+4–5 Moderate
+C
+4
+4
+4
+4
+0
+0
+0
+1
+876
+5–6 Moderate to heavy
+D
+4
+4
+4
+4
+0
+3
+0
+0
+716
+4–5 Moderate
+E
+4
+4
+4
+4
+0
+0
+0
+1
+876
+5–6 Moderate to heavy
+F
+4
+4
+4
+4
+0
+0
+0
+1
+876
+5–6 Moderate to heavy
+G
+4
+4
+4
+4
+0
+0
+0
+1
+500
+4–5 Moderate
+H
+4
+4
+4
+4
+0
+1
+0
+1
+500
+4–5 Moderate
+I
+4
+4
+4
+4
+0
+3
+0
+1
+884
+5–6 Moderate to heavy
+J
+4
+4
+4
+4
+0
+3
+0
+1
+884
+5–6 Moderate to heavy
+K
+4
+4
+4
+4
+0
+0
+0
+1
+876
+5–6 Moderate to heavy
+Alkyl-tol: alkyl toluenes, N + MN: C0-1 naphthalenes, C2N: C2-naphthalenes, C3N: C3-naphthalenes, MeDBT: methyl dibenzothiophenes,
+C4N: C4-naphthalenes, C0-2P: C0-2 phenanthrenes.
+L. López / Organic Geochemistry 66 (2014) 60–69
+65
+
+--- PAGE 7 ---
+and phytane), and abundance of C23 tricyclic terpane. There is no
+evidence of alteration of C27–C29 steranes, but the C29–C30 hopanes
+and C31–C35 homohopanes are partially biodegraded (Fig. 5).
+At high levels of biodegradation, homohopanes may be trans-
+formed into 25-norhopanes (10-demethylated hopanes) (Peters
+et al., 1996, 2005). These compounds apparently result from the
+bacterial removal of the methyl group at C-10 from the regular ho-
+panes and are identiﬁed using the ion m/z = 177 mass chromato-
+gram.
+When
+the
+formation
+of
+25-norhopanes
+occurs
+from
+hopanes, its appearance in the m/z = 177 chromatograms is ob-
+served at lower retention times (Volkman et al., 1983b). Compari-
+son of the m/z = 191 and m/z = 177 mass chromatograms (Fig. 8)
+reveals variation in the hopanes retention times. That is, there is
+evidence of biodegradation due to the loss of a methyl group,
+which indicates the presence of 25-norhopanes at trace levels com-
+pared to hopanes.
+4.5. Biomarkers: biodegradation level: Manco scale
+The analyzed oils are characterized by the preservation of phen-
+anthrene, methylphenanthrenes, C4-alkylnapthalenes, dibenzo-
+thiophene
+(DBT),
+methyldibenzothiophenes
+(MeDBT)
+and
+aromatic steroids (Fig. 6), as well as the depletion of alkyltoluenes,
+naphthalene, methylnaphthalenes and C2–C3 alkylnaphthalenes.
+The alteration of naphthalenes follows the order C0- > C2- > C3-
+> C4-naphthalene proposed by Wenger et al. (2002). The presence
+of terpanes, steranes and aromatic steroids indicates that the crude
+oils have not reached a biodegradation level of PM 10.
+The
+distribution
+of
+phenanthrene,
+methylphenanthrenes,
+MeDBT and triaromatic steroids are similar in all analyzed samples,
+without variations in the relative intensities of these compounds
+among samples. However, DBT and C4-alkylnapthalenes exhibit
+variation in their relative distributions (Fig. 9), allowing the deter-
+mination of variations in the biodegradation degree of oils accord-
+ing to the Manco scale. With respect to the susceptibility to
+biodegradation of the methyl isomers, the b-methylnaphthalenes
+are oxidized faster than the a-methylnaphthalenes (Volkman
+et al., 1984). Therefore, the C4-naphthalene (TeMN) isomers most
+susceptible to biodegradation would be 1,3,6,7-TeMN (abbb);
+1,2,3,6-TeMN
+(abbb);
+2,3,6,7-TeMN
+(bbbb)
+and
+1,2,3,7-TeMN
+(abbb), whose signal intensities are lower in crude oils A, D, H,
+and J that present alteration of these compounds (see Fig. 9 and Ta-
+ble 3). In contrast, the b isomers are more thermally stable than
+their a counterparts (Radke, 1987). However, it has been indicated
+that the b isomers are not always more abundant in mature crude
+oils; especially at high methylation levels (e.g., in C3- and C4-naph-
+thalenes). On the other hand, it was previously concluded that
+thermal stress is the main contributing factor to the distribution
+of these compounds, which affects each class of methylated naph-
+thalene in a very similar manner (van Aarssen et al., 1999). Because
+the analyzed crude oils are approximately the same thermal matu-
+rity, it is suggested that biodegradation is the main contributing
+factor to the distribution of C4-naphthalenes.
+Table 3 shows the assignment of Manco scores for the determi-
+nation of the Manco number (MN2) in the Manco scale, based on
+the varying degrees of alteration by biodegradation of mono- and
+poly-aromatic hydrocarbons and steranes in heavy and extra heavy
+crude oils from the Orinoco Oil Belt. This scale provides new infor-
+mation on the biodegradation level of these oils and includes other
+compounds different from saturated hydrocarbons (n-alkanes, acy-
+clic isoprenoids, steranes and hopanes) and some aromatics
+(monoaromatic and triaromatic steroids), used in the PM scale.
+Eight compound classes are used in this work to deﬁne the biodeg-
+radation level based on the Manco scale, i.e., 1-, 2- and 3-ring aro-
+matic
+hydrocarbons
+(e.g.,
+alkyltoluenes,
+naphthalenes +
+methylnaphthalenes,
+C2-,
+C3-,
+C4-alkylnaphthalenes,
+C0–C2
+alkylphenanthrenes), MeDBT and steranes (Larter et al., 2012).
+The scores, ranging from Manco score MS = 0–4, distinguish quali-
+tatively ﬁve levels of biodegradation for each compound class as:
+non-degraded or pristine (MS = 0), very slightly degraded or light
+(MS = 1), midway between the extremes or moderate (MS = 2),
+not quite fully degraded or heavy (MS = 3), and fully degraded or
+depleted (MS = 4). The MS values obtained for a given sample are
+then used to derive the biodegradation level descriptor, known
+as Manco number (MN2), set to an arbitrary maximum value of
+1000.
+The detailed study of the group of compounds used to deter-
+mine the MN2 values indicates that only C4-alkylnaphathalenes,
+DBT (not considered in the MN2 determination), and steranes
+show differences in the biodegradation levels. Fig. 9 shows the dis-
+tribution of C4-alkylnaphthalenes and DBT (m/z = 184), for selected
+samples. Clear variations are observed in the relative intensities of
+both C4-alkylnaphthalenes and DBT. This suggests differences in
+the alteration level of these compounds in the analyzed oils.
+Although DBT is more resistant to biodegradation compared to
+its methylated isomers (Huang et al., 2004a), here there are varia-
+tions in the intensity of the DBT and C4-alkylnaphthalene signals
+(Fig. 9). This suggests differences in the alteration level of these
+compounds in the analyzed oils. For example, bacterial communi-
+ties have been shown to degrade DBT (Frassinetti et al., 1998; Lu
+et al., 1999; Seo et al., 2006).
+The oil with the highest Manco number (MN2 = 963) is the most
+altered with heavy biodegradation level according to the PM scale
+as well. The oils exhibiting moderate PM biodegradation level have
+MN2 numbers < 716, and those ranked in the moderate to heavy
+PM level present MN2 from 876–884 (Table 3). Although these
+crude oils are ranked at similar biodegradation levels according
+to both the PM and Manco scales, the latter provides additional
+Fig. 7. Gas chromatogram showing the typical distribution of n-alkanes in the saturated hydrocarbon fractions of two representative crude oils.
+66
+L. López / Organic Geochemistry 66 (2014) 60–69
+
+--- PAGE 8 ---
+Fig. 8. m/z 191 and m/z 177 mass chromatograms showing a comparison of the distribution of hopanes in the saturated hydrocarbon fractions extracted from Oils A, D, and F.
+Note that in both mass chromatograms, the hopanes elute at different retention times indicating the presence of 25-norhopanes.
+L. López / Organic Geochemistry 66 (2014) 60–69
+67
+
+--- PAGE 9 ---
+resolution to better differentiate the biodegradation level due to
+some variations in the MS score for C4-alkylnaphthalenes and ster-
+anes used in the calculations of MN2 values. For example, oils B
+and D both show biodegradation levels 4 to 5 (moderate to heavy)
+in the PM scale, while in the Manco scale theses oils are well differ-
+entiated, with oil D being classiﬁed as much more altered
+(MN2 = 716 vs. MN2 = 500 for oil B) based on the alteration of
+C4-alkylnaphthalenes (MS = 3 vs. MS = 0 for oil B).
+The Manco number (Larter et al., 2012) allows for a more ade-
+quate description of the level of biodegradation of heavy and extra
+heavy crude oils (PM level 5–8). The precise determination of the
+extent of biodegradation is crucial in the choice of the different
+exploitation strategies that may be applicable depending on the
+physical properties of the oils; largely the oil viscosity.
+Even though the MN2 values vary over a wide range of 500–963
+(Table 3), there are no signiﬁcant variations in the API gravity val-
+ues of the crude oils (Table 1). Larter et al. (2012) found that there
+is not a simple relationship between the oil viscosity and the Man-
+co number. Thus, processes other than biodegradation can be
+important in controlling in-reservoir oil properties. Independently
+of the level of biodegradation, the initial oil composition and any
+secondary charge, water washing under extreme and unusual con-
+ditions, and loss of light ends from heavy oils could result in a sig-
+niﬁcant increase in viscosity. In addition to biodegradation, mixing
+of multiple maturity oil charges could also produce variations in oil
+viscosity and API gravity for heavy oils.
+Hence, the observed differences in MN2 values could be attrib-
+uted to multiple causes. Variations in oil quality are commonly ob-
+served in biodegraded oil systems (Huang et al., 2004b; Larter
+et al., 2006), generally due to the coupled effect of degradation
+ﬂuxes and oil charge history (Larter et al., 2003, 2006). Differences
+in biodegradation levels may also be caused by different communi-
+ties of microorganisms or varying origins and/or maturities of the
+crude oils.
+4.6. Final remarks
+The calculated source and maturity related parameters, valid for
+the levels of oil biodegradation observed in this study, suggest that
+the crude oils investigated from the Orinoco Belt have a common
+origin and similar maturities. Therefore, the observed differences
+in the levels of biodegradation according to the PM and Manco bio-
+degradation scales may be attributed to variations in parameters
+that control biodegradation rates across the study area, such as
+temperature, nutrient supply, proximity to oil–water contacts, or
+the existence varying communities of microorganisms, among
+other possible factors.
+The levels of biodegradation of crude oils from the Orinoco Oil
+Belt (Junín area) were assessed using both the PM and Manco bio-
+degradation scales. Both scales agree on the presence of different
+levels of biodegradation for the analyzed oils, although they are
+based on different groups of compounds. The PM scale uses mainly
+Fig. 9. Mass chromatograms of the distribution of C4-alkylnaphthalenes and dibenzothiophenes (m/z 184) in selected oil samples. 1: 1357TeMN, 2: 1367 TeMN, 3: 1246,
+1247, 1467TeMN, 4: 1257 TeMN, 5: 2367 TeMN 6: 1267 TeMN, 7: 1237 TeMN, 8: 1236 TeMN, 9: 1256, 1235 TeMN. DBT: dibenzothiophene.
+68
+L. López / Organic Geochemistry 66 (2014) 60–69
+
+--- PAGE 10 ---
+compounds from the saturated hydrocarbon fractions (e.g., n-al-
+kanes, acyclic isoprenoids, terpanes and steranes), together with
+aromatic steroids. On the other hand, the Manco scale considers
+other compounds (e.g., alkyltoluenes, naphthalene, methylnaph-
+thalene, phenanthrene, alkyl phenanthrenes and methyldibenzo-
+thiophenes) not included in the PM biodegradation scale. Thus, a
+comparison between these scales allows the determination of the
+alteration level of both compound classes (saturated and aromatic
+hydrocarbons) as a result of biodegradation.
+The Manco number is designed to be useful to determine the
+quality of heavy and extra heavy crude oils (PM level 5–8) and to
+adequately establish subtle differences in the extent of biodegrada-
+tion that allows the implementation of appropriate exploitation
+strategies.
+Acknowledgements
+This work was funded by the Consejo de Desarrollo Cientíﬁco y
+Humanístico de la Universidad Central de Venezuela, under research
+Grants: PG-03-8204-2011. Thanks to Norka Marcano for her
+comments and suggestions. The author is grateful to C. Walters
+and two anonymous reviewers for their critical reviews of the man-
+uscript, which contributed to improving the original manuscript.
+Associate Editor—Cliff Walters
+References
+van Aarssen, B.G.K., Bastow, T.P., Alexander, R., Kagi, R.I., 1999. Distributions of
+methylated naphthalenes in crude oils: indicators of maturity, biodegradation
+and mixing. Organic Geochemistry 30, 1213–1227.
+Association Française of Normalization (AFNOR), 1975. Dosage des Asphaltènes
+Précipités par l’Heptane Normal. Paris, France.
+Alberdi, M., López, C., Galarraga, F., 1996. Genetic classiﬁcation of crude oils families
+in the Eastern Venezuelan Basin. Boletín de la Sociedad Venezolana de Geólogos
+21, 7–21.
+Al-Shahristani, H., Al-Thyia, M.J., 1972. Vertical migration of oil in Iraqi Oil Fields:
+evidence based on vanadium and nickel concentrations. Geochimica et
+Cosmochimica Acta 36, 929–938.
+Audemard,
+N.,
+Chirinos,
+M.L.,
+Layrisse,
+I.,
+1987.
+Physical
+and
+chemical
+characterization of heavy crude oil in the Orinoco Oil Belt: Section II.
+Characterization, maturation, and degradation. Studies in Geology SG 25:
+exploration for Heavy Crude Oil and Natural Bitumen, 183–191 (Special
+Publication).
+Cassani, F., Eglinton, G., 1986. Organic geochemistry of Venezuelan extra-heavy oils:
+1. Pyrolysis of asphaltenes: a technique for the correlation and maturity
+evaluation of crude oils. Chemical Geology 56, 167–183.
+Curiale, J.A., 2008. Oil–source rock correlations – limitations and recommendations.
+Organic Geochemistry 39, 1150–1161.
+Fiorillo, G.M., 1987. Exploration and evaluation of the Orinoco Oil Belt. In: Meyers,
+R.F. (Ed.), Exploration for Heavy Crude Oil and Natural Bitumen, vol. 25.
+American Association of Petroleum Studies in Geology, pp. 103–121.
+Frankenberger, A., Brooks, R.R., Varela-Alvarez, H., Collen, J.D., Filby, R.H., Fitzgerald,
+SL., 1994. Classiﬁcation of some New Zealand crude oils and condensates by
+means of their trace elements contents. Applied Geochemistry 9, 65–71.
+Frassinetti, S., Setti, L., Corti, A., Farrinelli, P., Montevecchi, P., Vallini, G., 1998.
+Biodegradation of dibenzothiophene by a nodulating isolate of Rhizobium
+meliloti. Canadian Journal of Microbiology 44, 289–297.
+González De Juana, C., Piccard, X., Pimentel, N., 1980. Geología de Venezuela y de
+sus cuencas petrolíferas. Ediciones Foninves, p. 1001.
+Huang, H., Blower, B.F.J., Oldenburg, T.B.P., Larter, S.R., 2004a. The effect of
+biodegradation on polycyclic aromatic hydrocarbons in reservoired oils from
+the Liaohe basin, NE China. Organic Geochemistry 35(11–12), 1619–1634
+(Advances in Organic Geochemistry 2003. Proceedings of the 21st International
+Meeting on Organic Geochemistry).
+Huang, H., Larter, S.R., Bowler, B.F.J., Oldenburg, T.B.P., 2004b. A dynamic
+biodegradation
+model
+suggested
+by
+petroleum
+compositional
+gradients
+within
+reservoir
+columns
+from
+the
+Liaohe
+basin,
+NE
+China.
+Organic
+Geochemistry 35, 299–316.
+Hughes, W.B., 1984. Use of thiophenic organosulfur compounds in characterizing
+crude oils derived from carbonate versus siliciclastic sources. In: Palacas, J.F.
+(Ed.), Petroleum Geochemistry and Source Rock Potential of Carbonate Rocks,
+vol. 18. American Association of Petroleum Studies in Geology, pp. 181–196.
+Hunt, J.M., 1995. Petroleum Geochemistry and Geology, second ed. W.H. Freeman,
+San Francisco, p. 743.
+Kopper, R., Kupecz, J., Curtis, C., Cole, T., Dorn-López, Do., Copley, J., Muñoz, A.,
+Caicedo, V., 2001. Reservoir characterization of the Orinoco Heavy Oil Belt:
+Miocene Oﬁcina Formation, Zuata Field, Eastern Venezuela Basin. Society of
+Petroleum Engineers SPE 69697, 1–16.
+Larter, S., Wilhelms, I., Head, I., Koopmans, M., Aplin, A., di Primio, R., Zwach, C.,
+Erdmann, M., Telnaes, N., 2003. The controls on the composition of biodegraded
+oils in the deep subsurface. Part 1 – biodegradation rated in petroleum
+reservoirs. Organic Geochemistry 34, 601–613.
+Larter, S., Huang, H., Adams, J., Bennett, B., Jokanola, O., Oldenburg, T., Jones, M.,
+Head, I., Riediger, C., Fowler, M., 2006. The controls on the composition of
+biodegraded oil in the deep subsurface. Part II – geological controls on
+subsurface biodegradation ﬂuxes and constraints on reservoir-ﬂuid property
+prediction. American Association of Petroleum Geologist Bulletin 90, 921–
+938.
+Larter, S., Huang, H., Adams, J., Bennett, B., Snowdon, L.R., 2012. A practical
+biodegradation scale for use in reservoir geochemical studies of biodegraded
+oils. Organic Geochemistry 45, 66–76.
+López, L., Lo Mónaco, S., Espinoza, A., Blanco, A., 1991. Distribución de vanadio,
+níquel y azufre en crudos y asfaltenos de los campos Mara y Mara Oeste, Cuenca
+del Lago de Maracaibo, Venezuela. Interciencia 16, 333–342.
+López, L., Lo Mónaco, S., Galarraga, F., Lira, A., Cruz, C., 1995. V/Ni ratio in maltene
+fractions of crude oils from West Venezuela Basin: correlation studies. Chemical
+Geology 119, 255–262.
+López, L., Lo Mónaco, S., 2004. Geochemical implications of trace elements and
+sulfur in the saturate, aromatic and resin fractions of crude oil from the Mara
+and Mara Oeste ﬁelds, Venezuela. Fuel 83, 365–374.
+López, L., Lo Mónaco, S., 2010. Geoquímica de crudos de la Faja Petrolífera del
+Orinoco. Cuenca Oriental de Venezuela. Revista de la Facultad de Ingeniería.
+UCV 25, 41–50.
+Lu, J., Toshiaki Nakajima-Kambe, T., Ohbo, A., Nomura, N., Nakahara, T., 1999.
+Biodegradation of dibenzothiophene and 4,6-dimethyldibenzothiophene by
+Sphingomonas
+paucimobilis
+strain
+TZS-7.
+Journal
+of
+Bioscience
+and
+Bioengineering 88, 293–299.
+Pardo, E., Casas, J., Marcos, J., Delgado, D., Expósito, M., Bellorino, J.P., 2007.
+Integración de la data ﬁsicoquímica para la construcción del modelo del
+acuífero de SINCOR, Faja del Orinoco, Venezuela. IX Congreso Geológico
+Venezolano. Caracas, Venezuela.
+Peters, K.E., Moldowan, J.M., 1993. The Biomarker Guide: Interpreting Molecular
+Fossils in Petroleum and Ancient Sediments. Prentice Hall, Englewood Cliffs,
+New Jersey, p. 363.
+Peters,
+K.E.,
+Moldowan,
+J.M.,
+McCaffrey,
+M.A.,
+Fago,
+F.J.,
+1996.
+Selective
+biodegradation
+of
+extended
+hopanes
+to
+25-norhopanes
+in
+petroleum
+reservoirs: insights from molecular mechanics. Organic Geochemistry 24,
+765–783.
+Peters, K.E., Walters, C.C., Moldowan, J.M., 2005. The Biomarker Guide, second ed.
+Cambridge University Press, Cambridge, UK.
+Radke, M., Welte, D.H., 1983. The methylphenanthrene index (MPI): a maturity
+parameter based on aromatic hydrocarbons. In: Bjorøy, M., Albrecht, P.,
+Cornford, C., de Groot, K., Eglinton, G., Galimov, E., Leythaeuser, D., Pelet, R.,
+Rulkötter, J., Speers, G. (Eds.), Advances in Organic Geochemistry 1981. John
+Wiley & Sons, pp. 504–512.
+Radke, M., Welte, D.H., Wilsch, H., 1986. Maturity parameters based on aromatic
+hydrocarbons: inﬂuence of the organic matter type. Organic Geochemistry 10,
+51–63.
+Radke, M., 1987. Organic geochemistry of aromatic hydrocarbons. In: Advances in
+Petroleum Geochemistry, vol. 2. Academic Press, London, pp. 41–207.
+Seo, J.-S., Keum, Y., Cho, K., Li, Q., 2006. Degradation of dibenzothiophene and
+carbazole
+by
+Arthrobacter
+sp.
+P1-1.
+International
+Biodeterioration
+&
+Biodegradation 58, 36–43.
+Tissot, B.P., Welte, D.H., 1984. Petroleum Formation and Occurrence,
+second ed.
+Springer-Verlag, New York, p. 699.
+Vega, A., Rojas, I., 1987. Exploration and evaluation of the Zuata Area, Orinoco Oil
+Belt, Venezuela. Journal of Petroleum Geology 10, 163–167.
+Volkman, J.K., Alexander, R., Kagi, R.I., Noble, R.A., Woodhouse, G.W., 1983a. A
+geochemical reconstruction of oil generation in the Barrow Sub-basin of
+Western Australia. Geochimica et Cosmochimica Acta 47, 2091–2105.
+Volkman, J.K., Alexander, R., Kagi, R.I., Woodhouse, C.W., 1983b. Demethylated
+hopanes in crude oils and their applications in petroleum geochemistry.
+Geochimica et Cosmochimica Acta 47, 785–794.
+Volkman, J.K., Alexander, R., Kagi, R.I., Rowland, S.J., Sheppard, P.N., 1984.
+Biodegradation of aromatic hydrocarbons in crude oils from the Barrow Sub-
+basin of Western Australia. Organic Geochemistry 6, 619–632.
+Wenger, L.M., Davis, C.L., Isaksen, G.H., 2002. Multiple controls on petroleum
+biodegradation
+and
+impact
+on
+oil
+quality.
+SPE
+Reservoir
+Evaluation
+&
+Engineering 5, 375–383.
+L. López / Organic Geochemistry 66 (2014) 60–69
+69

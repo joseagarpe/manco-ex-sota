@@ -1,0 +1,667 @@
+parm_cd,parm_cd_ref,parm_shortname,parm_cd_descript,units,CASRN,version_when_added
+x00003,NWIS,SamplingDepth_ft,"Sampling depth, feet",feet,,version 1.0
+x00020,NWIS,AirTemp_C,"Temperature, air, degrees Celsius",Celsius,,version 1.0
+x00025,NWIS,Barometric_mm,"Barometric pressure, millimeters of mercury",mm/Hg,,version 1.0
+x00028,NWIS,AnalyzingAgency,Analyzing agency,,,version 1.0
+x00059,NWIS,FlowRate_galMin,"Flow rate, instantaneous, gallons per minute",gal/min,,version 1.0
+x00063,NWIS,NumberSamplingPoints,"Number of sampling points, count",,,version 1.0
+x00065,NWIS,GageHeight_ft,"Gage height, feet",feet,,version 1.0
+x00095,NWIS,SpecificCond_uScm,"Specific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius",uS/cm @25C,,version 1.0
+x00191,NWIS,Hydrogen_Ion_mgL,"Hydrogen ion, water, unfiltered, calculated, milligrams per liter",mg/L,,version 1.0
+x00301,NWIS,DissO_PercentSaturation,"Dissolved oxygen, water, unfiltered, percent of saturation",% saturatn,,version 1.0
+x00900,NWIS,HardnessCaCO3_mgL,"Hardness, water, milligrams per liter as calcium carbonate",mg/L CaCO3,,version 1.0
+x00931,NWIS,NaAdsorptionRatio,"Sodium adsorption ratio, water, number",,,version 1.0
+x01005,NWIS,Barium_ugL,"Barium, water, filtered, micrograms per liter",ug/L,`7440-39-3,version 1.0
+x01010,NWIS,Beryllium_ugL,"Beryllium, water, filtered, micrograms per liter",ug/L,`7440-41-7,version 1.0
+x01025,NWIS,Cadmium_ugL,"Cadmium, water, filtered, micrograms per liter",ug/L,`7440-43-9,version 1.0
+x01035,NWIS,Cobalt_ugL,"Cobalt, water, filtered, micrograms per liter",ug/L,`7440-48-4,version 1.0
+x01040,NWIS,Copper_ugL,"Copper, water, filtered, micrograms per liter",ug/L,`7440-50-8,version 1.0
+x01046,NWIS,Iron_ugL,"Iron, water, filtered, micrograms per liter",ug/L,`7439-89-6,version 1.0
+x01049,NWIS,Lead_ugL,"Lead, water, filtered, micrograms per liter",ug/L,`7439-92-1,version 1.0
+x01056,NWIS,Manganese_ugL,"Manganese, water, filtered, micrograms per liter",ug/L,`7439-96-5,version 1.0
+x01060,NWIS,Molybdenum_ugL,"Molybdenum, water, filtered, micrograms per liter",ug/L,`7439-98-7,version 1.0
+x01080,NWIS,Strontium_ugL,"Strontium, water, filtered, micrograms per liter",ug/L,`7440-24-6,version 1.0
+x01085,NWIS,Vanadium_ugL,"Vanadium, water, filtered, micrograms per liter",ug/L,`7440-62-2,version 1.0
+x01106,NWIS,Aluminum_ugL,"Aluminum, water, filtered, micrograms per liter",ug/L,`7429-90-5,version 1.0
+x01130,NWIS,Lithium_ugL,"Lithium, water, filtered, micrograms per liter",ug/L,`7439-93-2,version 1.0
+x01300,NWIS,OilGrease,"Oil and grease, severity, code",code,,version 1.0
+x01305,NWIS,SudsFoam,"Suds or foam, severity, code",code,,version 1.0
+x01320,NWIS,Floating_Garbage,"Floating garbage, severity, code",code,,version 1.0
+x01325,NWIS,FloatingAlgaeMats,"Floating algae mats, severity, code",code,,version 1.0
+x01330,NWIS,AtmosphericOdor,"Odor, atmospheric, severity, code",code,,version 1.0
+x01340,NWIS,DeadFish,"Dead fish, severity, code",code,,version 1.0
+x01345,NWIS,FloatingDebris,"Floating debris, severity, code",code,,version 1.0
+x01350,NWIS,Turbidity,"Turbidity, severity, code",code,,version 1.0
+x30207,NWIS,GageHeight_m,"Gage height, above datum, meters",meters,,version 1.0
+x34010,NWIS,Toluene_ugL,"Toluene, water, unfiltered, recoverable, micrograms per liter",ug/L,,version 1.0
+x34030,NWIS,Benzene_ugL,"Benzene, water, unfiltered, recoverable, micrograms per liter",ug/L,,version 1.0
+x34371,NWIS,Ethylbenzene_ugL,"Ethylbenzene, water, unfiltered, recoverable, micrograms per liter",ug/L,,version 1.0
+x50280,NWIS,SiteVisitPurpose,"Site visit purpose, code",,,version 1.0
+x71875,NWIS,HydroSulfide_mgL,"Hydrogen sulfide, water, unfiltered, milligrams per liter",mg/L,`7783-06-4,version 1.0
+x71999,NWIS,SamplePurpose,"Sample purpose, code",,,version 1.0
+x72004,NWIS,PumpPeriodPriorSampling_min,"Pump or flow period prior to sampling, minutes",minutes,,version 1.0
+x72005,NWIS,SampleSource,"Sample source, code",,,version 1.0
+x72006,NWIS,SamplingCondition,"Sampling condition, code",,,version 1.0
+x72019,NWIS,DepthToWL_ft,"Depth to water level, feet below land surface",ft,,version 1.0
+x77135,NWIS,oxylene_ugL,"ortho-Xylene, water, unfiltered, recoverable, micrograms per liter",ug/L,,version 1.0
+x78032,NWIS,Methyl_tertButyl Ether_ugL,"Methyl tertiary-butyl ether, water, unfiltered, recoverable, micrograms per liter",ug/L,,version 1.0
+x81551,NWIS,xylene_Isomers_ugL,"Xylene (all isomers), water, unfiltered, recoverable, micrograms per liter",ug/L,`1330-20-7,version 1.0
+x82398,NWIS,SamplingMethod,"Sampling method, code",,,version 1.0
+x84164,NWIS,SamplerType,"Sampler type, code",,,version 1.0
+x85795,NWIS,mxylene_ugL,"meta-Xylene plus para-xylene, water, unfiltered, recoverable, micrograms per liter",ug/L,,version 1.0
+x99111,NWIS,QualityAssurance_Sample,"Type of quality assurance data associated with sample, code",,,version 1.0
+x99112,NWIS,QualityControl_data,"Topical quality-control data purpose, code",,,version 1.0
+x99128,NWIS,IronII_dissolved_mgL,"Iron(II), water, unfiltered, field, milligrams per liter",mg/L,,version 1.0
+x99162,NWIS,ConductanceStandard_KCl_250uScm,"Conductance standard NWIS lot number, 250 uS/cm KCl, National FieldSupply Service (NFSS) stock number Q44FLD",uS/cm,,version 1.0
+x99165,NWIS,ConductanceStandard_KCl_1000uScm,"Conductance standard NWIS lot number, 1000 uS/cm KCl, National FieldSupply Service (NFSS) stock number Q47FLD",uS/cm,,version 1.0
+x99171,NWIS,pH10Buffer,"pH 10 Buffer solution, NWIS lot number, National Field Supply Service(NFSS) stock numbers Q122FLD, Q123FLD",,,version 1.0
+x99173,NWIS,pH7Buffer,"pH 7 Buffer solution, NWIS lot number, National Field Supply Service(NFSS) stock numbers Q126FLD, Q127FLD",,,version 1.0
+x99200,NWIS,LotNumber,"Lot number, first, inorganic-grade water, number",,,version 1.0
+x99832,NWIS,DCE_PercentRecovery," 1,2-Dichloroethane-d4, surrogate, water, unfiltered, percent recovery",,,version 1.0
+x99833,NWIS,Toluened8_PercentRecovery,"Toluene-d8, surrogate, water, unfiltered, percent recovery",,,version 1.0
+x99834,NWIS,1bromo4fluorobenzene_PercentRecovery,"1-Bromo-4-fluorobenzene, surrogate, VOC schedules, water, unfiltered,percent recovery",,,version 1.0
+xL0001,Local,OrganicVaporMonitor,Organic Vapor Monitor. Presented in Barry Powers report,ppm,,version 1.0
+xL0007,Local,TopOfScreenDepth_ftBLS,"Depth to the top of a well screen, feet below land surface",feet below land surface,,version 1.0
+xL0008,Local,BottomOfScreenDepth_ftBLS,"depth to the bottom of a well screen, feet below land surface",feet below land surface,,version 1.0
+xL0009,Local,ScreenLength_ft,"length of a well screen, feet",feet,,version 1.0
+xL0010,Local,TailPipeLength_ft,"length of the well casing below the bottom of the screen, feet",feet,,version 1.0
+xLO046,Local,Fe_T_mgL,"Total iron, water, filtered, milligrams per liter",mg/L,`7439-89-6,version 1.0
+x00010,NWIS,Temp_C,"Temperature, water, unfiltered, field, degrees Celsius",deg C,,version 1.0
+x00090,NWIS,Eh_m_mV,"Oxidation-reduction Potential, water, unfiltered, field, millivolts",mV,,version 1.0
+x00300,NWIS,DO_mgL,"Dissolved oxygen, water, unfiltered, field, milligrams per liter",mg/L,`7782-44-7,version 1.0
+x00400,NWIS,pH,"pH, water, unfiltered, field, standard pH units",pH units,,version 1.0
+x00418,NWIS,ALK_mgL,"Alkalinity, water, filtered, field, milligrams per liter",mg/L,,version 1.0
+x00608,NWIS,NH4_mgL,"Ammonium, water, filtered, milligrams per liter as nitrogen",mg/L,,version 1.0
+x00618,NWIS,NO3_mgL,"Nitrate, water, filtered, milligrams per liter as nitrogen",mg/L N,`14797-55-8,version 1.0
+x00681,NWIS,TDOC_mgL,"Total dissolved organic carbon, water, filtered, milligrams per liter",mg/L,,version 1.0
+x00915,NWIS,Ca_mgL,"Calcium, water, filtered, milligrams per liter",mg/L,`7440-70-2,version 1.0
+x00925,NWIS,Mg_mgL,"Magnesium, water, filtered, milligrams per liter",mg/L,`7439-95-4,version 1.0
+x00930,NWIS,Na_mgL,"Sodium, water, filtered, milligrams per liter",mg/L,`7440-23-5,version 1.0
+x00935,NWIS,K_mgL,"Potassium, water, filtered, milligrams per liter",mg/L,`7440-09-7,version 1.0
+x00940,NWIS,Cl_mgL,"Chloride, water, filtered, milligrams per liter",mg/L,`16887-00-6,version 1.0
+x00945,NWIS,SO4_mgL,"Sulfate, water, filtered, milligrams per liter",mg/L,`14808-79-8,version 1.0
+x00955,NWIS,SiO2_mgL,"Silica, water, filtered, milligrams per liter",mg/L,,version 1.0
+x30210,NWIS,Wtbl_mBLS,"Depth to water-table water level, meters below land surface",m BLS,,version 1.0
+x46123,NWIS,Fe_2_mgL,"Ferrous iron, water, filtered, milligrams per liter",mg/L,`7439-89-6,version 1.0
+x49982,NWIS,BulkDen_gcm3,"Bulk density, soil, dry, grams per cubic centimeters",g/cm3,,version 1.0
+x52777,NWIS,Fe_T_mgL,"Total iron, water, filtered, milligrams per liter",mg/L,`7439-89-6,version 1.0
+x52779,NWIS,Mn_mgL,"Manganese, water, filtered, milligrams per liter",mg/L,`7439-96-5,version 1.0
+x65241,NWIS,C13CH4_mill,"Delta carbon-13/carbon-12 of methane, water, dissolved, relative to PeeDee belemnite, unfiltered, per mil",per mil,,version 1.0
+x68831,NWIS,CH4_mgL,"Methane, water, dissolved, unfiltered, milligrams per liter",mg/L,`74-82-8,version 1.0
+x82082,NWIS,H2_ mil,"Deuterium, water, unfiltered, per mil",per mil,,version 1.0
+x82085,NWIS,O18_mil,"Delta oxygen-18/oxygen-16, water, unfiltered, per mil",per mil,,version 1.0
+xLO001,Local,1234TMeBz_dNaph_mgG,"1,2,3,4-Tetramethylbenzene using d-naphthalene, oil, milligrams per gram",mg/g,,version 1.0
+xLO002,Local,1234TMeBz_mgL,"1,2,3,4-Tetramethylbenzene, water, unfiltered, milligrams per liter",mg/L,`488-23-3,version 1.0
+xLO003,Local,1235TMeBz_d-Naph_mgG,"1,2,3,5-Tetramethylbenzene using d-naphthalene, oil, milligrams per gram",mg/g,,version 1.0
+xLO004,Local,1235TMeBz_mgL,"1,2,3,5-Tetramethylbenzene, water, unfiltered, milligrams per liter",mg/L,`527-53-7,version 1.0
+xLO005,Local,123TMeBz_mgG,"1,2,3-Trimethylbenzene, oil, milligrams per gram",mg/g,,version 1.0
+xLO006,Local,123TMeBz_mgL,"1,2,3-Trimethylbenzene, water, unfiltered, milligrams per liter",mg/L,`526-73-8,version 1.0
+xLO007,Local,1245TMeBz_dNaph_mgG,"1,2,4,5-Tetramethylbenzene using d-Naphthalene, oil, milligrams per gram",mg/g,,version 1.0
+xLO008,Local,1245TMeBz_mgL,"1,2,4,5-Tetramethylbenzene, water, unfiltered, milligrams per liter",mg/L,`95-93-2,version 1.0
+xLO009,Local,124TMeBz_mgG,"1,2,4-Trimethylbenzene, oil, milligrams per gram",mg/g,,version 1.0
+xLO010,Local,124TMeBz_mgL,"1,2,4-Trimethylbenzene, water, unfiltered, milligrams per liter",mg/L,`95-63-6,version 1.0
+xLO011,Local,12DEtBz_mgL,"ortho-Xylene, water, unfiltered, milligrams per liter",mg/L,`95-47-6,version 1.0
+xLO012,Local,12DMe3EtBz_mgL,"1,2-Dimethyl-3-ethylbenzene, water, unfiltered, milligrams per liter",mg/L,`933-98-2,version 1.0
+xLO013,Local,12DMe4EtBz_mgL,"1,2-Dimethyl-4-ethylbenzene, water, unfiltered, milligrams per liter",mg/L,`934-80-5,version 1.0
+xLO014,Local,135TMeBz_mgG,"1,3,5-Trimethylbenzene, oil, milligrams per gram",mg/g,,version 1.0
+xLO015,Local,135TMeBz_mgL,"1,3,5-Trimethylbenzene, water, unfiltered, milligrams per liter",mg/L,`108-67-8,version 1.0
+xLO016,Local,13DEtBz_mgL,"meta-Xylene, water, unfiltered, milligrams per liter",mg/L,`108-38-3,version 1.0
+xLO017,Local,13DMe2EtBz_mgL,"1,3-Dimethyl-2-ethylbenzene, water, unfiltered, milligrams per liter",mg/L,`2870-04-4,version 1.0
+xLO018,Local,13DMe4EtBz_mgL,"1,3-Dimethyl-4-ethylbenzene, water, unfiltered, milligrams per liter",mg/L,`874-41-9,version 1.0
+xLO019,Local,13DMe5EtBz_mgL,"1,3-Dimethyl-5-ethylbenzene, water, unfiltered, milligrams per liter",mg/L,`934-74-7,version 1.0
+xLO020,Local,14DEtBz_mgL,"para-Xylene, water, unfiltered, milligrams per liter",mg/L,`106-42-3,version 1.0
+xLO021,Local,14DMe2EtBz_mgL,"1,4-Dimethyl-2-ethylbenzene, water, unfiltered, milligrams per liter",mg/L,`1758-88-9,version 1.0
+xLO022,Local,1Me_dNaph_mgG,"1-Methylnaphthalene, oil, milligrams per gram ",mg/g,`90-12-0,version 1.0
+xLO023,Local,1Me2EtBz_mgL,"1-Methyl-2-ethylbenzene, water, unfiltered, milligrams per liter",mg/L,`611-14-3,version 1.0
+xLO024,Local,1Me2IsoPrBz_mgL,"1-Methyl-2-isopropylbenzene, water, unfiltered, milligrams per liter",mg/L,`527-84-4,version 1.0
+xLO025,Local,1Me2PrBz_mgL,"1-Methyl-2-propylbenzene, water, unfiltered, milligrams per liter",mg/L,`527-84-4,version 1.0
+xLO026,Local,1Me3EtBz_mgL,"1-Methyl-3-ethylbenzene, water, unfiltered, milligrams per liter",mg/L,`1074-17-5,version 1.0
+xLO027,Local,1Me3IsoPrBz_mgL,"1-Methyl-3-isopropylbenzene, water, unfiltered, milligrams per liter",mg/L,`620-14-4,version 1.0
+xLO028,Local,1Me3PrBz_mgL,"1-Methyl-3-propylbenzene, water, unfiltered, milligrams per liter",mg/L,`1074-43-7,version 1.0
+xLO029,Local,1Me4EtBz_mgL,"1-Methyl-4-ethylbenzene, water, unfiltered, milligrams per liter",mg/L,`622-96-8,version 1.0
+xLO030,Local,1Me4IsoPrBz_mgL,"1-Methyl-4-isopropylbenzene, water, unfiltered, milligrams per liter",mg/L,`99-87-6,version 1.0
+xLO031,Local,1Me4PrBz_mgL,"1-Methyl-4-propylbenzene, water, unfiltered, milligrams per liter",mg/L,`1074-55-1,version 1.0
+xLO032,Local,2Me_dNaph_mgG,"2-Methylnaphthalene, oil, milligrams per gram",mg/g,`91-57-6,version 1.0
+xLO033,Local,Al_mgL,"Aluminum, water, filtered, milligrams per liter",mg/L,`7429-90-5,version 1.0
+xLO034,Local,ALK_meqL,"Alkalinity, water, filtered, laboratory, milliequivalents per liter as bicarbonate",meq/L HCO3,,version 1.0
+xLO035,Local,BTEx_mgL,"Benzene, toluene, ethylbenzene, and xylene, water, unfiltered, milligrams per liter",mg/L,,version 1.0
+xLO036,Local,Bz_mgG,"Benzene, oil, milligrams per gram",mg/g,`71-43-2,version 1.0
+xLO037,Local,Bz_mgL,"Benzene, water, unfiltered, milligrams per liter",mg/L,`71-43-2,version 1.0
+xLO038,Local,C13CO2_mill,"Carbon-13 of carbon dioxide, water, dissolved, filtered, relative to PeeDee belemnite, filtered, per mil",per mil,,version 1.0
+xLO039,Local,CyHex_dBz_mgG,"Cyclohexane using d-Benzene, oil, milligrams per gram ",mg/g,,version 1.0
+xLO040,Local,Eh_c_mV,"Oxidation-reduction potential, water, unfiltered, calculated, millivolts",mV,,version 1.0
+xLO041,Local,EtBz_mgG,"Ethylbenzene, oil, milligrams per gram",mg/g,,version 1.0
+xLO042,Local,EtBz_mgL,"Ethylbenzene, water, unfiltered, milligrams per liter",mg/L,`100-41-4,version 1.0
+xLO043,Local,EtCyHex_dEtBz_mgG,"Ethylcyclohexane using d-Ethylbenzene, oil, milligram per gram",mg/g,,version 1.0
+xLO044,Local,Fe_2_umolG,"Ferrous iron, soil, micromoles per gram soil",umol/g,,version 1.0
+xLO045,Local,Fe_3_umolG,"Ferric iron, soil, micromoles per gram soil",umol/g,,version 1.0
+xLO047,Local,Fe_T_umolG,"Total iron, soil, micromoles per gram soil",umol/g,,version 1.0
+xLO048,Local,H2S_HS_mgL,"Hydrogen sulfide and bisulfide, water, filtered, milligrams per liter",mg/L,,version 1.0
+xLO049,Local,iButylBz_mgL,"Isobutylbenzene, water, unfiltered, milligrams per liter",mg/L,`538-93-2,version 1.0
+xLO050,Local,IsoPrBz_mgL,"Isopropylbenzene, water, unfiltered, milligrams per liter",mg/L,`98-82-8,version 1.0
+xLO051,Local,MeCyHex_dTol_mgG,"Methylcyclohexane using d-Toluene, oil, milligrams per gram",mg/g,,version 1.0
+xLO052,Local,mpxyl_mgL,"meta-Xylene plus para-xylene, water, unfiltered, milligrams per liter",mg/L,`179601-23-1,version 1.0
+xLO053,Local,mxyl_mgG,"meta-Xylene, oil, milligrams per gram",mg/g,`108-38-3,version 1.0
+xLO054,Local,Naph_mgG,"Naphthalene, oil, milligrams per gram",mg/g,`91-20-3,version 1.0
+xLO055,Local,Naph_mgL,"Naphthalene, water, unfiltered, milligrams per liter",mg/L,`91-20-3,version 1.0
+xLO056,Local,nButylBz_mgL,"normal-Butylbenzene, water, unfiltered, milligrams per liter",mg/L,`104-51-8,version 1.0
+xLO057,Local,nC10_mgG,"normal-C10 alkane isomer, oil, milligrams per gram",mg/g,,version 1.0
+xLO058,Local,nC11_mgG,"normal-C11 alkane isomer, oil, milligrams per gram",mg/g,,version 1.0
+xLO059,Local,nC12_mgG,"normal-C12 alkane isomer, oil, milligrams per gram",mg/g,,version 1.0
+xLO060,Local,nC6_mgG,"normal-C6 alkane isomer, oil, milligrams per gram",mg/g,,version 1.0
+xLO061,Local,nC7_mgG,"normal-C7 alkane isomer, oil, milligrams per gram",mg/g,,version 1.0
+xLO062,Local,nC8_mgG,"normal-C8 alkane isomer, oil, milligrams per gram",mg/g,,version 1.0
+xLO063,Local,nC9_mgG,"normal-C9 alkane isomer, oil, milligrams per gram",mg/g,,version 1.0
+xLO064,Local,nPrBz_mgL,"normal-Propylbenzene, water, unfiltered, milligrams per liter",mg/L,`103-65-1,version 1.0
+xLO065,Local,NVDOC_mgL,"Nonvolatile dissolved organic carbon, water, filtered, milligrams per liter",mg/L,,version 1.0
+xLO066,Local,oxyl_mgG,"ortho-Xylene, oil, milligrams per gram",mg/g,`95-47-6,version 1.0
+xLO067,Local,oxyl_mgL,"ortho-Xylene, water, unfiltered, milligrams per liter",mg/L,`95-47-6,version 1.0
+xLO068,Local,pxyl_mgG,"para-Xylene, oil, milligrams per gram",mg/g,`106-42-3,version 1.0
+xLO069,Local,secButylBz_mgL,"sec-Butylbenzene, water, unfiltered, milligrams per liter",mg/L,`135-98-8,version 1.0
+xLO070,Local,Sr_mgL,"Strontium, water, filtered, milligrams per liter",mg/L,`7440-24-6,version 1.0
+xLO071,Local,tertButylBz_mgL,"tertiary-Butylbenzene, water, unfiltered, milligrams per liter",mg/L,`98-06-6,version 1.0
+xLO072,Local,Tol_mgG,"Toluene, oil, milligrams per gram",mg/g,`108-88-3,version 1.0
+xLO073,Local,Tol_mgL,"Toluene, water, unfiltered, milligrams per liter",mg/L,`108-88-3,version 1.0
+xLO074,Local,VDOC_mgL,"Volatile dissolved organic carbon, water, filtered, milligrams per liter",mg/L,,version 1.0
+xLS001,Local,tot_samp_wt_g,"Total oven-dried weight of all size fractions in a soil sample, grams",g,,version 1.0
+xLS002,Local,diam_1mm_g,"Soil classification, sample having a minimum diameter of 1.00 millimeters, grams",g,,version 1.0
+xLS003,Local,diam_0.71_1mm_g,"Soil classification, sample having a minimum diameter of 0.71 millimeters and a maximum diameter of 1.00 millimeters, grams",g,,version 1.0
+xLS004,Local,diam_0.5_0.71mm_g,"Soil classification, sample having a minimum diameter of 0.5 millimeters and a maximum diameter of 0.71 millimeters, grams",g,,version 1.0
+xLS005,Local,diam_0.355_0.5mm_g,"Soil classification, sample having a minimum diameter of 0.355 millimeters and a maximum diameter of 0.5 millimeters, grams",g,,version 1.0
+xLS006,Local,diam_0.25_0.355mm_g,"Soil classification, sample having a minimum diameter of 0.25 millimeters and a maximum diameter of 0.355 millimeters, grams",g,,version 1.0
+xLS007,Local,diam_0.106_0.25mm_g,"Soil classification, sample having a minimum diameter of 0.106 millimeters and a maximum diameter of 0.25 millimeters, grams",g,,version 1.0
+xLS008,Local,diam_0.053_0.106mm_g,"Soil classification, sample having a minimum diameter of 0.053 millimeters and a maximum diameter of 0.106 millimeters, grams",g,,version 1.0
+xLS009,Local,pan_g,"Soil classification, sample retained on a pan with a maximum diameter of 0.053, grams",g,,version 1.0
+xLS010,Local,diam_1mm_p,"Soil classification, sample having a minimum diameter of 1.00 millimeters, percent",percent,,version 1.0
+xLS011,Local,diam_0.71_1mm_p,"Soil classification, sample having a minimum diameter of 0.71 millimeters and a maximum diameter of 1.00 millimeters, percent",percent,,version 1.0
+xLS012,Local,diam_0.5_0.71mm_p,"Soil classification, sample having a minimum diameter of 0.5 millimeters and a maximum diameter of 0.71 millimeters, percent",percent,,version 1.0
+xLS013,Local,diam_0.355_0.5mm_p,"Soil classification, sample having a minimum diameter of 0.355 millimeters and a maximum diameter of 0.5 millimeters, percent",percent,,version 1.0
+xLS014,Local,diam_0.25_0.355mm_p,"Soil classification, sample having a minimum diameter of 0.25 millimeters and a maximum diameter of 0.355 millimeters, percent",percent,,version 1.0
+xLS015,Local,diam_0.106_0.25mm_p,"Soil classification, sample having a minimum diameter of 0.106 millimeters and a maximum diameter of 0.25 millimeters, percent",percent,,version 1.0
+xLS016,Local,diam_0.053_0.106mm_p,"Soil classification, sample having a minimum diameter of 0.053 millimeters and a maximum diameter of 0.106 millimeters, percent",percent,,version 1.0
+xLS017,Local,pan_p,"Soil classification, sample retained on a pan with particle diameters of less than 0.053 millimeters, percent",percent,,version 1.0
+xLS018,Local,porosity,"Soil classification, empty space between soil particles",g/((g/cm3)cm3),,version 1.0
+xLS019,Local,HydrCond_mean_ms,"Hydraulic conductivity, mean value of multiple tests completed, meters per second",m/s,,version 1.0
+xLS020,Local,HydrCond_ms,"Hydraulic conductivity, meters per second",m/s,,version 1.0
+xLS021,Local,OilMass_g,"Oil mass, soil, grams",g,,version 1.0
+xLS022,Local,OilSatn,"Oil saturation, soil, cubic centimeters per cubic centimeters",cm3/cm3,,version 1.0
+xLS023,Local,WaterMass_g,"Water mass, soil, grams",g,,version 1.0
+xLS024,Local,WaterSatn,"Water saturation, soil, grams, cubic centimeters per cubic centimeters",cm3/cm3,,version 1.0
+xLS025,Local,ODsoil_g,"Oven dry soil mass, soil, grams",g,,version 1.0
+xLS026,Local,diam_0.0004_0.00045mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0004 millimeters and a maximum diameter of 0.00045 millimeters, grams",g,,version 1.0
+xLS027,Local,diam_0.00045_0.00047mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00045 millimeters and a maximum diameter of 0.00047 millimeters, grams",g,,version 1.0
+xLS028,Local,diam_0.00047_0.00049mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00047 millimeters and a maximum diameter of 0.00049 millimeters, grams",g,,version 1.0
+xLS029,Local,diam_0.00049_0.00069mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00049 millimeters and a maximum diameter of 0.00069 millimeters, grams",g,,version 1.0
+xLS030,Local,diam_0.00049_0.00074mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00049 millimeters and a maximum diameter of 0.00074 millimeters, grams",g,,version 1.0
+xLS031,Local,diam_0.00049_0.00079mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00049 millimeters and a maximum diameter of 0.00079 millimeters, grams",g,,version 1.0
+xLS032,Local,diam_0.00049_0.0012mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00049 millimeters and a maximum diameter of 0.0012 millimeters, grams",g,,version 1.0
+xLS033,Local,diam_0.00064_0.00069mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00064 millimeters and a maximum diameter of 0.00069 millimeters, grams",g,,version 1.0
+xLS034,Local,diam_0.00064_0.00074mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00064 millimeters and a maximum diameter of 0.00074 millimeters, grams",g,,version 1.0
+xLS035,Local,diam_0.00066_0.00082mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00066 millimeters and a maximum diameter of 0.00082 millimeters, grams",g,,version 1.0
+xLS036,Local,diam_0.00066_0.00115mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00066 millimeters and a maximum diameter of 0.00115 millimeters, grams",g,,version 1.0
+xLS037,Local,diam_0.00069_0.00072mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00069 millimeters and a maximum diameter of 0.00072 millimeters, grams",g,,version 1.0
+xLS038,Local,diam_0.00069_0.00079mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00069 millimeters and a maximum diameter of 0.00079 millimeters, grams",g,,version 1.0
+xLS039,Local,diam_0.00069_0.00091mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00069 millimeters and a maximum diameter of 0.00091 millimeters, grams",g,,version 1.0
+xLS040,Local,diam_0.00069_0.00098mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00069 millimeters and a maximum diameter of 0.00098 millimeters, grams",g,,version 1.0
+xLS041,Local,diam_0.00069_0.00129mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00069 millimeters and a maximum diameter of 0.00129 millimeters, grams",g,,version 1.0
+xLS042,Local,diam_0.0007_0.0009mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0007 millimeters and a maximum diameter of 0.0009 millimeters, grams",g,,version 1.0
+xLS043,Local,diam_0.00072_0.00076mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00072 millimeters and a maximum diameter of 0.00076 millimeters, grams",g,,version 1.0
+xLS044,Local,diam_0.00074_0.00079mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00074 millimeters and a maximum diameter of 0.00079 millimeters, grams",g,,version 1.0
+xLS045,Local,diam_0.00074_0.00085mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00074 millimeters and a maximum diameter of 0.00085 millimeters, grams",g,,version 1.0
+xLS046,Local,diam_0.00074_0.00091mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00074 millimeters and a maximum diameter of 0.00091 millimeters, grams",g,,version 1.0
+xLS047,Local,diam_0.00074_0.00098mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00074 millimeters and a maximum diameter of 0.00098 millimeters, grams",g,,version 1.0
+xLS048,Local,diam_0.00076_0.00085mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00076 millimeters and a maximum diameter of 0.00085 millimeters, grams",g,,version 1.0
+xLS049,Local,diam_0.00079_0.00085mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00079 millimeters and a maximum diameter of 0.00085 millimeters, grams",g,,version 1.0
+xLS050,Local,diam_0.00079_0.00091mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00079 millimeters and a maximum diameter of 0.00091 millimeters, grams",g,,version 1.0
+xLS051,Local,diam_0.00079_0.00098mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00079 millimeters and a maximum diameter of 0.00098 millimeters, grams",g,,version 1.0
+xLS052,Local,diam_0.00082_0.00108mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00082 millimeters and a maximum diameter of 0.00108 millimeters, grams",g,,version 1.0
+xLS053,Local,diam_0.00085_0.00091mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00085 millimeters and a maximum diameter of 0.00091 millimeters, grams",g,,version 1.0
+xLS054,Local,diam_0.00085_0.00098mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00085 millimeters and a maximum diameter of 0.00098 millimeters, grams",g,,version 1.0
+xLS055,Local,diam_0.00085_0.00105mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00085 millimeters and a maximum diameter of 0.00105 millimeters, grams",g,,version 1.0
+xLS056,Local,diam_0.00085_0.00112mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00085 millimeters and a maximum diameter of 0.00112 millimeters, grams",g,,version 1.0
+xLS057,Local,diam_0.00085_0.0012mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00085 millimeters and a maximum diameter of 0.0012 millimeters, grams",g,,version 1.0
+xLS058,Local,diam_0.0009_0.0013mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0009 millimeters and a maximum diameter of 0.0013 millimeters, grams",g,,version 1.0
+xLS059,Local,diam_0.0009_0.001mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0009 millimeters and a maximum diameter of 0.001 millimeters, grams",g,,version 1.0
+xLS060,Local,diam_0.00091_0.00098mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00091 millimeters and a maximum diameter of 0.00098 millimeters, grams",g,,version 1.0
+xLS061,Local,diam_0.00091_0.00105mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00091 millimeters and a maximum diameter of 0.00105 millimeters, grams",g,,version 1.0
+xLS062,Local,diam_0.00091_0.00112mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00091 millimeters and a maximum diameter of 0.00112 millimeters, grams",g,,version 1.0
+xLS063,Local,diam_0.00091_0.00129mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00091 millimeters and a maximum diameter of 0.00129 millimeters, grams",g,,version 1.0
+xLS064,Local,diam_0.00091_0.0012mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00091 millimeters and a maximum diameter of 0.0012 millimeters, grams",g,,version 1.0
+xLS065,Local,diam_0.00091_0.00138mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00091 millimeters and a maximum diameter of 0.00138 millimeters, grams",g,,version 1.0
+xLS066,Local,diam_0.00098_0.00105mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00098 millimeters and a maximum diameter of 0.00105 millimeters, grams",g,,version 1.0
+xLS067,Local,diam_0.00098_0.00129mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00098 millimeters and a maximum diameter of 0.00129 millimeters, grams",g,,version 1.0
+xLS068,Local,diam_0.00098_0.0012mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00098 millimeters and a maximum diameter of 0.0012 millimeters, grams",g,,version 1.0
+xLS069,Local,diam_0.00098_0.00138mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00098 millimeters and a maximum diameter of 0.00138 millimeters, grams",g,,version 1.0
+xLS070,Local,diam_0.00098_0.00148mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00098 millimeters and a maximum diameter of 0.00148 millimeters, grams",g,,version 1.0
+xLS071,Local,diam_0.00098_0.00195mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00098 millimeters and a maximum diameter of 0.00195 millimeters, grams",g,,version 1.0
+xLS072,Local,diam_0.00098_0.0034mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00098 millimeters and a maximum diameter of 0.0034 millimeters, grams",g,,version 1.0
+xLS073,Local,diam_0.001_0.00296mm_g,"Soil classification, weight of sample having a minimum diameter of 0.001 millimeters and a maximum diameter of 0.00296 millimeters, grams",g,,version 1.0
+xLS074,Local,diam_0.001_0.002mm_g,"Soil classification, weight of sample having a minimum diameter of 0.001 millimeters and a maximum diameter of 0.002 millimeters, grams",g,,version 1.0
+xLS075,Local,diam_0.00105_0.00112mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00105 millimeters and a maximum diameter of 0.00112 millimeters, grams",g,,version 1.0
+xLS076,Local,diam_0.00105_0.0012mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00105 millimeters and a maximum diameter of 0.0012 millimeters, grams",g,,version 1.0
+xLS077,Local,diam_0.00105_0.00138mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00105 millimeters and a maximum diameter of 0.00138 millimeters, grams",g,,version 1.0
+xLS078,Local,diam_0.00105_0.00148mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00105 millimeters and a maximum diameter of 0.00148 millimeters, grams",g,,version 1.0
+xLS079,Local,diam_0.00105_0.0017mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00105 millimeters and a maximum diameter of 0.0017 millimeters, grams",g,,version 1.0
+xLS080,Local,diam_0.00108_0.0016mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00108 millimeters and a maximum diameter of 0.0016 millimeters, grams",g,,version 1.0
+xLS081,Local,diam_0.00112_0.00129mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00112 millimeters and a maximum diameter of 0.00129 millimeters, grams",g,,version 1.0
+xLS082,Local,diam_0.00112_0.00138mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00112 millimeters and a maximum diameter of 0.00138 millimeters, grams",g,,version 1.0
+xLS083,Local,diam_0.00112_0.00159mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00112 millimeters and a maximum diameter of 0.00159 millimeters, grams",g,,version 1.0
+xLS084,Local,diam_0.00112_0.00182mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00112 millimeters and a maximum diameter of 0.00182 millimeters, grams",g,,version 1.0
+xLS085,Local,diam_0.00112_0.00209mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00112 millimeters and a maximum diameter of 0.00209 millimeters, grams",g,,version 1.0
+xLS086,Local,diam_0.00115_0.00242mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00115 millimeters and a maximum diameter of 0.00242 millimeters, grams",g,,version 1.0
+xLS087,Local,diam_0.00119_0.00136mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00119 millimeters and a maximum diameter of 0.00136 millimeters, grams",g,,version 1.0
+xLS088,Local,diam_0.0012_0.00129mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0012 millimeters and a maximum diameter of 0.00129 millimeters, grams",g,,version 1.0
+xLS089,Local,diam_0.0012_0.00138mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0012 millimeters and a maximum diameter of 0.00138 millimeters, grams",g,,version 1.0
+xLS090,Local,diam_0.0012_0.00148mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0012 millimeters and a maximum diameter of 0.00148 millimeters, grams",g,,version 1.0
+xLS091,Local,diam_0.0012_0.00159mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0012 millimeters and a maximum diameter of 0.00159 millimeters, grams",g,,version 1.0
+xLS092,Local,diam_0.0012_0.00182mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0012 millimeters and a maximum diameter of 0.00182 millimeters, grams",g,,version 1.0
+xLS093,Local,diam_0.0012_0.00195mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0012 millimeters and a maximum diameter of 0.00195 millimeters, grams",g,,version 1.0
+xLS094,Local,diam_0.00129_0.00148mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00129 millimeters and a maximum diameter of 0.00148 millimeters, grams",g,,version 1.0
+xLS095,Local,diam_0.00129_0.00209mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00129 millimeters and a maximum diameter of 0.00209 millimeters, grams",g,,version 1.0
+xLS096,Local,diam_0.00129_0.00224mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00129 millimeters and a maximum diameter of 0.00224 millimeters, grams",g,,version 1.0
+xLS097,Local,diam_0.00129_0.0024mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00129 millimeters and a maximum diameter of 0.0024 millimeters, grams",g,,version 1.0
+xLS098,Local,diam_0.00129_0.00258mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00129 millimeters and a maximum diameter of 0.00258 millimeters, grams",g,,version 1.0
+xLS099,Local,diam_0.0013_0.0015mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0013 millimeters and a maximum diameter of 0.0015 millimeters, grams",g,,version 1.0
+xLS100,Local,diam_0.00132_0.00224mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00132 millimeters and a maximum diameter of 0.00224 millimeters, grams",g,,version 1.0
+xLS101,Local,diam_0.00134_0.00234mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00134 millimeters and a maximum diameter of 0.00234 millimeters, grams",g,,version 1.0
+xLS102,Local,diam_0.00136_0.00317mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00136 millimeters and a maximum diameter of 0.00317 millimeters, grams",g,,version 1.0
+xLS103,Local,diam_0.00138_0.00148mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00138 millimeters and a maximum diameter of 0.00148 millimeters, grams",g,,version 1.0
+xLS104,Local,diam_0.00138_0.0017mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00138 millimeters and a maximum diameter of 0.0017 millimeters, grams",g,,version 1.0
+xLS105,Local,diam_0.00138_0.00195mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00138 millimeters and a maximum diameter of 0.00195 millimeters, grams",g,,version 1.0
+xLS106,Local,diam_0.00138_0.00224mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00138 millimeters and a maximum diameter of 0.00224 millimeters, grams",g,,version 1.0
+xLS107,Local,diam_0.00138_0.0024mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00138 millimeters and a maximum diameter of 0.0024 millimeters, grams",g,,version 1.0
+xLS108,Local,diam_0.00138_0.00258mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00138 millimeters and a maximum diameter of 0.00258 millimeters, grams",g,,version 1.0
+xLS109,Local,diam_0.00138_0.00276mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00138 millimeters and a maximum diameter of 0.00276 millimeters, grams",g,,version 1.0
+xLS110,Local,diam_0.00146_0.00345mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00146 millimeters and a maximum diameter of 0.00345 millimeters, grams",g,,version 1.0
+xLS111,Local,diam_0.00148_0.00159mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00148 millimeters and a maximum diameter of 0.00159 millimeters, grams",g,,version 1.0
+xLS112,Local,diam_0.00148_0.0017mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00148 millimeters and a maximum diameter of 0.0017 millimeters, grams",g,,version 1.0
+xLS113,Local,diam_0.00148_0.00258mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00148 millimeters and a maximum diameter of 0.00258 millimeters, grams",g,,version 1.0
+xLS114,Local,diam_0.00148_0.00276mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00148 millimeters and a maximum diameter of 0.00276 millimeters, grams",g,,version 1.0
+xLS115,Local,diam_0.00148_0.00296mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00148 millimeters and a maximum diameter of 0.00296 millimeters, grams",g,,version 1.0
+xLS116,Local,diam_0.00148_0.00317mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00148 millimeters and a maximum diameter of 0.00317 millimeters, grams",g,,version 1.0
+xLS117,Local,diam_0.00149_0.00315mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00149 millimeters and a maximum diameter of 0.00315 millimeters, grams",g,,version 1.0
+xLS118,Local,diam_0.0015_0.0032mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0015 millimeters and a maximum diameter of 0.0032 millimeters, grams",g,,version 1.0
+xLS119,Local,diam_0.00159_0.0017mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00159 millimeters and a maximum diameter of 0.0017 millimeters, grams",g,,version 1.0
+xLS120,Local,diam_0.00159_0.00296mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00159 millimeters and a maximum diameter of 0.00296 millimeters, grams",g,,version 1.0
+xLS121,Local,diam_0.00159_0.0034mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00159 millimeters and a maximum diameter of 0.0034 millimeters, grams",g,,version 1.0
+xLS122,Local,diam_0.0016_0.00335mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0016 millimeters and a maximum diameter of 0.00335 millimeters, grams",g,,version 1.0
+xLS123,Local,diam_0.0017_0.00182mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0017 millimeters and a maximum diameter of 0.00182 millimeters, grams",g,,version 1.0
+xLS124,Local,diam_0.0017_0.0024mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0017 millimeters and a maximum diameter of 0.0024 millimeters, grams",g,,version 1.0
+xLS125,Local,diam_0.0017_0.00317mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0017 millimeters and a maximum diameter of 0.00317 millimeters, grams",g,,version 1.0
+xLS126,Local,diam_0.0017_0.00331mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0017 millimeters and a maximum diameter of 0.00331 millimeters, grams",g,,version 1.0
+xLS127,Local,diam_0.0017_0.00364mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0017 millimeters and a maximum diameter of 0.00364 millimeters, grams",g,,version 1.0
+xLS128,Local,diam_0.0017_0.00391mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0017 millimeters and a maximum diameter of 0.00391 millimeters, grams",g,,version 1.0
+xLS129,Local,diam_0.00182_0.00258mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00182 millimeters and a maximum diameter of 0.00258 millimeters, grams",g,,version 1.0
+xLS130,Local,diam_0.00182_0.00276mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00182 millimeters and a maximum diameter of 0.00276 millimeters, grams",g,,version 1.0
+xLS131,Local,diam_0.00182_0.00419mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00182 millimeters and a maximum diameter of 0.00419 millimeters, grams",g,,version 1.0
+xLS132,Local,diam_0.00182_0.00481mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00182 millimeters and a maximum diameter of 0.00481 millimeters, grams",g,,version 1.0
+xLS133,Local,diam_0.00195_0.00276mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00195 millimeters and a maximum diameter of 0.00276 millimeters, grams",g,,version 1.0
+xLS134,Local,diam_0.00195_0.00296mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00195 millimeters and a maximum diameter of 0.00296 millimeters, grams",g,,version 1.0
+xLS135,Local,diam_0.00195_0.00391mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00195 millimeters and a maximum diameter of 0.00391 millimeters, grams",g,,version 1.0
+xLS136,Local,diam_0.002_0.003mm_g,"Soil classification, weight of sample having a minimum diameter of 0.002 millimeters and a maximum diameter of 0.003 millimeters, grams",g,,version 1.0
+xLS137,Local,diam_0.00209_0.00276mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00209 millimeters and a maximum diameter of 0.00276 millimeters, grams",g,,version 1.0
+xLS138,Local,diam_0.00209_0.00296mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00209 millimeters and a maximum diameter of 0.00296 millimeters, grams",g,,version 1.0
+xLS139,Local,diam_0.00224_0.00296mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00224 millimeters and a maximum diameter of 0.00296 millimeters, grams",g,,version 1.0
+xLS140,Local,diam_0.00224_0.00317mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00224 millimeters and a maximum diameter of 0.00317 millimeters, grams",g,,version 1.0
+xLS141,Local,diam_0.00224_0.0034mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00224 millimeters and a maximum diameter of 0.0034 millimeters, grams",g,,version 1.0
+xLS142,Local,diam_0.00224_0.00364mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00224 millimeters and a maximum diameter of 0.00364 millimeters, grams",g,,version 1.0
+xLS143,Local,diam_0.00234_0.00328mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00234 millimeters and a maximum diameter of 0.00328 millimeters, grams",g,,version 1.0
+xLS144,Local,diam_0.0024_0.00317mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0024 millimeters and a maximum diameter of 0.00317 millimeters, grams",g,,version 1.0
+xLS145,Local,diam_0.0024_0.0034mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0024 millimeters and a maximum diameter of 0.0034 millimeters, grams",g,,version 1.0
+xLS146,Local,diam_0.0024_0.00364mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0024 millimeters and a maximum diameter of 0.00364 millimeters, grams",g,,version 1.0
+xLS147,Local,diam_0.0024_0.00391mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0024 millimeters and a maximum diameter of 0.00391 millimeters, grams",g,,version 1.0
+xLS148,Local,diam_0.0024_0.00449mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0024 millimeters and a maximum diameter of 0.00449 millimeters, grams",g,,version 1.0
+xLS149,Local,diam_0.00242_0.00331mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00242 millimeters and a maximum diameter of 0.00331 millimeters, grams",g,,version 1.0
+xLS150,Local,diam_0.00258_0.00317mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00258 millimeters and a maximum diameter of 0.00317 millimeters, grams",g,,version 1.0
+xLS151,Local,diam_0.00258_0.0034mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00258 millimeters and a maximum diameter of 0.0034 millimeters, grams",g,,version 1.0
+xLS152,Local,diam_0.00258_0.00364mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00258 millimeters and a maximum diameter of 0.00364 millimeters, grams",g,,version 1.0
+xLS153,Local,diam_0.00258_0.00419mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00258 millimeters and a maximum diameter of 0.00419 millimeters, grams",g,,version 1.0
+xLS154,Local,diam_0.00258_0.00449mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00258 millimeters and a maximum diameter of 0.00449 millimeters, grams",g,,version 1.0
+xLS155,Local,diam_0.00258_0.00481mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00258 millimeters and a maximum diameter of 0.00481 millimeters, grams",g,,version 1.0
+xLS156,Local,diam_0.00276_0.00317mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00276 millimeters and a maximum diameter of 0.00317 millimeters, grams",g,,version 1.0
+xLS157,Local,diam_0.00276_0.00391mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00276 millimeters and a maximum diameter of 0.00391 millimeters, grams",g,,version 1.0
+xLS158,Local,diam_0.00276_0.00419mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00276 millimeters and a maximum diameter of 0.00419 millimeters, grams",g,,version 1.0
+xLS159,Local,diam_0.00276_0.00449mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00276 millimeters and a maximum diameter of 0.00449 millimeters, grams",g,,version 1.0
+xLS160,Local,diam_0.00276_0.00515mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00276 millimeters and a maximum diameter of 0.00515 millimeters, grams",g,,version 1.0
+xLS161,Local,diam_0.00296_0.00317mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00296 millimeters and a maximum diameter of 0.00317 millimeters, grams",g,,version 1.0
+xLS162,Local,diam_0.00296_0.00391mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00296 millimeters and a maximum diameter of 0.00391 millimeters, grams",g,,version 1.0
+xLS163,Local,diam_0.00296_0.00419mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00296 millimeters and a maximum diameter of 0.00419 millimeters, grams",g,,version 1.0
+xLS164,Local,diam_0.00296_0.00449mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00296 millimeters and a maximum diameter of 0.00449 millimeters, grams",g,,version 1.0
+xLS165,Local,diam_0.00296_0.00481mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00296 millimeters and a maximum diameter of 0.00481 millimeters, grams",g,,version 1.0
+xLS166,Local,diam_0.00296_0.00515mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00296 millimeters and a maximum diameter of 0.00515 millimeters, grams",g,,version 1.0
+xLS167,Local,diam_0.003_0.0039mm_g,"Soil classification, weight of sample having a minimum diameter of 0.003 millimeters and a maximum diameter of 0.0039 millimeters, grams",g,,version 1.0
+xLS168,Local,diam_0.00315_0.00515mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00315 millimeters and a maximum diameter of 0.00515 millimeters, grams",g,,version 1.0
+xLS169,Local,diam_0.00317_0.00335mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00317 millimeters and a maximum diameter of 0.00335 millimeters, grams",g,,version 1.0
+xLS170,Local,diam_0.00317_0.0034mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00317 millimeters and a maximum diameter of 0.0034 millimeters, grams",g,,version 1.0
+xLS171,Local,diam_0.00317_0.00391mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00317 millimeters and a maximum diameter of 0.00391 millimeters, grams",g,,version 1.0
+xLS172,Local,diam_0.00317_0.00419mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00317 millimeters and a maximum diameter of 0.00419 millimeters, grams",g,,version 1.0
+xLS173,Local,diam_0.00317_0.00449mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00317 millimeters and a maximum diameter of 0.00449 millimeters, grams",g,,version 1.0
+xLS174,Local,diam_0.00317_0.00481mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00317 millimeters and a maximum diameter of 0.00481 millimeters, grams",g,,version 1.0
+xLS175,Local,diam_0.0032_0.0045mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0032 millimeters and a maximum diameter of 0.0045 millimeters, grams",g,,version 1.0
+xLS176,Local,diam_0.00328_0.00461mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00328 millimeters and a maximum diameter of 0.00461 millimeters, grams",g,,version 1.0
+xLS177,Local,diam_0.00331_0.0034mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00331 millimeters and a maximum diameter of 0.0034 millimeters, grams",g,,version 1.0
+xLS178,Local,diam_0.00331_0.00468mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00331 millimeters and a maximum diameter of 0.00468 millimeters, grams",g,,version 1.0
+xLS179,Local,diam_0.00335_0.00478mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00335 millimeters and a maximum diameter of 0.00478 millimeters, grams",g,,version 1.0
+xLS180,Local,diam_0.00335_0.00481mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00335 millimeters and a maximum diameter of 0.00481 millimeters, grams",g,,version 1.0
+xLS181,Local,diam_0.0034_0.00364mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0034 millimeters and a maximum diameter of 0.00364 millimeters, grams",g,,version 1.0
+xLS182,Local,diam_0.0034_0.00419mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0034 millimeters and a maximum diameter of 0.00419 millimeters, grams",g,,version 1.0
+xLS183,Local,diam_0.0034_0.00481mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0034 millimeters and a maximum diameter of 0.00481 millimeters, grams",g,,version 1.0
+xLS184,Local,diam_0.0034_0.00515mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0034 millimeters and a maximum diameter of 0.00515 millimeters, grams",g,,version 1.0
+xLS185,Local,diam_0.00345_0.00481mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00345 millimeters and a maximum diameter of 0.00481 millimeters, grams",g,,version 1.0
+xLS186,Local,diam_0.00352_0.00515mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00352 millimeters and a maximum diameter of 0.00515 millimeters, grams",g,,version 1.0
+xLS187,Local,diam_0.00362_0.00508mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00362 millimeters and a maximum diameter of 0.00508 millimeters, grams",g,,version 1.0
+xLS188,Local,diam_0.00364_0.00481mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00364 millimeters and a maximum diameter of 0.00481 millimeters, grams",g,,version 1.0
+xLS189,Local,diam_0.00364_0.00515mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00364 millimeters and a maximum diameter of 0.00515 millimeters, grams",g,,version 1.0
+xLS190,Local,diam_0.00364_0.0068mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00364 millimeters and a maximum diameter of 0.0068 millimeters, grams",g,,version 1.0
+xLS191,Local,diam_0.0039_0.0059mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0039 millimeters and a maximum diameter of 0.0059 millimeters, grams",g,,version 1.0
+xLS192,Local,diam_0.00391_0.00515mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00391 millimeters and a maximum diameter of 0.00515 millimeters, grams",g,,version 1.0
+xLS193,Local,diam_0.00391_0.00552mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00391 millimeters and a maximum diameter of 0.00552 millimeters, grams",g,,version 1.0
+xLS194,Local,diam_0.00391_0.00592mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00391 millimeters and a maximum diameter of 0.00592 millimeters, grams",g,,version 1.0
+xLS195,Local,diam_0.00391_0.0068mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00391 millimeters and a maximum diameter of 0.0068 millimeters, grams",g,,version 1.0
+xLS196,Local,diam_0.00391_0.00781mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00391 millimeters and a maximum diameter of 0.00781 millimeters, grams",g,,version 1.0
+xLS197,Local,diam_0.00391_0.00837mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00391 millimeters and a maximum diameter of 0.00837 millimeters, grams",g,,version 1.0
+xLS198,Local,diam_0.00419_0.00481mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00419 millimeters and a maximum diameter of 0.00481 millimeters, grams",g,,version 1.0
+xLS199,Local,diam_0.00419_0.00592mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00419 millimeters and a maximum diameter of 0.00592 millimeters, grams",g,,version 1.0
+xLS200,Local,diam_0.00419_0.00635mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00419 millimeters and a maximum diameter of 0.00635 millimeters, grams",g,,version 1.0
+xLS201,Local,diam_0.00419_0.0068mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00419 millimeters and a maximum diameter of 0.0068 millimeters, grams",g,,version 1.0
+xLS202,Local,diam_0.00449_0.00592mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00449 millimeters and a maximum diameter of 0.00592 millimeters, grams",g,,version 1.0
+xLS203,Local,diam_0.00449_0.00635mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00449 millimeters and a maximum diameter of 0.00635 millimeters, grams",g,,version 1.0
+xLS204,Local,diam_0.00449_0.0068mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00449 millimeters and a maximum diameter of 0.0068 millimeters, grams",g,,version 1.0
+xLS205,Local,diam_0.0045_0.0063mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0045 millimeters and a maximum diameter of 0.0063 millimeters, grams",g,,version 1.0
+xLS206,Local,diam_0.00461_0.00643mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00461 millimeters and a maximum diameter of 0.00643 millimeters, grams",g,,version 1.0
+xLS207,Local,diam_0.00468_0.00576mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00468 millimeters and a maximum diameter of 0.00576 millimeters, grams",g,,version 1.0
+xLS208,Local,diam_0.00478_0.00675mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00478 millimeters and a maximum diameter of 0.00675 millimeters, grams",g,,version 1.0
+xLS209,Local,diam_0.00481_0.00515mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00481 millimeters and a maximum diameter of 0.00515 millimeters, grams",g,,version 1.0
+xLS210,Local,diam_0.00481_0.00635mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00481 millimeters and a maximum diameter of 0.00635 millimeters, grams",g,,version 1.0
+xLS211,Local,diam_0.00481_0.0068mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00481 millimeters and a maximum diameter of 0.0068 millimeters, grams",g,,version 1.0
+xLS212,Local,diam_0.00488_0.00657mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00488 millimeters and a maximum diameter of 0.00657 millimeters, grams",g,,version 1.0
+xLS213,Local,diam_0.00508_0.00635mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00508 millimeters and a maximum diameter of 0.00635 millimeters, grams",g,,version 1.0
+xLS214,Local,diam_0.00508_0.00719mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00508 millimeters and a maximum diameter of 0.00719 millimeters, grams",g,,version 1.0
+xLS215,Local,diam_0.00515_0.00592mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00515 millimeters and a maximum diameter of 0.00592 millimeters, grams",g,,version 1.0
+xLS216,Local,diam_0.00515_0.0068mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00515 millimeters and a maximum diameter of 0.0068 millimeters, grams",g,,version 1.0
+xLS217,Local,diam_0.00515_0.00729mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00515 millimeters and a maximum diameter of 0.00729 millimeters, grams",g,,version 1.0
+xLS218,Local,diam_0.00552_0.00729mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00552 millimeters and a maximum diameter of 0.00729 millimeters, grams",g,,version 1.0
+xLS219,Local,diam_0.00576_0.00969mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00576 millimeters and a maximum diameter of 0.00969 millimeters, grams",g,,version 1.0
+xLS220,Local,diam_0.0059_0.008mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0059 millimeters and a maximum diameter of 0.008 millimeters, grams",g,,version 1.0
+xLS221,Local,diam_0.00592_0.00781mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00592 millimeters and a maximum diameter of 0.00781 millimeters, grams",g,,version 1.0
+xLS222,Local,diam_0.00592_0.00837mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00592 millimeters and a maximum diameter of 0.00837 millimeters, grams",g,,version 1.0
+xLS223,Local,diam_0.00592_0.00897mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00592 millimeters and a maximum diameter of 0.00897 millimeters, grams",g,,version 1.0
+xLS224,Local,diam_0.0063_0.009mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0063 millimeters and a maximum diameter of 0.009 millimeters, grams",g,,version 1.0
+xLS225,Local,diam_0.00635_0.00837mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00635 millimeters and a maximum diameter of 0.00837 millimeters, grams",g,,version 1.0
+xLS226,Local,diam_0.00635_0.00891mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00635 millimeters and a maximum diameter of 0.00891 millimeters, grams",g,,version 1.0
+xLS227,Local,diam_0.00635_0.00897mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00635 millimeters and a maximum diameter of 0.00897 millimeters, grams",g,,version 1.0
+xLS228,Local,diam_0.00635_0.01mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00635 millimeters and a maximum diameter of 0.01 millimeters, grams",g,,version 1.0
+xLS229,Local,diam_0.00643_0.0091mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00643 millimeters and a maximum diameter of 0.0091 millimeters, grams",g,,version 1.0
+xLS230,Local,diam_0.00657_0.00982mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00657 millimeters and a maximum diameter of 0.00982 millimeters, grams",g,,version 1.0
+xLS231,Local,diam_0.00675_0.00936mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00675 millimeters and a maximum diameter of 0.00936 millimeters, grams",g,,version 1.0
+xLS232,Local,diam_0.0068_0.00781mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0068 millimeters and a maximum diameter of 0.00781 millimeters, grams",g,,version 1.0
+xLS233,Local,diam_0.0068_0.00843mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0068 millimeters and a maximum diameter of 0.00843 millimeters, grams",g,,version 1.0
+xLS234,Local,diam_0.0068_0.00897mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0068 millimeters and a maximum diameter of 0.00897 millimeters, grams",g,,version 1.0
+xLS235,Local,diam_0.0068_0.00962mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0068 millimeters and a maximum diameter of 0.00962 millimeters, grams",g,,version 1.0
+xLS236,Local,diam_0.00719_0.0102mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00719 millimeters and a maximum diameter of 0.0102 millimeters, grams",g,,version 1.0
+xLS237,Local,diam_0.00729_0.00897mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00729 millimeters and a maximum diameter of 0.00897 millimeters, grams",g,,version 1.0
+xLS238,Local,diam_0.00729_0.00962mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00729 millimeters and a maximum diameter of 0.00962 millimeters, grams",g,,version 1.0
+xLS239,Local,diam_0.00729_0.0103mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00729 millimeters and a maximum diameter of 0.0103 millimeters, grams",g,,version 1.0
+xLS240,Local,diam_0.00781_0.0103mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00781 millimeters and a maximum diameter of 0.0103 millimeters, grams",g,,version 1.0
+xLS241,Local,diam_0.00781_0.0118mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00781 millimeters and a maximum diameter of 0.0118 millimeters, grams",g,,version 1.0
+xLS242,Local,diam_0.00781_0.0127mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00781 millimeters and a maximum diameter of 0.0127 millimeters, grams",g,,version 1.0
+xLS243,Local,diam_0.00781_0.0156mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00781 millimeters and a maximum diameter of 0.0156 millimeters, grams",g,,version 1.0
+xLS244,Local,diam_0.008_0.012mm_g,"Soil classification, weight of sample having a minimum diameter of 0.008 millimeters and a maximum diameter of 0.012 millimeters, grams",g,,version 1.0
+xLS245,Local,diam_0.00837_0.0118mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00837 millimeters and a maximum diameter of 0.0118 millimeters, grams",g,,version 1.0
+xLS246,Local,diam_0.00837_0.0127mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00837 millimeters and a maximum diameter of 0.0127 millimeters, grams",g,,version 1.0
+xLS247,Local,diam_0.00837_0.0136mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00837 millimeters and a maximum diameter of 0.0136 millimeters, grams",g,,version 1.0
+xLS248,Local,diam_0.00843_0.0104mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00843 millimeters and a maximum diameter of 0.0104 millimeters, grams",g,,version 1.0
+xLS249,Local,diam_0.00891_0.0125mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00891 millimeters and a maximum diameter of 0.0125 millimeters, grams",g,,version 1.0
+xLS250,Local,diam_0.00897_0.0118mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00897 millimeters and a maximum diameter of 0.0118 millimeters, grams",g,,version 1.0
+xLS251,Local,diam_0.00897_0.0123mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00897 millimeters and a maximum diameter of 0.0123 millimeters, grams",g,,version 1.0
+xLS252,Local,diam_0.00897_0.0127mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00897 millimeters and a maximum diameter of 0.0127 millimeters, grams",g,,version 1.0
+xLS253,Local,diam_0.00897_0.0136mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00897 millimeters and a maximum diameter of 0.0136 millimeters, grams",g,,version 1.0
+xLS254,Local,diam_0.009_0.012mm_g,"Soil classification, weight of sample having a minimum diameter of 0.009 millimeters and a maximum diameter of 0.012 millimeters, grams",g,,version 1.0
+xLS255,Local,diam_0.0091_0.0128mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0091 millimeters and a maximum diameter of 0.0128 millimeters, grams",g,,version 1.0
+xLS256,Local,diam_0.00936_0.0134mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00936 millimeters and a maximum diameter of 0.0134 millimeters, grams",g,,version 1.0
+xLS257,Local,diam_0.00962_0.011mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00962 millimeters and a maximum diameter of 0.011 millimeters, grams",g,,version 1.0
+xLS258,Local,diam_0.00962_0.0127mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00962 millimeters and a maximum diameter of 0.0127 millimeters, grams",g,,version 1.0
+xLS259,Local,diam_0.00962_0.0136mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00962 millimeters and a maximum diameter of 0.0136 millimeters, grams",g,,version 1.0
+xLS260,Local,diam_0.00962_0.0146mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00962 millimeters and a maximum diameter of 0.0146 millimeters, grams",g,,version 1.0
+xLS261,Local,diam_0.00969_0.0132mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00969 millimeters and a maximum diameter of 0.0132 millimeters, grams",g,,version 1.0
+xLS262,Local,diam_0.00982_0.0138mm_g,"Soil classification, weight of sample having a minimum diameter of 0.00982 millimeters and a maximum diameter of 0.0138 millimeters, grams",g,,version 1.0
+xLS263,Local,diam_0.01_0.0136mm_g,"Soil classification, weight of sample having a minimum diameter of 0.01 millimeters and a maximum diameter of 0.0136 millimeters, grams",g,,version 1.0
+xLS264,Local,diam_0.0101_0.0139mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0101 millimeters and a maximum diameter of 0.0139 millimeters, grams",g,,version 1.0
+xLS265,Local,diam_0.0102_0.0139mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0102 millimeters and a maximum diameter of 0.0139 millimeters, grams",g,,version 1.0
+xLS266,Local,diam_0.0103_0.0136mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0103 millimeters and a maximum diameter of 0.0136 millimeters, grams",g,,version 1.0
+xLS267,Local,diam_0.0103_0.0146mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0103 millimeters and a maximum diameter of 0.0146 millimeters, grams",g,,version 1.0
+xLS268,Local,diam_0.0104_0.0181mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0104 millimeters and a maximum diameter of 0.0181 millimeters, grams",g,,version 1.0
+xLS269,Local,diam_0.011_0.0179mm_g,"Soil classification, weight of sample having a minimum diameter of 0.011 millimeters and a maximum diameter of 0.0179 millimeters, grams",g,,version 1.0
+xLS270,Local,diam_0.011_0.0192mm_g,"Soil classification, weight of sample having a minimum diameter of 0.011 millimeters and a maximum diameter of 0.0192 millimeters, grams",g,,version 1.0
+xLS271,Local,diam_0.0118_0.0156mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0118 millimeters and a maximum diameter of 0.0156 millimeters, grams",g,,version 1.0
+xLS272,Local,diam_0.0118_0.0167mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0118 millimeters and a maximum diameter of 0.0167 millimeters, grams",g,,version 1.0
+xLS273,Local,diam_0.0118_0.0179mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0118 millimeters and a maximum diameter of 0.0179 millimeters, grams",g,,version 1.0
+xLS274,Local,diam_0.012_0.016mm_g,"Soil classification, weight of sample having a minimum diameter of 0.012 millimeters and a maximum diameter of 0.016 millimeters, grams",g,,version 1.0
+xLS275,Local,diam_0.012_0.017mm_g,"Soil classification, weight of sample having a minimum diameter of 0.012 millimeters and a maximum diameter of 0.017 millimeters, grams",g,,version 1.0
+xLS276,Local,diam_0.0123_0.0173mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0123 millimeters and a maximum diameter of 0.0173 millimeters, grams",g,,version 1.0
+xLS277,Local,diam_0.0125_0.0156mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0125 millimeters and a maximum diameter of 0.0156 millimeters, grams",g,,version 1.0
+xLS278,Local,diam_0.0125_0.0167mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0125 millimeters and a maximum diameter of 0.0167 millimeters, grams",g,,version 1.0
+xLS279,Local,diam_0.0127_0.0136mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0127 millimeters and a maximum diameter of 0.0136 millimeters, grams",g,,version 1.0
+xLS280,Local,diam_0.0127_0.0156mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0127 millimeters and a maximum diameter of 0.0156 millimeters, grams",g,,version 1.0
+xLS281,Local,diam_0.0127_0.0167mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0127 millimeters and a maximum diameter of 0.0167 millimeters, grams",g,,version 1.0
+xLS282,Local,diam_0.0127_0.0179mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0127 millimeters and a maximum diameter of 0.0179 millimeters, grams",g,,version 1.0
+xLS283,Local,diam_0.0127_0.0192mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0127 millimeters and a maximum diameter of 0.0192 millimeters, grams",g,,version 1.0
+xLS284,Local,diam_0.0127_0.0254mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0127 millimeters and a maximum diameter of 0.0254 millimeters, grams",g,,version 1.0
+xLS285,Local,diam_0.0128_0.0175mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0128 millimeters and a maximum diameter of 0.0175 millimeters, grams",g,,version 1.0
+xLS286,Local,diam_0.0132_0.0186mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0132 millimeters and a maximum diameter of 0.0186 millimeters, grams",g,,version 1.0
+xLS287,Local,diam_0.0134_0.019mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0134 millimeters and a maximum diameter of 0.019 millimeters, grams",g,,version 1.0
+xLS288,Local,diam_0.0136_0.0156mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0136 millimeters and a maximum diameter of 0.0156 millimeters, grams",g,,version 1.0
+xLS289,Local,diam_0.0136_0.0167mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0136 millimeters and a maximum diameter of 0.0167 millimeters, grams",g,,version 1.0
+xLS290,Local,diam_0.0136_0.0179mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0136 millimeters and a maximum diameter of 0.0179 millimeters, grams",g,,version 1.0
+xLS291,Local,diam_0.0136_0.0192mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0136 millimeters and a maximum diameter of 0.0192 millimeters, grams",g,,version 1.0
+xLS292,Local,diam_0.0136_0.019mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0136 millimeters and a maximum diameter of 0.019 millimeters, grams",g,,version 1.0
+xLS293,Local,diam_0.0136_0.0206mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0136 millimeters and a maximum diameter of 0.0206 millimeters, grams",g,,version 1.0
+xLS294,Local,diam_0.0138_0.0195mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0138 millimeters and a maximum diameter of 0.0195 millimeters, grams",g,,version 1.0
+xLS295,Local,diam_0.0139_0.0194mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0139 millimeters and a maximum diameter of 0.0194 millimeters, grams",g,,version 1.0
+xLS296,Local,diam_0.0139_0.0196mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0139 millimeters and a maximum diameter of 0.0196 millimeters, grams",g,,version 1.0
+xLS297,Local,diam_0.0146_0.0192mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0146 millimeters and a maximum diameter of 0.0192 millimeters, grams",g,,version 1.0
+xLS298,Local,diam_0.0156_0.0192mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0156 millimeters and a maximum diameter of 0.0192 millimeters, grams",g,,version 1.0
+xLS299,Local,diam_0.0156_0.0206mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0156 millimeters and a maximum diameter of 0.0206 millimeters, grams",g,,version 1.0
+xLS300,Local,diam_0.0156_0.0221mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0156 millimeters and a maximum diameter of 0.0221 millimeters, grams",g,,version 1.0
+xLS301,Local,diam_0.0156_0.0232mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0156 millimeters and a maximum diameter of 0.0232 millimeters, grams",g,,version 1.0
+xLS302,Local,diam_0.0156_0.0237mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0156 millimeters and a maximum diameter of 0.0237 millimeters, grams",g,,version 1.0
+xLS303,Local,diam_0.0156_0.023mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0156 millimeters and a maximum diameter of 0.023 millimeters, grams",g,,version 1.0
+xLS304,Local,diam_0.0156_0.0254mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0156 millimeters and a maximum diameter of 0.0254 millimeters, grams",g,,version 1.0
+xLS305,Local,diam_0.016_0.024mm_g,"Soil classification, weight of sample having a minimum diameter of 0.016 millimeters and a maximum diameter of 0.024 millimeters, grams",g,,version 1.0
+xLS306,Local,diam_0.0167_0.0179mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0167 millimeters and a maximum diameter of 0.0179 millimeters, grams",g,,version 1.0
+xLS307,Local,diam_0.0167_0.0221mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0167 millimeters and a maximum diameter of 0.0221 millimeters, grams",g,,version 1.0
+xLS308,Local,diam_0.0167_0.0232mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0167 millimeters and a maximum diameter of 0.0232 millimeters, grams",g,,version 1.0
+xLS309,Local,diam_0.0167_0.0237mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0167 millimeters and a maximum diameter of 0.0237 millimeters, grams",g,,version 1.0
+xLS310,Local,diam_0.017_0.022mm_g,"Soil classification, weight of sample having a minimum diameter of 0.017 millimeters and a maximum diameter of 0.022 millimeters, grams",g,,version 1.0
+xLS311,Local,diam_0.0173_0.0237mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0173 millimeters and a maximum diameter of 0.0237 millimeters, grams",g,,version 1.0
+xLS312,Local,diam_0.0175_0.0245mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0175 millimeters and a maximum diameter of 0.0245 millimeters, grams",g,,version 1.0
+xLS313,Local,diam_0.0179_0.0192mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0179 millimeters and a maximum diameter of 0.0192 millimeters, grams",g,,version 1.0
+xLS314,Local,diam_0.0179_0.0237mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0179 millimeters and a maximum diameter of 0.0237 millimeters, grams",g,,version 1.0
+xLS315,Local,diam_0.0179_0.0254mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0179 millimeters and a maximum diameter of 0.0254 millimeters, grams",g,,version 1.0
+xLS316,Local,diam_0.0179_0.0272mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0179 millimeters and a maximum diameter of 0.0272 millimeters, grams",g,,version 1.0
+xLS317,Local,diam_0.0179_0.0274mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0179 millimeters and a maximum diameter of 0.0274 millimeters, grams",g,,version 1.0
+xLS318,Local,diam_0.0179_0.0335mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0179 millimeters and a maximum diameter of 0.0335 millimeters, grams",g,,version 1.0
+xLS319,Local,diam_0.0181_0.0249mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0181 millimeters and a maximum diameter of 0.0249 millimeters, grams",g,,version 1.0
+xLS320,Local,diam_0.0186_0.0263mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0186 millimeters and a maximum diameter of 0.0263 millimeters, grams",g,,version 1.0
+xLS321,Local,diam_0.019_0.0265mm_g,"Soil classification, weight of sample having a minimum diameter of 0.019 millimeters and a maximum diameter of 0.0265 millimeters, grams",g,,version 1.0
+xLS322,Local,diam_0.019_0.0268mm_g,"Soil classification, weight of sample having a minimum diameter of 0.019 millimeters and a maximum diameter of 0.0268 millimeters, grams",g,,version 1.0
+xLS323,Local,diam_0.0192_0.0237mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0192 millimeters and a maximum diameter of 0.0237 millimeters, grams",g,,version 1.0
+xLS324,Local,diam_0.0192_0.0254mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0192 millimeters and a maximum diameter of 0.0254 millimeters, grams",g,,version 1.0
+xLS325,Local,diam_0.0192_0.0263mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0192 millimeters and a maximum diameter of 0.0263 millimeters, grams",g,,version 1.0
+xLS326,Local,diam_0.0192_0.0272mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0192 millimeters and a maximum diameter of 0.0272 millimeters, grams",g,,version 1.0
+xLS327,Local,diam_0.0194_0.0272mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0194 millimeters and a maximum diameter of 0.0272 millimeters, grams",g,,version 1.0
+xLS328,Local,diam_0.0195_0.0274mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0195 millimeters and a maximum diameter of 0.0274 millimeters, grams",g,,version 1.0
+xLS329,Local,diam_0.0196_0.0276mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0196 millimeters and a maximum diameter of 0.0276 millimeters, grams",g,,version 1.0
+xLS330,Local,diam_0.0206_0.0272mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0206 millimeters and a maximum diameter of 0.0272 millimeters, grams",g,,version 1.0
+xLS331,Local,diam_0.022_0.03mm_g,"Soil classification, weight of sample having a minimum diameter of 0.022 millimeters and a maximum diameter of 0.03 millimeters, grams",g,,version 1.0
+xLS332,Local,diam_0.0221_0.0292mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0221 millimeters and a maximum diameter of 0.0292 millimeters, grams",g,,version 1.0
+xLS333,Local,diam_0.0221_0.0313mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0221 millimeters and a maximum diameter of 0.0313 millimeters, grams",g,,version 1.0
+xLS334,Local,diam_0.023_0.0313mm_g,"Soil classification, weight of sample having a minimum diameter of 0.023 millimeters and a maximum diameter of 0.0313 millimeters, grams",g,,version 1.0
+xLS335,Local,diam_0.0232_0.0313mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0232 millimeters and a maximum diameter of 0.0313 millimeters, grams",g,,version 1.0
+xLS336,Local,diam_0.0237_0.0254mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0237 millimeters and a maximum diameter of 0.0254 millimeters, grams",g,,version 1.0
+xLS337,Local,diam_0.0237_0.0313mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0237 millimeters and a maximum diameter of 0.0313 millimeters, grams",g,,version 1.0
+xLS338,Local,diam_0.0237_0.0335mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0237 millimeters and a maximum diameter of 0.0335 millimeters, grams",g,,version 1.0
+xLS339,Local,diam_0.0237_0.0359mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0237 millimeters and a maximum diameter of 0.0359 millimeters, grams",g,,version 1.0
+xLS340,Local,diam_0.024_0.03mm_g,"Soil classification, weight of sample having a minimum diameter of 0.024 millimeters and a maximum diameter of 0.03 millimeters, grams",g,,version 1.0
+xLS341,Local,diam_0.0245_0.0344mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0245 millimeters and a maximum diameter of 0.0344 millimeters, grams",g,,version 1.0
+xLS342,Local,diam_0.0249_0.0349mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0249 millimeters and a maximum diameter of 0.0349 millimeters, grams",g,,version 1.0
+xLS343,Local,diam_0.0254_0.0272mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0254 millimeters and a maximum diameter of 0.0272 millimeters, grams",g,,version 1.0
+xLS344,Local,diam_0.0254_0.0335mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0254 millimeters and a maximum diameter of 0.0335 millimeters, grams",g,,version 1.0
+xLS345,Local,diam_0.0254_0.0359mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0254 millimeters and a maximum diameter of 0.0359 millimeters, grams",g,,version 1.0
+xLS346,Local,diam_0.0254_0.0769mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0254 millimeters and a maximum diameter of 0.0769 millimeters, grams",g,,version 1.0
+xLS347,Local,diam_0.0263_0.0369mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0263 millimeters and a maximum diameter of 0.0369 millimeters, grams",g,,version 1.0
+xLS348,Local,diam_0.0263_0.0385mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0263 millimeters and a maximum diameter of 0.0385 millimeters, grams",g,,version 1.0
+xLS349,Local,diam_0.0265_0.0367mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0265 millimeters and a maximum diameter of 0.0367 millimeters, grams",g,,version 1.0
+xLS350,Local,diam_0.0268_0.0379mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0268 millimeters and a maximum diameter of 0.0379 millimeters, grams",g,,version 1.0
+xLS351,Local,diam_0.0272_0.0335mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0272 millimeters and a maximum diameter of 0.0335 millimeters, grams",g,,version 1.0
+xLS352,Local,diam_0.0272_0.0359mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0272 millimeters and a maximum diameter of 0.0359 millimeters, grams",g,,version 1.0
+xLS353,Local,diam_0.0272_0.0377mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0272 millimeters and a maximum diameter of 0.0377 millimeters, grams",g,,version 1.0
+xLS354,Local,diam_0.0272_0.0385mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0272 millimeters and a maximum diameter of 0.0385 millimeters, grams",g,,version 1.0
+xLS355,Local,diam_0.0274_0.0385mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0274 millimeters and a maximum diameter of 0.0385 millimeters, grams",g,,version 1.0
+xLS356,Local,diam_0.0276_0.0387mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0276 millimeters and a maximum diameter of 0.0387 millimeters, grams",g,,version 1.0
+xLS357,Local,diam_0.0292_0.0385mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0292 millimeters and a maximum diameter of 0.0385 millimeters, grams",g,,version 1.0
+xLS358,Local,diam_0.0292_0.0412mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0292 millimeters and a maximum diameter of 0.0412 millimeters, grams",g,,version 1.0
+xLS359,Local,diam_0.03_0.06mm_g,"Soil classification, weight of sample having a minimum diameter of 0.03 millimeters and a maximum diameter of 0.06 millimeters, grams",g,,version 1.0
+xLS360,Local,diam_0.0313_0.0412mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0313 millimeters and a maximum diameter of 0.0412 millimeters, grams",g,,version 1.0
+xLS361,Local,diam_0.0313_0.0415mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0313 millimeters and a maximum diameter of 0.0415 millimeters, grams",g,,version 1.0
+xLS362,Local,diam_0.0313_0.0442mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0313 millimeters and a maximum diameter of 0.0442 millimeters, grams",g,,version 1.0
+xLS363,Local,diam_0.0313_0.0625mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0313 millimeters and a maximum diameter of 0.0625 millimeters, grams",g,,version 1.0
+xLS364,Local,diam_0.0335_0.0359mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0335 millimeters and a maximum diameter of 0.0359 millimeters, grams",g,,version 1.0
+xLS365,Local,diam_0.0335_0.0442mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0335 millimeters and a maximum diameter of 0.0442 millimeters, grams",g,,version 1.0
+xLS366,Local,diam_0.0335_0.0474mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0335 millimeters and a maximum diameter of 0.0474 millimeters, grams",g,,version 1.0
+xLS367,Local,diam_0.0335_0.0625mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0335 millimeters and a maximum diameter of 0.0625 millimeters, grams",g,,version 1.0
+xLS368,Local,diam_0.0344_0.048mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0344 millimeters and a maximum diameter of 0.048 millimeters, grams",g,,version 1.0
+xLS369,Local,diam_0.0349_0.048mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0349 millimeters and a maximum diameter of 0.048 millimeters, grams",g,,version 1.0
+xLS370,Local,diam_0.0359_0.0385mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0359 millimeters and a maximum diameter of 0.0385 millimeters, grams",g,,version 1.0
+xLS371,Local,diam_0.0359_0.0442mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0359 millimeters and a maximum diameter of 0.0442 millimeters, grams",g,,version 1.0
+xLS372,Local,diam_0.0359_0.0474mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0359 millimeters and a maximum diameter of 0.0474 millimeters, grams",g,,version 1.0
+xLS373,Local,diam_0.0359_0.0508mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0359 millimeters and a maximum diameter of 0.0508 millimeters, grams",g,,version 1.0
+xLS374,Local,diam_0.0359_0.0625mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0359 millimeters and a maximum diameter of 0.0625 millimeters, grams",g,,version 1.0
+xLS375,Local,diam_0.0367_0.0504mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0367 millimeters and a maximum diameter of 0.0504 millimeters, grams",g,,version 1.0
+xLS376,Local,diam_0.0369_0.0518mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0369 millimeters and a maximum diameter of 0.0518 millimeters, grams",g,,version 1.0
+xLS377,Local,diam_0.0377_0.0515mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0377 millimeters and a maximum diameter of 0.0515 millimeters, grams",g,,version 1.0
+xLS378,Local,diam_0.0379_0.0533mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0379 millimeters and a maximum diameter of 0.0533 millimeters, grams",g,,version 1.0
+xLS379,Local,diam_0.0385_0.0474mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0385 millimeters and a maximum diameter of 0.0474 millimeters, grams",g,,version 1.0
+xLS380,Local,diam_0.0385_0.0508mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0385 millimeters and a maximum diameter of 0.0508 millimeters, grams",g,,version 1.0
+xLS381,Local,diam_0.0385_0.0518mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0385 millimeters and a maximum diameter of 0.0518 millimeters, grams",g,,version 1.0
+xLS382,Local,diam_0.0385_0.0533mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0385 millimeters and a maximum diameter of 0.0533 millimeters, grams",g,,version 1.0
+xLS383,Local,diam_0.0385_0.0544mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0385 millimeters and a maximum diameter of 0.0544 millimeters, grams",g,,version 1.0
+xLS384,Local,diam_0.0385_0.054mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0385 millimeters and a maximum diameter of 0.054 millimeters, grams",g,,version 1.0
+xLS385,Local,diam_0.0385_0.0625mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0385 millimeters and a maximum diameter of 0.0625 millimeters, grams",g,,version 1.0
+xLS386,Local,diam_0.0387_0.0544mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0387 millimeters and a maximum diameter of 0.0544 millimeters, grams",g,,version 1.0
+xLS387,Local,diam_0.0412_0.0625mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0412 millimeters and a maximum diameter of 0.0625 millimeters, grams",g,,version 1.0
+xLS388,Local,diam_0.0415_0.0625mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0415 millimeters and a maximum diameter of 0.0625 millimeters, grams",g,,version 1.0
+xLS389,Local,diam_0.0442_0.0474mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0442 millimeters and a maximum diameter of 0.0474 millimeters, grams",g,,version 1.0
+xLS390,Local,diam_0.0442_0.0625mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0442 millimeters and a maximum diameter of 0.0625 millimeters, grams",g,,version 1.0
+xLS391,Local,diam_0.0474_0.0508mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0474 millimeters and a maximum diameter of 0.0508 millimeters, grams",g,,version 1.0
+xLS392,Local,diam_0.0474_0.0625mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0474 millimeters and a maximum diameter of 0.0625 millimeters, grams",g,,version 1.0
+xLS393,Local,diam_0.0474_0.067mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0474 millimeters and a maximum diameter of 0.067 millimeters, grams",g,,version 1.0
+xLS394,Local,diam_0.048_0.0625mm_g,"Soil classification, weight of sample having a minimum diameter of 0.048 millimeters and a maximum diameter of 0.0625 millimeters, grams",g,,version 1.0
+xLS395,Local,diam_0.0504_0.0625mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0504 millimeters and a maximum diameter of 0.0625 millimeters, grams",g,,version 1.0
+xLS396,Local,diam_0.0508_0.0544mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0508 millimeters and a maximum diameter of 0.0544 millimeters, grams",g,,version 1.0
+xLS397,Local,diam_0.0508_0.0625mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0508 millimeters and a maximum diameter of 0.0625 millimeters, grams",g,,version 1.0
+xLS398,Local,diam_0.0515_0.0625mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0515 millimeters and a maximum diameter of 0.0625 millimeters, grams",g,,version 1.0
+xLS399,Local,diam_0.0518_0.0625mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0518 millimeters and a maximum diameter of 0.0625 millimeters, grams",g,,version 1.0
+xLS400,Local,diam_0.0533_0.0625mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0533 millimeters and a maximum diameter of 0.0625 millimeters, grams",g,,version 1.0
+xLS401,Local,diam_0.054_0.0625mm_g,"Soil classification, weight of sample having a minimum diameter of 0.054 millimeters and a maximum diameter of 0.0625 millimeters, grams",g,,version 1.0
+xLS402,Local,diam_0.0544_0.0625mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0544 millimeters and a maximum diameter of 0.0625 millimeters, grams",g,,version 1.0
+xLS403,Local,diam_0.0544_0.067mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0544 millimeters and a maximum diameter of 0.067 millimeters, grams",g,,version 1.0
+xLS404,Local,diam_0.06_0.09mm_g,"Soil classification, weight of sample having a minimum diameter of 0.06 millimeters and a maximum diameter of 0.09 millimeters, grams",g,,version 1.0
+xLS405,Local,diam_0.06_0.13mm_g,"Soil classification, weight of sample having a minimum diameter of 0.06 millimeters and a maximum diameter of 0.13 millimeters, grams",g,,version 1.0
+xLS406,Local,diam_0.0625_0.0625mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0625 millimeters and a maximum diameter of 0.0625 millimeters, grams",g,,version 1.0
+xLS407,Local,diam_0.0625_0.0743mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0625 millimeters and a maximum diameter of 0.0743 millimeters, grams",g,,version 1.0
+xLS408,Local,diam_0.0625_0.0884mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0625 millimeters and a maximum diameter of 0.0884 millimeters, grams",g,,version 1.0
+xLS409,Local,diam_0.0625_0.13mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0625 millimeters and a maximum diameter of 0.13 millimeters, grams",g,,version 1.0
+xLS410,Local,diam_0.067_0.0625mm_g,"Soil classification, weight of sample having a minimum diameter of 0.067 millimeters and a maximum diameter of 0.0625 millimeters, grams",g,,version 1.0
+xLS411,Local,diam_0.0743_0.0884mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0743 millimeters and a maximum diameter of 0.0884 millimeters, grams",g,,version 1.0
+xLS412,Local,diam_0.0769_0.0508mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0769 millimeters and a maximum diameter of 0.0508 millimeters, grams",g,,version 1.0
+xLS413,Local,diam_0.0884_0.13mm_g,"Soil classification, weight of sample having a minimum diameter of 0.0884 millimeters and a maximum diameter of 0.13 millimeters, grams",g,,version 1.0
+xLS414,Local,diam_0.09_0.13mm_g,"Soil classification, weight of sample having a minimum diameter of 0.09 millimeters and a maximum diameter of 0.13 millimeters, grams",g,,version 1.0
+xLS415,Local,diam_0.13_0.18mm_g,"Soil classification, weight of sample having a minimum diameter of 0.13 millimeters and a maximum diameter of 0.18 millimeters, grams",g,,version 1.0
+xLS416,Local,diam_0.13_0.25mm_g,"Soil classification, weight of sample having a minimum diameter of 0.13 millimeters and a maximum diameter of 0.25 millimeters, grams",g,,version 1.0
+xLS417,Local,diam_0.18_0.25mm_g,"Soil classification, weight of sample having a minimum diameter of 0.18 millimeters and a maximum diameter of 0.25 millimeters, grams",g,,version 1.0
+xLS418,Local,diam_0.25_0.35mm_g,"Soil classification, weight of sample having a minimum diameter of 0.25 millimeters and a maximum diameter of 0.35 millimeters, grams",g,,version 1.0
+xLS419,Local,diam_0.25_0.5mm_g,"Soil classification, weight of sample having a minimum diameter of 0.25 millimeters and a maximum diameter of 0.5 millimeters, grams",g,,version 1.0
+xLS420,Local,diam_0.35_0.42mm_g,"Soil classification, weight of sample having a minimum diameter of 0.35 millimeters and a maximum diameter of 0.42 millimeters, grams",g,,version 1.0
+xLS421,Local,diam_0.35_0.5mm_g,"Soil classification, weight of sample having a minimum diameter of 0.35 millimeters and a maximum diameter of 0.5 millimeters, grams",g,,version 1.0
+xLS422,Local,diam_0.42_0.71mm_g,"Soil classification, weight of sample having a minimum diameter of 0.42 millimeters and a maximum diameter of 0.71 millimeters, grams",g,,version 1.0
+xLS423,Local,diam_0.5_1mm_g,"Soil classification, weight of sample having a minimum diameter of 0.5 millimeters and a maximum diameter of 1 millimeters, grams",g,,version 1.0
+xLS424,Local,diam_0.5_2.8mm_g,"Soil classification, weight of sample having a minimum diameter of 0.5 millimeters and a maximum diameter of 2.8 millimeters, grams",g,,version 1.0
+xLS425,Local,diam_1.4_2mm_g,"Soil classification, weight of sample having a minimum diameter of 1.4 millimeters and a maximum diameter of 2 millimeters, grams",g,,version 1.0
+xLS426,Local,diam_1.41_2mm_g,"Soil classification, weight of sample having a minimum diameter of 1.41 millimeters and a maximum diameter of 2 millimeters, grams",g,,version 1.0
+xLS427,Local,diam_1_1.41mm_g,"Soil classification, weight of sample having a minimum diameter of 1 millimeters and a maximum diameter of 1.41 millimeters, grams",g,,version 1.0
+xLS428,Local,diam_1_1.4mm_g,"Soil classification, weight of sample having a minimum diameter of 1 millimeters and a maximum diameter of 1.4 millimeters, grams",g,,version 1.0
+xLS429,Local,diam_1_2mm_g,"Soil classification, weight of sample having a minimum diameter of 1 millimeters and a maximum diameter of 2 millimeters, grams",g,,version 1.0
+xLS430,Local,diam_2.8_4mm_g,"Soil classification, weight of sample having a minimum diameter of 2.8 millimeters and a maximum diameter of 4 millimeters, grams",g,,version 1.0
+xLS431,Local,diam_2.8mm_g,"Soil classification, weight of sample having a minimum diameter of 2.8 millimeters, grams",g,,version 1.0
+xLS432,Local,diam_2.83_4mm_g,"Soil classification, weight of sample having a minimum diameter of 2.83 millimeters and a maximum diameter of 4 millimeters, grams",g,,version 1.0
+xLS433,Local,diam_2_2.83mm_g,"Soil classification, weight of sample having a minimum diameter of 2 millimeters and a maximum diameter of 2.83 millimeters, grams",g,,version 1.0
+xLS434,Local,diam_2_2.8mm_g,"Soil classification, weight of sample having a minimum diameter of 2 millimeters and a maximum diameter of 2.8 millimeters, grams",g,,version 1.0
+xLS435,Local,diam_2_4mm_g,"Soil classification, weight of sample having a minimum diameter of 2 millimeters and a maximum diameter of 4 millimeters, grams",g,,version 1.0
+xLS436,Local,diam_4mm_g,"Soil classification, weight of sample having a minimum diameter of 4 millimeters, grams",g,,version 1.0
+xLS437,Local,11DiMeEtBz_mgL,"1,1,-Dimethylethyl benzene, water, filtered,  milligrams per liter",mg/L,`98-06-6,version 1.0
+xLS438,Local,1Et2MeBz_mgL,"1-Ethyl-2-methyl benzene, water, filtered,  milligrams per liter",mg/L,`611-14-3,version 1.0
+xLS439,Local,1Et2MeBz_mgL,"1-Ethyl-3-methyl benzene, water, filtered,  milligrams per liter",mg/L,`620-14-4,version 1.0
+xLS440,Local,1Et4MeBz_mgL,"1-Ethyl-4-methyl benzene, water, filtered,  milligrams per liter",mg/L,`622-96-8,version 1.0
+xLS441,Local,1MePrBz_mgL,"1-Methyl-propyl benzene, water, filtered,  milligrams per liter",mg/L,`99-87-6,version 1.0
+xLS442,Local,2MePrBz_mgL,"2-Methyl-propyl benzene, water, filtered,  milligrams per liter",mg/L,`538-93-2,version 1.0
+xLS443,Local,TotAlkylBz_mgL,"Total alkylbenzenes, water, filtered,  milligrams per liter",mg/L,,version 1.0
+xLS444,Local,raw_tot_samp_wt_g,"Total oven-dried weight of all size fractions in a soil sample before sieving, grams",g,,version 1.0
+xLO075,Local,acetic_acid_ugL,"Acetic Acid, unfiltered, micrograms per liter",ug/L,`64-19-7,version 2.0
+xLO076,Local,propanoic_acid_ugL,"Propanoic Acid (Propionic Acid), unfiltered, micrograms per liter",ug/L,`79-09-4,version 2.0
+xLO077,Local,isopentanoic_acid_ugL,"Isopentanoic Acid, unfiltered, micrograms per liter",ug/L,`78-78-4,version 2.0
+xLO078,Local,heptanoic_acid_ugL,"Heptanoic Acid, unfiltered, micrograms per liter",ug/L,`142-82-5,version 2.0
+xLO079,Local,phenol_ugL,"Phenol, unfiltered, micrograms per liter",ug/L,`108-95-2,version 2.0
+xLO080,Local,cyclohexanoic_acid_ugL,"Cyclohexanoic Acid, unfiltered, micrograms per liter",ug/L,`110-87-7,version 2.0
+xLO081,Local,butanoic_acid_ugL,"Butanoic Acid, unfiltered, micrograms per liter",ug/L,`107-92-6,version 2.0
+xLO082,Local,x_x_DMe_cyclohexanoic_acid_ugL,"x,x-Dimethylcyclohexanoic Acid, unfiltered, micrograms per liter",ug/L,,version 2.0
+xLO083,Local,o_toluic_acid_ugL,"o-Toluic Acid, unfiltered, micrograms per liter",ug/L,`118-90-1,version 2.0
+xLO084,Local,m_or_p_toluic_acid_ugL,"m-Toluic Acid or p-Toluic Acid, unfiltered, micrograms per liter",ug/L,,version 2.0
+xLO085,Local,m_and_p_MePh_acetic_acid_ugL,"meta and para-methylphenylacetic Acids, unfiltered, micrograms per liter",ug/L,,version 2.0
+xLO086,Local,2_4_6_TMe_benzoic_acid_ugL,"2,4,6-Trimethylbenzoic Acid, unfiltered, micrograms per liter",ug/L,`480-63-7,version 2.0
+xLO087,Local,2_4_5_TMe_benzoic_acid_ugL,"2,4,5-Trimethylbenzoic Acid, unfiltered, micrograms per liter",ug/L,`528-90-5,version 2.0
+xLO088,Local,benzoic_acid_ugL,"Benzoic Acid, unfiltered, micrograms per liter",ug/L,`65-85-0,version 2.0
+xLO089,Local,hydroquinone_ugL,"Hydroquinone, unfiltered, micrograms per liter",ug/L,`123-31-9,version 2.0
+xLO090,Local,resorcinol_ugL,"Resorcinol, unfiltered, micrograms per liter",ug/L,`108-46-3,version 2.0
+xLO091,Local,unk_aliphatics_ugL,"Unknown Aliphatics, unfiltered, micrograms per liter",ug/L,,version 2.0
+xLO092,Local,unk_alicyclics_ugL,"Unknown Alicyclics, unfiltered, micrograms per liter",ug/L,,version 2.0
+xLO093,Local,unk_aromatics_ugL,"Unknown Aromatics, unfiltered, micrograms per liter",ug/L,,version 2.0
+xLO094,Local,2_Me_butanoic_acid_ugL,"2-methylbutanoic Acid, unfiltered, micrograms per liter",ug/L,`116-53-0,version 2.0
+xLO095,Local,3_3_DMe_butanoic_acid_ugL,"3,3-Dimethylbutanoic Acid, unfiltered, micrograms per liter",ug/L,`1070-83-3,version 2.0
+xLO096,Local,m_toluic_acid_ugL,"m-Toluic Acid, unfiltered, micrograms per liter",ug/L,`99-04-7,version 2.0
+xLO097,Local,p_toluic_acid_ugL,"p-Toluic Acid, unfiltered, micrograms per liter",ug/L,`99-94-5,version 2.0
+xLO098,Local,phenylacetic_acid_ugL,"Phenylacetic Acid, unfiltered, micrograms per liter",ug/L,`103-82-2,version 2.0
+xLO099,Local,2_4_and_2_5_DMe_benzoic_acid_ugL,"2,4-and 2,5-Dimethylbenzoic Acid, unfiltered, micrograms per liter",ug/L,,version 2.0
+xLO100,Local,2_6_DMe_benzoic_acid_ugL,"2,6-Dimethylbenzoic Acid, unfiltered, micrograms per liter",ug/L,`632-46-2,version 2.0
+xLO101,Local,m_MePh_acetic_acid_ugL,"meta-methylphenylacetic Acid, unfiltered, micrograms per liter",ug/L,`621-36-3,version 2.0
+xLO102,Local,p_MePh_acetic_acid_ugL,"para-methylphenylacetic Acid, unfiltered, micrograms per liter",ug/L,`622-47-9,version 2.0
+xLO103,Local,3_4_DMe_benzoic_acid_ugL,"3,4-Dimethylbenzoic Acid, unfiltered, micrograms per liter",ug/L,`619-04-5,version 2.0
+xLO104,Local,isobutanoic_acid_ugL,"isobutanoic acid (also known as isobutyric acid), unfiltered, micrograms per liter",ug/L,`79-31-2,version 2.0
+xLO105,Local,pentanoic_acid_ugL,"pentanoic acid (also known as n-valeric acid), unfiltered, micrograms per liter",ug/L,`109-52-4,version 2.0
+x54151,NWIS,methane_soilgas_volpct,"Methane, soil gas, uncorrected for temperature and pressure, percent of soil gas",% by vol,`74-82-8,version 3.0
+x54152,NWIS,oxygen_soilgas_uncorr_volpct,"Oxygen, soil gas, uncorrected for temperature and pressure, percent of soil gas",% by vol,`7782-44-7,version 3.0
+x54153,NWIS,CO2_soilgas_uncorr_volpct,"Carbon dioxide, soil gas, uncorrected for temperature and pressure, percent of soil gas",% by vol,`124-38-9,version 3.0
+x54154,NWIS,O2_Ar_soilgas_volpct,"Oxygen plus argon, soil gas, uncorrected for temperature and pressure, percent of soil gas",% by vol,`7782-44-7,version 3.0
+x54155,NWIS,dinitrogen_soilgas_volpct,"Dinitrogen, soil gas, uncorrected for temperature and pressure, percent of soil gas",% by vol,`7727-37-9,version 3.0
+x54156,NWIS,argon_soilgas_volpct,"Argon, soil gas, uncorrected for temperature and pressure, percent of soil gas",% by vol,`7440-37-1,version 3.0
+x54157,NWIS,oxygen_soilgas_corr_volpct,"Oxygen, soil gas, corrected for temperature and pressure, percent of soil gas",% by vol,`7782-44-7,version 3.0
+x54158,NWIS,CO2_soilgas_corr_volpct,"Carbon dioxide, soil gas, corrected for temperature and pressure, percent of soil gas",% by vol,`124-38-9,version 3.0
+x54159,NWIS,CO2_efflux_soilgas_umolm2s,"Carbon dioxide efflux, soil gas, micromoles of carbon dioxide per square meter per second",umol/m2/s,,version 3.0
+x62607,NWIS,atmos_press_uncorr_kpa,"Barometric pressure, uncorrected, kilopascals",kPa,,version 3.0
+x72166,NWIS,raw_sensor_val_mv,"Raw sensor value, millivolts",mv,,version 3.0
+x72176,NWIS,temp_sensor_C,"Temperature of sensor, degrees Celsius",deg C,,version 3.0
+x72205,NWIS,cond_bulk_dSm,"Bulk electrical conductance, soil, decisiemens per meter",dS/m,,version 3.0
+x72259,NWIS,dielectric_perm,"Dielectric permittivity, soil, in situ",none,,version 3.0
+x74207,NWIS,soil_moisture_volpct,"Moisture content, soil, volumetric, percent of total volume",% by vol,,version 3.0
+x81027,NWIS,temp_soil_C,"Temperature, soil, degrees Celsius",deg C,,version 3.0
+x99263,NWIS,volt_ratio,"Voltage ratio, voltage of transmitted electromagnetic pulse divided by the voltage of the returned pulse",ratio,,version 3.0
+x99163,NWIS,cond_stdrd_lotno,"Conductance standard NWIS lot number, 500 uS/cm KCl, National Field Supply Service (NFSS) stock number Q45FLD",nu,,version 3.0
+x00032,NWIS,cloud_cvr_pct,"Cloud cover, percent",%,,version 3.0
+x00035,NWIS,wind_spd_mph,"Wind speed, miles per hour",mph,,version 3.0
+x00041,NWIS,weather_wmo_code,"Weather, World Meteorological Code (WMO) code",WMO code,,version 3.0
+x00098,NWIS,smpling_dep_m,"Sampling depth, meters",m,,version 3.0
+x72053,NWIS,days_last_precip,Number of days since last precipitation event,days,,version 3.0
+x72104,NWIS,smp_loc_dwnstrm_ft,"Sample location, distance downstream, feet",ft,,version 3.0
+x72105,NWIS,smp_loc_upstrm_ft,"Sample location, distance upstream, feet",ft,,version 3.0
+x78890,NWIS,smpling_dep_ftMSL,"Sampling depth, feet below mean sea level",ft,,version 3.0
+x81904,NWIS,velo_pt_strm_fps,"Velocity at piont in stream, feet per second",fps,,version 3.0

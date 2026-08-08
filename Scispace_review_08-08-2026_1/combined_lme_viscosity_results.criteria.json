@@ -1,0 +1,29 @@
+{
+    "query": "linear mixed-effects model viscosity prediction heavy oil reservoir geochemistry multicollinearity VIF intraclass correlation REML estimation",
+    "criteria": {
+        "required_relevance_criteria": [
+            {
+                "name": "Linear Mixed-Effects Model",
+                "description": "The paper must employ or discuss linear mixed-effects models (LMMs) specifically for the purpose of viscosity prediction.",
+                "weight": 0.3
+            },
+            {
+                "name": "Viscosity Prediction in Heavy Oil Reservoirs",
+                "description": "The paper must focus on predicting viscosity within the context of heavy oil reservoirs, incorporating geochemistry.",
+                "weight": 0.3
+            },
+            {
+                "name": "Model Diagnostics and Estimation",
+                "description": "The paper must address at least one of the following technical aspects of the model: multicollinearity, Variance Inflation Factor (VIF), intraclass correlation, or REML estimation.",
+                "weight": 0.4
+            }
+        ],
+        "nice_to_have_relevance_criteria": [
+            {
+                "name": "Comprehensive Diagnostics",
+                "description": "The paper addresses all mentioned diagnostics: multicollinearity, VIF, intraclass correlation, and REML estimation.",
+                "weight": 0.2
+            }
+        ]
+    }
+}

@@ -1,0 +1,125 @@
+Version History
+
+------------------------------------
+Version 1.0, posted online 11/8/2018
+
+citation: Trost, J.J., Krall, A.L., Jaeschke, J.B., Berg, A.M., Bekins, B.A., 2018. Sampling site information, well construction details, and data dictionaries for data sets associated with the National Crude Oil Spill Fate and Natural Attenuation Site near Bemidji, Minnesota, USA: U.S. Geological Survey data release, https://doi.org/10.5066/F7736PDR
+------------------------------------
+
+------------------------------------
+Version 2.0, posted online 09/25/2019
+
+citation: Trost, J.J., Krall, A.L., Jaeschke, J.B., Berg, A.M., Bekins, B.A., 2018. Sampling site information, well construction details, and data dictionaries for data sets associated with the National Crude Oil Spill Fate and Natural Attenuation Site near Bemidji, Minnesota, USA (version 2.0, September 2019): U.S. Geological Survey data release, https://doi.org/10.5066/F7736PDR
+
+Changes in version 2.0
+
+DataDictionaries directory (files contained in DataDictionaries.zip):
+1.  in all data dictionary tables (tblcd*.csv), a column "version_when_added" was inserted to 
+	track when specific code definitions were added to the data release.  
+2.  Several codes and definitions were added or modified in the following data dictionary tables.  These changes were necessary because of (1) errors/omissions in this original data release and (2) the addition of a new data set, tblds_11_OrganicAcids_1980s_1990s.csv, in the accompanying historical data release (https://doi.org/10.5066/F7J101NV).
+		tblcd_dataset.csv
+		tblcd_lab_rep.csv
+		tblcd_lab_run.csv
+		tblcd_medium_cd.csv
+		tblcd_meth_cd.csv
+		tblcd_parm_cd.csv
+		tblcd_sample_type.csv
+3.  Version 1.0 had 3 metadata files.  SamplingSiteInfo_DataDict_metadata.xml was available directly from the landing page. The metadata file DataDictionaries_metadata.xml was in the DataDictionaries.zip file and the metadata file DataRelease01_SiteInformation_all.xml was available in the SiteInformation.zip file.  The 2 files available within the .zip files contained detailed entity attribute information for each of the .csv tables that the .zip files contained.  The detailed entity attribute information has now been incorporated into the SamplingSiteInfo_DataDict_metadata.xml file to facilitate easier version updates.  Separate metadata files will no longer be available within the .zip files.  
+------------------------------------
+
+------------------------------------
+Version 3.0, posted online 4/2/2020
+
+citation:  Trost, J.J., Krall, A.L., Jaeschke, J.B., Berg, A.M., Bekins, B.A., 2018. Sampling site information, well construction details, and data dictionaries for data sets associated with the National Crude Oil Spill Fate and Natural Attenuation Site near Bemidji, Minnesota, USA (version 3.0, April 2020): U.S. Geological Survey data release, https://doi.org/10.5066/F7736PDR
+
+Changes in version 3.0
+
+DataDictionaries directory (files contained in DataDictionaries.zip):
+
+1.  New parameter codes for soil moisture sensors and unsaturated zone gas measurements were added to the table tblcd_parm_cd.csv
+2.  New method codes for soil moisture sensors and unsaturated zone gas measurements were added to the table tblcd_meth_cd.csv. 
+		One of these method codes was 00149, which prompted that an "x" be prepended to all method codes to prevent automatic removal of leading zeros by excel or other programs.  
+3.  in tblcd_remark, the code "m" was changed to "md". This remark code signifies data values that were missing from the original data set that was used to create the published version of the historical data files.  
+  
+
+SiteInformation directory:
+
+1.  for core location 1712, LocalUseCode changed from wt to tg 
+
+2.  for LocalSiteName 1803, 1804, 1807, x y and z coordinates were updated to correct values.
+
+3.  Measuring point elevations, land surface elevations, and/or UTM coordinates were updated for many sites.  The values replaced in version 3.0 of this data release were replaced because of: (1) inaccuracies in vertical coordinates caused by rounding errors between metric and English units or (2) data have been superseded by improved measurements of measuring point lengths (i.e. the length of the well casing protruding above ground),improved horizontal and vertical coordinates from surveys completed during June of 2019.  
+
+4.  New sites established during the June 2019 field session were added to the appropriate tables.
+
+5.  Location and construction information for all vapor well ports (LocalUseCode of "wv") at the reaearch site (approximately 200 port sites) were entered into the USGS Ground Water Site Inventory (GWSI) system (part of the USGS National Water Information System [NWIS]).  The site information stored in NWIS, and additional information from local records, for these sites is now included in the site information data tables available at this data release.
+
+6.  The well screen depth and elevation information for well 423 were fixed; values in ver 1.0 and 2.0 were incorrect for this well. 
+
+7.  For all wells at the research site (all records in DataRelease01_WellConsructionInformation.csv and corresponding records in DataRelease01_MasterSiteList.csv), the USGS NWIS database is now considered the authoritative source for most construction and vertical coordinate information.  The data in this version 3.0 data release is from a retrieval done in February 2020.  Horizontal coordinates and a few other detailed bits of information are managed locally, outside of the USGS NWIS system for wells, and made available through this data release.  However, all of the construction and location information for OtherEquipment sites (DataRelease01_OtherEquipmentInformation.csv)and Core sites (DataRelease01_CoreInformation.csv) is not in the USGS NWIS database and is only available through this data release.  The well information is duplicated from the USGS NWIS in this data release so that it is in a format consistent with the rest of the data in the site information data files.
+
+8.  Removed LocalSiteNames of 763282 and 763283 from tblSites.  these were duplicates of MW1 and MW2. Removed records with LocalSiteNames of "1001", "1039-42", "1043-46", "1047-50", "1067-71" because these were relic names of sites where equipment was installed.  The correct names of these sites are 1001B, WT1001, WT1002, WT1003, and WT1004, respectively, and these sites are already listed in the data.  
+ 
+
+9.  Record of columns added, removed, or names changed by table:
+		DataRelease01_CoreInformation.csv: 
+			USGS_GWSISiteID changed to USGS_siteno
+			CoreStickupLength_m changed to Core_MP_height_m
+			StartingDepthOfHole_mBLS removed from table
+			BottomOfCoreElevation_mASL_NAVD88 removed from table
+		
+		DataRelease01_MasterSiteList.csv
+			AgencyCode added to table
+			USGS_GWSISiteID changed to USGS_siteno
+			DateOfConstruction added to table
+			Comments_DateOfConstruction added to table
+		
+		DataRelease01_OtherEquipmentInformation.csv
+			USGS_GWSISiteID changed to USGS_siteno
+			OtherEquipStickupLength_m changed to OtherEquip_MP_height_m
+			
+		DataRelease01_WellConstructionInformation.csv
+			USGS_GWSISiteID changed to USGS_siteno
+			StickupLength_m changed to well_MP_height_m
+			TypeOfOpenInterval removed from table
+			comments_OpeningType changed to OpeningTypeDescription
+------------------------------------
+
+------------------------------------
+Version 4.0, posted online 09/31/2025
+
+citation: Trost, J.J., Krall, A.L., Jaeschke, J.B., Berg, A.M., Bekins, B.A., Milinic, B. 2025. Sampling site information, well construction details, and data dictionaries for data sets associated with the National Crude Oil Spill Fate and Natural Attenuation Site near Bemidji, Minnesota, USA (ver. 4.0, September 2025): U.S. Geological Survey data release, https://doi.org/10.5066/F7736PDR 
+
+Changes in version 4.0
+
+1. Data from 2020-2025 added to the following four tables. No new columns were added to any of the tables.: 
+	- DataRelease_CoreInformation.csv 
+		- rows of data added: 146
+		- unique sites in new rows: 146
+	- DataRelease_MasterSiteList.csv
+		- rows of data added: 93
+		- unique sites in new rows: 93
+	- DataRelease_OtherEquipmentInformation.csv
+		- rows of data added: 5
+		- unique sites in new rows: 5
+	- DataRelease_WellConstructionInformation.csv
+		- rows of data added: 12
+		- unique sites in new rows: 12
+
+2. Update applied to pre-existing data: 
+	- an "x" prefix was added to all values in the "USGS_siteno" columns to prevent leading 0 deletion by Excel or other programs used to open the data files.
+	- Updated "OnNorthWellTransect" column for the "DataRelease_CoreInformation.csv" if site located on the North Well transect
+
+3. Data extract, transform and load process transitioned from R to Python. The following libraries were used with the updated process:
+	- pyodbc
+	- dataretrieval
+	- pandas
+	- numpy
+
+4. Metadata edited using Metadata Wizard. The following tags were updated to follow USGS best practices:
+	- <accconst> updated to "No access constraints. Please see 'Distribution Information' for details."
+	- <useconst> updated to "These data are marked with a Creative Common CC0 1.0 Universal License. These data are in the public domain and do not have any use constraints. Users are advised to read the dataset's metadata thoroughly to understand appropriate use and data limitations."
+
+
+5. Added a new author as shown in the citation
+------------------------------------

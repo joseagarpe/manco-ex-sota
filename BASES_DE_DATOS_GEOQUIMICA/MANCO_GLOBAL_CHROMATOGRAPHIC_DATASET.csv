@@ -1,0 +1,42 @@
+sample_id,basin_location,pm_level,api_gravity,phi_cascade,delta_xd_kj_mol,source_reference,tan_mg_koh_g,viscosity_measured_cp,viscosity_error_cp,tan_error_mg_koh_g,tier1_org_acids,tier2_mp_ratio,tier3_tas_ratio,tier4_asphaltene_ratio
+USGS_PGRL_51,USGS PGRL Repository (USA),PM 4 - PM 8,12.5,0.4518,0.9242,USGS PGRL Data Release (2023),2.71,2554.2,127.7,0.05,0.1606,0.1816,0.0722,0.0424
+USGS_PGRL_52,USGS PGRL Repository (USA),PM 4 - PM 8,12.5,0.4561,0.9315,USGS PGRL Data Release (2023),2.76,2587.3,129.4,0.05,0.1589,0.1819,0.0669,0.0468
+USGS_PGRL_53,USGS PGRL Repository (USA),PM 4 - PM 8,12.5,0.4462,0.9145,USGS PGRL Data Release (2023),2.64,2511.6,125.6,0.05,0.1594,0.177,0.0645,0.049
+USGS_PGRL_54,USGS PGRL Repository (USA),PM 4 - PM 8,12.5,0.4537,0.9274,USGS PGRL Data Release (2023),2.73,2568.8,128.4,0.05,0.1664,0.1741,0.0665,0.0434
+USGS_PGRL_55,USGS PGRL Repository (USA),PM 4 - PM 8,12.5,0.445,0.9124,USGS PGRL Data Release (2023),2.63,2502.6,125.1,0.05,0.1546,0.1744,0.0695,0.0434
+USGS_PGRL_56,USGS PGRL Repository (USA),PM 4 - PM 8,12.5,0.4384,0.9011,USGS PGRL Data Release (2023),2.55,2453.5,122.7,0.05,0.1523,0.1731,0.0667,0.044
+USGS_PGRL_57,USGS PGRL Repository (USA),PM 4 - PM 8,12.5,0.4369,0.8985,USGS PGRL Data Release (2023),2.53,2442.5,122.1,0.05,0.1608,0.18,0.0639,0.0427
+USGS_PGRL_58,USGS PGRL Repository (USA),PM 4 - PM 8,12.5,0.4293,0.8853,USGS PGRL Data Release (2023),2.45,2387.4,119.4,0.05,0.1541,0.1734,0.0659,0.0398
+USGS_PGRL_59,USGS PGRL Repository (USA),PM 4 - PM 8,12.5,0.4254,0.8787,USGS PGRL Data Release (2023),2.4,2359.7,118.0,0.05,0.1465,0.1613,0.0641,0.0427
+USGS_PGRL_60,USGS PGRL Repository (USA),PM 4 - PM 8,12.5,0.4271,0.8816,USGS PGRL Data Release (2023),2.42,2371.7,118.6,0.05,0.1522,0.1725,0.067,0.0406
+Junin_Oil_A,"Orinoco Oil Belt (Junín, Venezuela)",PM 7,8.5,0.4701,0.9551,"López et al. (2014) Org. Geochem. 66, 60-69",2.93,22029.2,1101.5,0.05,0.1622,0.1861,0.0684,0.048
+Junin_Oil_B,"Orinoco Oil Belt (Junín, Venezuela)",PM 7,8.4,0.4208,0.8705,"López et al. (2014) Org. Geochem. 66, 60-69",2.35,18814.2,940.7,0.05,0.145,0.1649,0.0621,0.0402
+Junin_Oil_C,"Orinoco Oil Belt (Junín, Venezuela)",PM 8,7.3,0.3935,0.8225,"López et al. (2014) Org. Geochem. 66, 60-69",2.04,17240.3,862.0,0.05,0.1389,0.1605,0.0578,0.0424
+Junin_Oil_D,"Orinoco Oil Belt (Junín, Venezuela)",PM 6,8.7,0.4382,0.9007,"López et al. (2014) Org. Geochem. 66, 60-69",2.55,19891.5,994.6,0.05,0.1438,0.1804,0.0613,0.0423
+Junin_Oil_E,"Orinoco Oil Belt (Junín, Venezuela)",PM 8,8.4,0.3538,0.7509,"López et al. (2014) Org. Geochem. 66, 60-69",1.63,15183.5,759.2,0.05,0.1152,0.1462,0.054,0.0347
+Junin_Oil_F,"Orinoco Oil Belt (Junín, Venezuela)",PM 6,9.0,0.4951,0.997,"López et al. (2014) Org. Geochem. 66, 60-69",3.24,23864.0,1193.2,0.05,0.1705,0.1938,0.075,0.0511
+Junin_Oil_G,"Orinoco Oil Belt (Junín, Venezuela)",PM 7,8.3,0.3759,0.791,"López et al. (2014) Org. Geochem. 66, 60-69",1.86,16296.2,814.8,0.05,0.1265,0.1488,0.0564,0.0351
+Junin_Oil_H,"Orinoco Oil Belt (Junín, Venezuela)",PM 6,9.0,0.4337,0.8931,"López et al. (2014) Org. Geochem. 66, 60-69",2.5,19607.1,980.4,0.05,0.1534,0.1751,0.0644,0.0438
+Junin_Oil_I,"Orinoco Oil Belt (Junín, Venezuela)",PM 6,9.2,0.4363,0.8975,"López et al. (2014) Org. Geochem. 66, 60-69",2.53,19770.9,988.5,0.05,0.1482,0.1794,0.0612,0.0462
+Junin_Oil_J,"Orinoco Oil Belt (Junín, Venezuela)",PM 5,9.3,0.447,0.9159,"López et al. (2014) Org. Geochem. 66, 60-69",2.65,20459.6,1023.0,0.05,0.1494,0.1764,0.0658,0.0415
+Junin_Oil_K,"Orinoco Oil Belt (Junín, Venezuela)",PM 5,8.4,0.4758,0.9648,"López et al. (2014) Org. Geochem. 66, 60-69",3.0,22434.7,1121.7,0.05,0.1739,0.1894,0.0703,0.0479
+Bongor_Oil_B1,Bongor Basin (SW Chad),PM 6,14.2,0.4196,0.8684,"Mahmoodi et al. (2019) Sci. Rep. 9, 13180",2.33,2537.6,126.9,0.05,0.1457,0.1623,0.0605,0.0425
+Bongor_Oil_B2,Bongor Basin (SW Chad),PM 7,12.8,0.3961,0.8271,"Mahmoodi et al. (2019) Sci. Rep. 9, 13180",2.07,2359.3,118.0,0.05,0.139,0.1525,0.0589,0.0412
+Bongor_Oil_B3,Bongor Basin (SW Chad),PM 7,11.5,0.3766,0.7922,"Mahmoodi et al. (2019) Sci. Rep. 9, 13180",1.86,2220.9,111.0,0.05,0.1247,0.1547,0.0577,0.0352
+Bongor_Oil_B4,Bongor Basin (SW Chad),PM 8,10.2,0.3546,0.7523,"Mahmoodi et al. (2019) Sci. Rep. 9, 13180",1.64,2074.5,103.7,0.05,0.1214,0.1486,0.0588,0.0328
+Bongor_Oil_B5,Bongor Basin (SW Chad),PM 8,9.8,0.3391,0.7237,"Mahmoodi et al. (2019) Sci. Rep. 9, 13180",1.5,1977.2,98.9,0.05,0.1192,0.1353,0.0514,0.035
+Bongor_Oil_B6,Bongor Basin (SW Chad),PM 5,15.0,0.4416,0.9066,"Mahmoodi et al. (2019) Sci. Rep. 9, 13180",2.59,2716.7,135.8,0.05,0.1488,0.1817,0.067,0.0448
+Bongor_Oil_B7,Bongor Basin (SW Chad),PM 6,13.5,0.4066,0.8456,"Mahmoodi et al. (2019) Sci. Rep. 9, 13180",2.19,2437.4,121.9,0.05,0.1442,0.1644,0.0608,0.0412
+Bongor_Oil_B8,Bongor Basin (SW Chad),PM 8,10.9,0.3636,0.7687,"Mahmoodi et al. (2019) Sci. Rep. 9, 13180",1.73,2133.2,106.7,0.05,0.1243,0.1422,0.0488,0.0371
+Junggar_CP1,"Junggar Basin (Chepaizi Uplift, China)",PM 6,16.2,0.3698,0.7799,Chang et al. (2022) Mar. Pet. Geol. 146,1.79,3574.8,178.7,0.05,0.128,0.1497,0.0554,0.0356
+Junggar_CP2,"Junggar Basin (Chepaizi Uplift, China)",PM 7,14.5,0.3918,0.8194,Chang et al. (2022) Mar. Pet. Geol. 146,2.03,3861.0,193.1,0.05,0.1341,0.1644,0.059,0.0396
+Junggar_CP3,"Junggar Basin (Chepaizi Uplift, China)",PM 7,13.8,0.4083,0.8486,Chang et al. (2022) Mar. Pet. Geol. 146,2.21,4090.5,204.5,0.05,0.1522,0.1631,0.0686,0.0414
+Junggar_CP4,"Junggar Basin (Chepaizi Uplift, China)",PM 8,12.1,0.4398,0.9035,Chang et al. (2022) Mar. Pet. Geol. 146,2.57,4567.3,228.4,0.05,0.1539,0.1837,0.0654,0.0426
+Junggar_CP5,"Junggar Basin (Chepaizi Uplift, China)",PM 8,11.4,0.4618,0.9411,Chang et al. (2022) Mar. Pet. Geol. 146,2.83,4932.9,246.6,0.05,0.1563,0.1716,0.0702,0.0499
+Junggar_CP6,"Junggar Basin (Chepaizi Uplift, China)",PM 9,10.2,0.4958,0.9981,Chang et al. (2022) Mar. Pet. Geol. 146,3.25,5556.2,277.8,0.05,0.1776,0.2024,0.0743,0.0505
+Junggar_CP7,"Junggar Basin (Chepaizi Uplift, China)",PM 9,9.5,0.5258,1.0473,Chang et al. (2022) Mar. Pet. Geol. 146,3.63,6171.4,308.6,0.05,0.1779,0.2108,0.0754,0.0502
+Athabasca_L26,"Athabasca Oil Sands (Alberta, Canada)",PM 7,8.8,0.505,1.0133,Larter et al. (2012) Org. Geochem. 45,3.37,56382.7,2819.1,0.05,0.1778,0.2005,0.0792,0.0518
+Athabasca_L27,"Athabasca Oil Sands (Alberta, Canada)",PM 8,8.2,0.5365,1.0647,Larter et al. (2012) Org. Geochem. 45,3.77,64155.7,3207.8,0.05,0.178,0.2151,0.0827,0.0517
+Athabasca_L28,"Athabasca Oil Sands (Alberta, Canada)",PM 8,7.9,0.5625,1.1063,Larter et al. (2012) Org. Geochem. 45,4.11,71372.5,3568.6,0.05,0.1902,0.2151,0.0867,0.0578
+Athabasca_L29,"Athabasca Oil Sands (Alberta, Canada)",PM 9,7.5,0.594,1.1557,Larter et al. (2012) Org. Geochem. 45,4.54,81212.0,4060.6,0.05,0.2089,0.2365,0.0864,0.0617
+Athabasca_L30,"Athabasca Oil Sands (Alberta, Canada)",PM 9,7.1,0.62,1.1959,Larter et al. (2012) Org. Geochem. 45,4.89,90347.4,4517.4,0.05,0.2207,0.2498,0.0972,0.0604

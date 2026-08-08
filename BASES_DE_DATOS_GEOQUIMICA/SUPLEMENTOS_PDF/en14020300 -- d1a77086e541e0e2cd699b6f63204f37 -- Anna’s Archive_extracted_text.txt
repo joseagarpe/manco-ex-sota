@@ -1,0 +1,1787 @@
+
+--- PAGE 1 ---
+energies
+Article
+Characterization of Severely Biodegraded Crude Oils Using
+Negative-Ion ESI Orbitrap MS, GC-NCD and GC-SCD:
+Insights into Heteroatomic Compounds Biodegradation
+Xiong Cheng * and Dujie Hou
+
+
+Citation: Cheng, X.; Hou, D.
+Characterization of Severely
+Biodegraded Crude Oils Using
+Negative-Ion ESI Orbitrap MS,
+GC-NCD and GC-SCD: Insights into
+Heteroatomic Compounds
+Biodegradation. Energies 2021, 14,
+300. https://doi.org/10.3390/
+en14020300
+Received: 3 December 2020
+Accepted: 4 January 2021
+Published: 7 January 2021
+Publisher’s Note: MDPI stays neu-
+tral with regard to jurisdictional clai-
+ms in published maps and institutio-
+nal afﬁliations.
+Copyright: © 2021 by the authors. Li-
+censee MDPI, Basel,
+Switzerland.
+This article is an open access article
+distributed under the terms and con-
+ditions of the Creative Commons At-
+tribution (CC BY)
+license (https://
+creativecommons.org/licenses/by/
+4.0/).
+School of Energy Resources, China University of Geosciences, Beijing 100083, China; hdj@cugb.edu.cn
+* Correspondence: xcheng2015@cugb.edu.cn
+Abstract: A slightly and two severely biodegraded crude oils with the same origin were anal-
+ysed using negative-ion electrospray ionization Orbitrap mass spectrometry (ESI Orbitrap MS), gas
+chromatography-nitrogen chemiluminescence detector (GC-NCD), and GC-sulfur chemilumines-
+cence detector (GC-SCD) to investigate the composition of heteroatomic compounds and their fate
+during severe biodegradation and to provide insights into biodegradation pathway of hopanes,
+nitrogen- and sulfur-containing compounds. Twelve heteroatomic compound classes, including
+O1–O5, N1, N2, N1O1–N1O3, N1S1 and O3S1, were detected and assigned unambiguous molecular
+formulae. The O1 species are likely phenols with additional naphthenic and/or aromatic rings. Car-
+boxylic acids (O2 species) are originated from oxidation of hydrocarbons, and the tricyclic naphthenic
+acids are the most resistant, followed by bicyclics. Hopanes could be biodegraded by demethylation
+or by unstable hopanoic acids as intermediates to yield 25-norhopanes. The N1 species are pyrrolic
+compounds with naphthenic and/or aromatic rings and are dominated by carbazole analogues.
+Carbazoles with more aromatic rings are more resistant to biodegradation. The N1 species could be
+converted to N1O1 and N1O2 compounds via ring-opening and hydroxylation pathways. The N1S1
+species contain a pyrrolic and cyclic sulﬁde structure, which are highly recalcitrant to biodegradation.
+Benzothiophenes and dibenzothiophenes might be biodegraded via the complete pathway or the
+sulfur-speciﬁc pathway rather than by other pathways to yield acidic oxygenated sulfur compounds.
+Keywords: biodegradation; crude oil; ultra-high-resolution mass spectrometry; ESI Orbitrap MS;
+NSO compounds
+1. Introduction
+Biodegradation is a widespread phenomenon that alters the chemical and physical
+properties of crude oil in reservoirs as well as surface seeps, spills, and contamination.
+The effect of biodegradation on aliphatic and aromatic hydrocarbons have been well
+understood, such as the relative susceptibility of hydrocarbons to biodegradation [1–4]
+and their biodegradation pathways [5–7]. However, the effect on polar fraction is less
+well documented [8,9] because polar compounds are usually not amenable to traditional
+gas- or liquid-chromatographic and mass spectrometric analyses due to their complex and
+non-volatile nature [8,10].
+Fourier transform ion cyclotron resonance mass spectrometry (FT-ICR MS) and Orbi-
+trap MS have high mass resolution and high mass accuracy which allow for the resolution
+and elemental composition assignment of thousands of NSO compounds in petroleum and
+other complex mixtures [11–14]. Negative- and positive-ion electrospray can selectively
+ionize acidic species (e.g., acids, phenols and pyrrolic nitrogen compounds) and most basic
+species (many of which contain pyridinic nitrogen), respectively [15–17]. The combination
+of ESI source and FT-ICR MS or Orbitrap MS, therefore, provide an opportunity to charac-
+terize the complex polar compounds in crude oil, oil fractions (resin and asphaltene), and
+coal tar.
+Energies 2021, 14, 300. https://doi.org/10.3390/en14020300
+https://www.mdpi.com/journal/energies
+
+--- PAGE 2 ---
+Energies 2021, 14, 300
+2 of 17
+ESI FT-ICR MS has been used to characterize heteroatom compounds in crude oils
+of different geochemical origins [17–20], and to investigate the effect of thermal matu-
+rity [21,22], primary and secondary migration [23–25] and hydrothermal [26,27] on polar
+NSO compounds in crude oils and source rock extractions. In contrast, ESI Orbitrap MS
+was less applied to characterize complex compounds in petroleum [14,28–31].
+Although FT-ICR MS is the most advanced mass analyzers in terms of high accuracy
+and resolving power with sub-ppm mass accuracy, it has disadvantages of a relatively slow
+acquisition rate (1 Hz with mass resolution of 100,000 at m/z 4000), a high operational cost
+and expensive maintenance [31,32]. In contrast, Orbitrap MS has a faster scanning rate at
+15 Hz with <1 ppm mass accuracy [32] and a lower cost [14,31], and is more suitable for
+characterizing relatively low molecular weight compounds [29].
+Many previous studies have revealed the impact of slight to heavy biodegradation on
+polar NSO compounds in crude oils under ﬁeld and laboratory conditions using negative-
+ion ESI FT-ICR MS [33–37]. However, the response of polar NSO species in crude oils to
+very severe biodegradation and the corresponding biodegradation pathways have not
+been well understood. To expand our knowledge about biodegradation of heteroatomic
+compounds under geological conditions, a slightly and two severely biodegraded reservoir
+crude oils, which have been proved to be genetically related, were analysed using negative-
+ion ESI Orbitrap MS together with GC-NCD and GC-SCD. The present study revealed the
+fate and compositional changes of polar NSO compounds under severe biodegradation
+and provided insights into the possible biodegradation pathways of hopanes and nitrogen-
+and sulfur-containing species.
+2. Materials and Methods
+2.1. Sample Descriptions
+Recently, a suite of genetically related crude oils from the Miaoxi Depression of the
+Bohai Bay Basin, China, subjected to light to very severe biodegradation, was studied by
+Cheng et al., analyzing the effects of biodegradation on saturated and aromatic hydrocar-
+bons [38–40]. A subset of three crude oils from the archive were used in this study. They
+comprise a reference oil (PL15-1B, slightly biodegraded) and two severely biodegraded oils
+(PL15-1A and PL15-8C) with increasing extents of biodegradation (Table 1). Figure 1 shows
+the distribution of biomarkers and aromatic hydrocarbons in the crude oils. n-Alkanes
+were removed, and isoprenodis, tricyclic terpanes, hopanes, steranes, and aromatic hydro-
+carbon were found intact in the PL15-1B oil, suggesting slightly biodegradation. In the
+PL15-1A oil, n-alkanes and isoprenodis were removed, naphthalenes and phenanthrenes
+were considerably depleted, hopanes and regular steranes were signiﬁcantly altered, but
+tricyclic terpanes were intact, suggesting severe biodegradation (level 7 based on the Peters
+and Moldowan biodegradation scale [3]. The PL15-8C oils was more severely biodegraded
+(level 8), as n-alkanes, isoprenodis, hopanes, steranes, and aromatic hydrocarbon were
+almost completely removed, and C19–C23 tricyclic terpanes were considerably altered.
+Table 1. Basic information of the studied crude oils and parameters, showing the increasing biodegra-
+dation levels of the samples (adapted from [39]).
+Sample ID
+Depth (m)
+D29/C30H
+C21TT/C24TT
+C23TT/C24TT
+PM Level
+PL15-1B
+1475–1478
+-
+1.36
+1.6
+-
+PL15-1A
+1164–1170
+0.69
+1.32
+1.6
+7
+PL15-8C
+1747–1758
+6.16
+0.2
+0.61
+8
+D29/C30H: C29 25-norhopane/C30 17α(H)-hopane; TT: tricyclic terpane; PM level: biodegradation level based on
+Peters and Moldowan [4] biodegradation scale.
+
+--- PAGE 3 ---
+Energies 2021, 14, 300
+3 of 17
+D29
+25-norhopanes
+C30 hopane
+C29 25-norhopane (D29)
+hopanes
+TIC of saturate 
+hydrocarbons
+TIC of aromatic 
+hydrocarbons
+m/z 191
+PL15-1B
+PL15-1A
+D29
+C30 hopane
+MN
+DMN
+TMN
+MP
+DMP
+P
+N
+tricyclic terpanes
+Increasing     biodegradation
+m/z 217
+C24TT
+C20TT
+C23TT
+C24TeT
+C24TeT
+C21TT
+PL15-8C
+TAS
+C29
+C28
+C27
+diaC27
+regular steranes
+C29αββ20S
+C29ααα20S
+diaC27
+Figure 1. Total ion chromatogram (TIC) of aliphatic fractions, partial m/z 191 mass chromatograms for tricyclic and
+pentacyclic terpanes, partial m/z 217 mass chromatograms for regular steranes and diasteranes and TIC of aromatic fractions
+for the studied oils showing increasing degree of biodegradation
+2.2. GC-NCD and GC-SCD
+GC-amendable nitrogen and sulfur compounds were analysed using an Agilent 7890A
+GC equipped with an Agilent 355 SCD detector and a 7890A GC coupled with a 255 NCD
+detector, respectively. A HP-5 MS fused silica capillary column (30 m × 0.25 mm × 0.25 µm)
+was used to separate the compounds. The initial GC oven temperature was maintained
+at 50 ◦C (hold for 1 min), and then ramped to 300 ◦C at a rate of 10 ◦C/min with a ﬁnal
+hold of 20 min. For GC-NCD analysis, helium was used as carrier gas at a ﬂow rate of
+1.0 mL/min; hydrogen (burning gas) and oxygen (oxidant gas) ﬂow rates were set at 48.8
+and 65.7 mL/min, respectively, and the burner temperature was set at 800 ◦C. For GC-SCD
+analysis nitrogen was used as carrier gas at a ﬂow rate of 0.8 mL/min; hydrogen and air
+ﬂow rates were set at 46 and 66 mL/min, respectively, and the burner temperature was set
+at 800 ◦C.
+2.3. Negative-Ion ESI Orbitrap MS and Data Processing
+Crude oils were dissolved in toluene to produce 10 mg/mL solutions, and 20 µL of
+each solution were diluted with 1 mL of toluene:methanol (1:3, v:v). 20 µL of ammonia
+water was added to enhance the ionization efﬁciency. These pretreated oil samples were
+analysed using an Orbitrap MS (Thermo Fisher Scientiﬁc, Waltham, MA, USA) equipped
+with an ESI source. The ESI source was operated in negative-ion mode. The conditions
+for data acquisition are as follows: Samples were diffused directly into the ESI ionization
+source at a rate of 5 µL/min. The velocity of sheath gas and auxiliary gas were 5.0 Arb and
+2.0 Arb, respectively. The temperature of ion transport tube and vaporizer were settled at
+300 ◦C and 200 ◦C, respectively. The scanning mass range was from m/z 50 to 800.
+Instrument control and data acquisition were performed using the Xcalibur software
+(Version 2.2; Thermo-Fisher Scientiﬁc). Mass calibration and data processing procedures
+have been previously documented in detail by Shi et al. [41,42]. Mass peaks with signal-
+to-noise ratio greater than 6 were exported to a spreadsheet for elemental composition
+assignment using DataAnalysis software (Version 3.4; Bruker Daltonics). For a molecule
+formula CcHhNnOoSs, the double bond equivalent (DBE) value was calculated based on
+the formula: DBE = c −h/2 + n/2 + 1.
+3. Results and Discussion
+3.1. GC-Amendable Nitrogen and Sulfur Compounds
+For crude oils, indols and carbazoles are the major nitrogen-containing compounds
+detected by GC-NCD, and benzothiophenes (BTs) and dibenzothiophenes (DBTs) are the
+major sulfur-containing compounds detected by GC-SCD. The GC-NCD and GC-SCD
+
+--- PAGE 4 ---
+Energies 2021, 14, 300
+4 of 17
+chromatograms of the analysed crude oils are presented in Figure 2 which clearly show
+alteration and removal of carbazoles, benzothiophenes, and dibenzothiophenes under
+severe biodegradation.
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+40
+42
+44
+46
+carbazoles
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+40
+42
+44
+46
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+40
+42
+44
+46
+PL15-1B
+PL15-1A
+PL15-8C
+a
+b
+c
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+40
+42
+44
+46
+C1-BT
+C2-BT
+DBT
+C1-DBT
+C3-DBT
+C2-DBT
+C3-BT
+C4-BT
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+40
+42
+44
+46
+C1-BT C2-BT
+DBT
+C1-DBT
+C3-DBT
+C2-DBT
+C3-BT
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+40
+42
+44
+46
+Time (min)
+PL15-1B
+PL15-1A
+PL15-8C
+d
+e
+f
+benzothiophenes dibenzothiophenes
+Figure 2. GC-NCD (a–c) and GC-SCD (d–f) chromatograms of the studied crude oils.
+Intact carbazoles were present in the reference sample (PL15-1B oil) (Figure 2a), while
+only trace amounts of carbazoles appear to be left in the PL15-1A oil, as there were some
+minor peaks on the unresolved complex mixture (UCM) hump (Figure 2b). In the most
+severely biodegraded PL15-8C oil, carbazoles were completely removed, leaving a smooth
+UCM hump (Figure 2c). This observation is consistent with the report by Song et al. [43] in
+which carbazoles and benzocarbazoles were signiﬁcantly removed at level 7 and above.
+High abundance of C1–C4-BTs and C0–C3-DBTs occurred in the PL15-1B oil (Figure 2d).
+However, BTs and DBTs were substantially depleted in the PL15-1A oil, as evidenced by
+the less prominent peaks on the big UCM hump (Figure 2e); and these sulfur compounds
+
+--- PAGE 5 ---
+Energies 2021, 14, 300
+5 of 17
+were totally absent in the PL15-8C oil (Figure 2f). This is consistent with the GC–MS
+results of aromatic hydrocarbons documented in Cheng et al. [39], conﬁrming progressive
+destruction of sulfur-containing aromatic hydrocarbons under severe biodegradation.
+3.2. Heteroatom Class Composition
+The analytical run conditions resulted in 2226, 2686, and 2339 resolved peaks in the
+PL15-1B oil, PL15-1A oil, and PL15-8C oil, respectively, and each of them was assigned a
+unique molecular formula with high conﬁdence. The heteroatomic compounds identiﬁed
+in the oils were classiﬁed based on the type and number of heteroatoms. They include O1–
+O5, N1, N2, N1O1, N1O2, N1O3, N1S1, and O3S1 classes. The O2 species were dominated
+by C16H32O2 and C18H36O2 with a DBE of 1 (interpreted as C16 and C18 fatty acids,
+respectively), which are very likely contaminants from the polypropylene tube of the
+ESI source [35]. The abundant O3S1 classes dominated by C16–C19 with a DBE of 4 are
+alkylbenzene sulfonates and are well known as contaminants from drilling. Therefore, they
+were excluded in the data analysis.
+The relative abundance of the heteroatomic classes was calculated by normalizing
+the peak intensity to the total intensity of all identiﬁed peaks in the mass spectra (Table 2).
+The bar charts showing the relative abundance (%) of the 11 heteroatomic classes in the
+analysed crude oils are shown in Figure 3. In the PL15-1B oil, the N1 class (77.4%) is
+the most abundant, followed by O1 (8.7%) and O2 (5.2%) classes, and the other classes
+are present at minor amounts (generally <2.1%, Figure 3a). In the severely biodegraded
+PL15-1A and PL15-8C oils, the relative abundance of the N1 compound class was sharply
+decreased to 52.9% and 35.1%, respectively, indicating signiﬁcant microbial alteration of
+this class. This is consistent with the results of the GC-NCD discussed above. A signiﬁcant
+enrichment of O2 class was observed for the two severely biodegraded oils, suggesting
+formation of additional acidic compounds during microbial alteration of hydrocarbons.
+The relative abundance of the O3, O4, O5, N2, N1O1, and N1S1 classes also tend to increase
+with increasing biodegradation (Figure 3b). This suggests that these compound classes are
+resistant to biodegradation. The decrease of N1O3 class with increasing biodegradation
+could be due to alteration during high levels of biodegradation. The relative abundance of
+the N1O2 compound class increased in the PL15-1A oil, but then decreased in the PL15-8C
+oil, which are not consistent with the increasing trend reported by other researchers [33,35].
+The relative enrichment of the N1O2 species in the PL15-1A oil was due to preferential
+removal of other compounds, e.g., N1 species. The decrease of the N1O2 class could
+be attributed to destruction of this species under more extremely severe biodegradation
+conditions subjected by the PL15-8C oil.
+Table 2. Relative abundance of heteroatomic compound classes in the studied crude oils.
+Species
+PL15-1B
+PL15-1B
+PL15-8C
+O1
+8.7
+5.3
+7.5
+O2
+5.2
+28.5
+38.2
+O3
+1.9
+1.8
+2.1
+O4
+1.2
+1.9
+2.7
+O5
+2.1
+1.7
+3.0
+N1
+77.4
+52.9
+35.1
+N2
+0.32
+1.4
+1.6
+N1O1
+0.77
+0.69
+1.04
+N1O2
+0.17
+0.53
+0.39
+N1O3
+0.56
+0.24
+0.19
+N1S1
+1.7
+5.0
+8.2
+
+--- PAGE 6 ---
+Energies 2021, 14, 300
+6 of 17
+ 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+Relative abundance (%)
+O1
+O2
+O3
+O4
+O5
+N1
+N2
+N1O2
+N1S1
+N1O1
+N1O3
+a
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Relative abundance (%)
+O3
+O4
+O5
+N2
+N1O2
+N1S1
+N1O1
+N1O3
+b
+Figure 3. Bar graphs showing the relative abundance of heteroatomic classes assigned from the
+negative-ion ESI Orbitrap mass spectra of the studied crude oils with increasing biodegradation:
+(a) all the twelve heteroatomic classes; (b) the classes with low abundance.
+3.3. Alteration of Oxygen-Only Containing Classes
+3.3.1. O1 Species
+Figure 4a–c show the iso-abundance plots of DBE value versus carbon number for
+the O1 species in the studied crude oils. The O1 class has a carbon number range of 10–38
+with DBE values of 4–24. In the PL15-1B oil, the O1 species are dominated by C19, C20,
+and C29–C31 compounds with a DBE of 16, and those with DBE values of 5–7 and carbon
+numbers < 25 are present at high relative abundance. In the PL15-1A oil, the O1 species is
+dominated by DBEs of 20 (C28 and C29) and 16 (C29 and C31), the components with DBE
+of 5–7 still have high relative abundance, while those with a DBE of 4 were signiﬁcantly
+depleted. In the most severely biodegraded PL15-8C oil, the O1 species with DBEs < 20
+declined considerably in relative abundance leaving the C28 and C29 with a DBE of 20,
+showing an overwhelming predominance over other components.
+O1 species that can be ionized by deprotonation under negative-ion ESI mode contain
+a hydroxyl group [17,35]. Because the O1 species with DBEs < 4 were absent in the studies
+oils, the compounds with a DBE of 4 are most likely alkylphenols [33,44], and those
+with DBEs ≥5 are considered to be phenols with additional naphthenic and/or aromatic
+rings [33,44,45]. The abundant O1 species with DBEs of 5–7 in the PL15-1B and PL15-1A oils
+could be a phenolic structure with a naphthenic ring, two naphthenic rings, and a benzene
+ring (i.e., naphthols), respectively; while, the prominent components with DBEs of 16 and
+20 could contain fused aromatic rings. The gradual decrease in relative abundance of O1
+species and the changes in the DBE values and carbon number predominance suggest that
+they are biodegradable, as proposed by Harwood et al. [46] and the C27–C30 compounds
+with a high DBE of 20 are extremely recalcitrant to severe biodegradation.
+
+--- PAGE 7 ---
+Energies 2021, 14, 300
+7 of 17
+ 
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+DBE
+O1
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+DBE
+O1
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+DBE
+Carbon number
+O1
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+O2
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+O2
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+Carbon number
+O2
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+O3
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+O4
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+O5
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+DBE
+O3
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+O4
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+Carbon number
+O3
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+Carbon number
+O4
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+O5
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+Carbon number
+O5
+a
+b 
+c 
+d
+e 
+f 
+g
+h 
+i
+j
+k 
+l 
+m
+n 
+o
+PL15-1B
+PL15-1A
+PL15-8C
+Increasing biodegradation
+Figure 4. Iso-abundance plots of DBE versus carbon number of O1–O5 classes in the crude oils. The size of circles represents
+the relative abundance of the species in the spectra. (a–c), (d–f), (g–i), (j–l), and (m–o) show the distribution of O1–O5
+classes for the PL15-1B, PL15-1A, and PL15-8C oils, respectively.
+3.3.2. O2 Species
+The O2 species with a DBE value of 1 are fatty acids, those with DBEs of 2–7 are thought
+to be 1–6-ring naphthenic acids, respectively, and those with higher DBE values could be
+polycyclic naphthenic acids, aromatic acids, or phenols with two hydroxyl groups [17,47,48].
+As shown in Figure 4d,e, the DBE values of the O2 species in the crude oil samples mainly
+range from 1–18, and the carbon numbers are mainly of 10–31 for the PL15-1B oil and 10–34
+for the PL15-1A and PL15-8C oils. The O2 species with DBEs of 3 and 4 (likely bicyclic
+and tricyclic naphthenic acids, respectively) and carbon number < 25 are prominent in the
+PL15-1B and PL15-1A oils, while tricyclic acids (DBE = 4) are the most abundant, except the
+C16 and C18 monocyclic acids, in the PL15-8C oil. The tetracyclic (DBE = 5) and pentacyclic
+(DBE = 6) naphthenic acids, probably steroidal/secohopanoic acids and hopanoic acids,
+respectively, are present at low relative abundance in the oil samples analysed. This is
+consistent with that observed in severely biodegraded crude oils by Kim et al. [33].
+Carboxylic acids are the most acidic components in petroleum; they are more easily
+ionized by negative-ion ESI source than less acidic neutral nitrogen compounds in organic
+solvents [17,49]. Therefore, carboxylic acids often dominate the negative-ion ESI mass
+spectra, especially, of biodegraded crude oils [33,35,44]. The O2 species were not abundant
+in our samples, although there was an increase in relative abundance of this compound
+class in the severely biodegraded PL15-1A oil (Figure 4e). The low abundance of O2 class
+compared with the N1 class indicate that the carboxylic acids must be present at very low
+absolute and relative abundance in the analysed oils.
+Carboxylic acids in crude oils could be: (1) intermediates during oil generation [50,51],
+(2) biodegradation products of hydrocarbons [8,9,52–54], and (3) biosynthesised by mi-
+croorganisms [8,55]. Previous analyses of biodegraded crude oils by negative-ion ESI
+FT-ICR MS generally show a dominance of the O2 species, which increase with increasing
+degree of biodegradation, and this change was usually attributed to transformation of
+hydrocarbons to acids during biodegradation [33,35,44]. This is supported by the obser-
+vations that aerobic biodegradation of naphthenes via terminal oxidation [49,56,57]; and
+in some case anaerobic biodegradation of aromatic hydrocarbons [58–60] could generate
+naphthenic acids.
+The predominance of bicyclic and tricyclic acids remained in the severely biodegraded
+oils, suggest that they, especially the tricyclics, are highly resistant to microbial alteration.
+High abundance of hopanoic acids were found in many biodegraded crude oils, and
+they were thought to be derived from oxidation of corresponding hopanes during aerobic
+
+--- PAGE 8 ---
+Energies 2021, 14, 300
+8 of 17
+biodegradation [8,9,33,44]. Intriguingly, hopanes were considerably altered in the PL15-1A
+oil and were almost completely destroyed in the PL15-8C oil, but there was no enrichment
+of hopanoic acids (Figure 4d,e). Similarly, no enrichment of 4-ring acids was observed with
+signiﬁcant consumption of steranes in the two samples (Figure 4d,e). These observations
+might suggest different biodegradation pathways rather than side chain oxidation for
+hopanes and steranes, which do not result in corresponding acids. A pathway of demethy-
+lation for hopanes could be possible in this case (Figure 5), as formation of 25-norhopane
+series was accompanied with the depletion of hopanes (Figure 1), while the biodegradation
+products of steranes are not clear. Alternatively, hopanoic acids were intermediates during
+biodegradation of hopanes, but they were further altered under severe biodegradation
+stage to yield 25-norhopanes by decarboxylation (Figure 5). This seems to be supported
+by the observations that (1) hopanoic acids increase with increasing biodegradation and
+reach maximum concentrations in the extensively biodegraded oils, and then rapidly
+decrease in severely biodegraded oils till absent [8], (2) 5-ring acids were prominent in
+heavily to severely biodegraded oils but were less abundant in the most severely altered
+oil [44], and (3) hopanoic acids (including 25-norhopanoic acids) are necessary interme-
+diates in the generation of 25-norhopanes [61]. No doubt, further analysis of moderately
+and heavily biodegraded oils is necessary to account for the relationship between hopanes,
+25-norhopanes and hopanoic acids and the biodegradation pathway of hopanes.
+ 
+Figure 5. Putative biodegradation pathways of hopanes (taking C31 hopane as an example).
+3.3.3. O3–O5 Species
+Figure 4g–o shows the iso-abundance plots of DBE versus carbon number for the
+O3–O5 species. The O3 species generally spread over carbon numbers of 10–34 with a DBE
+range of 1–17 (Figure 4g–i). The components with carbon numbers of 20–25 and DBEs of
+5–14 are of high relative abundance, especially for the severely biodegraded PL15-1A and
+PL15-8C oils. The O4 species in PL15-1B oil have carbon numbers of 10–30 and spread
+
+--- PAGE 9 ---
+Energies 2021, 14, 300
+9 of 17
+over a DBE range of 2–14, and are dominated by those with a DBE of 4 (Figure 4j). The
+O4 species in the PL15-1A oil have carbon numbers up to 32 and higher DBE values up
+to 19, and those with DBE values of 7 and 11 are prominent components (Figure 4k). In
+the PL15-8C oil, the O4 class with low carbon numbers (≤15) are absent, and they are
+dominated by species with a DBE of 11 (Figure 4l). The O5 species in PL15-1B oil have
+carbon numbers of 10–28 and spread over a DBE range of 2–13, and are dominated by
+C10H5O5 (DBE = 8) and C13H5O5 (DBE = 11) (Figure 4m). The PL15-1A oil contains O5
+species with similar carbon numbers and DBE values with that of the PL15-1B oil, but
+the C23–C26 compounds with a DBE of 12 were signiﬁcantly enriched (Figure 4n). Much
+less O5 compounds, spreading from C21 to C31 with DBEs of 3–14, were identiﬁed in the
+PL15-8C oil, and the C23–C26 with a DBE of 12 have the largest concentration (Figure 4o).
+Overall, there is an evident preferential removal of C20−components and relative
+enrichment of C20+ compounds for the three classes. The continued decline of relative
+abundance of O3–O5 classes (Figure 3b) and the similar changes in carbon number dis-
+tributions for each class with increasing extent of biodegradation (Figure 4g–o) suggest
+that these oxygenated classes are susceptible to biodegradation. Among them, the low
+molecular weight components (C20−) are less resistant to biodegradation.
+3.4. Alteration of Nitrogen-Containing Classes
+3.4.1. N1 Species
+The N1 species in the slightly biodegraded PL15-1B oil have carbon numbers of 13–35
+and DBEs of 7–22, and they are dominated by the compounds with DBE of 12 followed by
+9 and 15 (Figure 6a). In contrast, the N1 species are dominated by DBE of 12 and 15 in the
+severely biodegraded PL15-1A and PL15-8C oils, respectively (Figure 6b,c). The decrease
+in relative abundance of the N1 class (decrease from 77.4% to 52.9% and to 35.1% with
+increasing biodegradation) (Figure 3a) and the changes in predominance of DBE value and
+carbon numbers (Figure 6a–c) together with gradual removal of carbazoles in the crude
+oils with increasing biodegradation as characterized by GC-NCD (Figure 2), all deﬁnitely
+suggest microbial consumption of nitrogen-containing compounds rather than dilution by
+addition of other heteroatomic species (e.g., O3S1) during severe biodegradation.
+ 
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+DBE
+N1
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+DBE
+N1
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+DBE
+Carbon number
+N1
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+N2
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+N2
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+Carbon number
+N2
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+N1O1
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+N1O1
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+Carbon number
+N1O1
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+N1O2
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+N1O2
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+Carbon number
+N1O2
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+N1O3
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+N1O3
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+Carbon number
+N1O3
+a
+b 
+c 
+d
+e 
+f 
+g
+h 
+i
+j
+k 
+l 
+m
+n 
+o
+PL15-1B
+PL15-1A
+PL15-8C
+Increasing biodegradation
+Figure 6. Iso-abundance plots of DBE versus carbon number of N1, N2 and N1O1–N1O3 classes in the crude oils. (a–c),
+(d–f), (g–i), (j–l), and (m–o) show the distribution of N1, N2 and N1O1–N1O3 classes for the PL15-1B, PL15-1A, and PL15-8C
+oils, respectively.
+The N1 species ionized by negative-ion ESI source are neutral nitrogen compounds
+containing a pyrrolic structure [17,21,34]. This class with DBE values of 9, 12, and 15 are very
+likely carbazoles, benzocarbazoles, and dibenzocarbazoles, respectively [17,21,33,34,41].
+
+--- PAGE 10 ---
+Energies 2021, 14, 300
+10 of 17
+Thus, the dominance of benzocarbazoles (DBE = 12) with abundant carbazoles (DBE = 9)
+in the PL15-1B oil shift to benzocarbazoles with high dibenzocarbazoles (DBE = 15) in the
+PL15-1A oil, and to a dominance of dibenzocarbazoles in the PL15-8C oil (Figure 6a–c)
+indicate that these nitrogen-containing compounds with more fused aromatic rings are
+more resistant to biodegradation. This is consistent with the conclusions of previous studies
+based on both GC-MS and FTICR-MS analyses [33,44,62,63].
+Previous studies have shown that carbazole analogs with longer alkyl side chains are
+preferentially biodegraded [33,37,44]. However, the N1 species with high carbon numbers
+(C35–C38) and DBEs of 13–20 are present in the two severely biodegraded crude oils;
+meanwhile, the C13–C15 and some C30+ components with lower DBE values of 9–12 were
+absent (Figure 6b,c). Therefore, we cannot draw a conclusion about the susceptibility of
+carbazole analogs to biodegradation regarding to their alkyl side chain length.
+Additionally, accompanying the progressively decrease in relative abundance of car-
+bazoles and benzocarbazoles, the N1 species with DBE values of 10 and 13 were gradually
+enhanced in relative abundance (Figure 6a–c). The components with a DBE of 10 might
+be phenylindoles or carbazoles with a naphthenic ring [35]; similarly, those with a DBE
+of 13 are probably benzocarbazoles with a naphthenic ring. The increase of their abun-
+dance relative to carbazoles and benzocarbazoles suggest that they are less susceptible to
+biodegradation than the latter.
+3.4.2. N2 Species
+The relative abundance of the N2 class is much less than the N1 class (Figure 3a),
+and their distributions are more restricted regarding carbon number and DBE value than
+the latter (Figure 6d–f). The N2 species in the PL15-1B oil range from C18–C31 with DBE
+values of 10–23, and is dominated by C23H9N2 (DBE = 20). The N2 species with higher
+carbon numbers (up to C35 and C36, respectively) were identiﬁed in the PL15-1A and PL15-
+8C oils, and they are dominated by C22H23N2 and C24H27N2 (DBE = 12) and C23H9N2
+(DBE = 20). The compounds with DBEs of 14 and 15 are relatively abundant in the PL15-
+1A oil (Figure 6e), but this was not seen in the PL15-8C oil (Figure 6f). Although the
+Orbitrap MS has high mass resolution and mass accuracy, an elucidation of the molecular
+structure is not possible. However, the changes in distribution of the prominent compounds
+and relative abundance with increasing biodegradation conﬁrm microbial alteration of
+this class.
+3.4.3. N1O1–N1O3 Species
+Oxygenated nitrogen compounds, including N1O1, N1O2, and N1O3 classes, were
+present in the analysed oils. For the N1O1 species, the components with DBEs of 14,
+15, 17, and 18 are relatively abundant in the studied oils (Figure 6g–i). With increasing
+biodegradation, the species with low carbon numbers (<C20) were gradually depleted and
+those with DBEs of 15 and 18 were progressively enriched (Figure 6g–i). This compositional
+change together with the decline of relative abundance of this class with biodegradation
+suggest that the N1O1 species were further altered during severe biodegradation and those
+with DBEs of 15 and 18 were more recalcitrant to biodegradation.
+The N1O2 species generally spread over a DBE range of 9–19 and carbon numbers
+of 17–34, except for the PL15-8C oil in which the carbon numbers ≥24 (Figure 6j–l). No
+prominent components were observed in the PL15-1B oil (Figure 6j). The compounds with
+a DBE of 11 were relatively prominent in the PL15-1A oil (Figure 6k), while this feature
+disappeared in the PL15-8C oil (Figure 6l). In addition, the low carbon number components
+were removed from the PL15-8C oil (Figure 6l). From the iso-abundance plot, the dots for
+N1O2 compounds in the PL15-1A oil are more than that in the other two oil samples. This
+appears to be consistent with the increase in relative abundance of the N1O2 class in the
+PL15-1A oil and then decrease in the PL15-8C oil (Figure 3b). These observations suggest
+that some N1O2 compounds, especially those with a DBE of 11, were newly generated in
+
+--- PAGE 11 ---
+Energies 2021, 14, 300
+11 of 17
+the PL15-1A oil, while the species with low carbon numbers and low DBE values were
+selectively biodegraded in the PL15-8C oil.
+The carbon number and DBE value of the N1O3 class vary signiﬁcantly from the three
+analysed samples (Figure 6m–o). For the PL15-1B oil, the N1O3 species are in the range of
+C10–C14 with DBE values of 2–5; in the PL15-1A oil, they range from C14–C29 with DBEs
+of 6–15; and in the PL15-8C oil, they range from C19–C28 with DBEs of 7–13. In the two
+severely biodegraded oils, C19H26N1O3 and C21H30N1O3 (DBE = 7) became dominant
+(Figure 6n,o). The occurrence of the N1O3 species with different carbon numbers and DBE
+values in the severely biodegraded oils compared with the reference PL15-1B oil indicate
+that some species in this class were altered, while some components were generated during
+severe biodegradation.
+Oxygenated nitrogen compounds in petroleum may be furollic, phenolic, or contain
+carboxylic functional groups [17,21,33,64]. The N1O1 and N1O2 species could have origi-
+nated from of N1 compounds under both aerobic or anaerobic biodegradation [33,37,65].
+Varying biodegradation pathways of carbazoles have been documented in the literature,
+for example, (1) lateral dioxygenation of carbazole yielding 4-(30-hydroxy-20-indoyl)-2-
+oxo-3-butenoic acid (N1O4) [66], (2) angular dioxygenation of carbazole generating 2′-
+aminobiphenyl-2,3-diol (N1O2) with the DBE value decrease by 1 [67,68], (3) hydroxylation
+of carbazole to form 1-, 2- and 3-hydroxycarbazoles (N1O1, without change of the DBE
+value) [69–71], and (4) ring-opening reaction to yield 2’-aminobiphenyl-2-ol (N1O1) with a
+decrease of DBE value by 1 [33,44].
+It is plausible that benzocarbazoles, dibenzocarbazoles, and benzonaphthocarbazoles
+could be biodegraded via similar pathways of carbazoles. Shi et al. [41] suggested that
+the oxygen in the N1O1 species is more likely in the form of hydroxyl rather than a furan-
+like cyclic ether group. The relatively abundant N1O1 species with DBEs of 14 and 17
+present in the PL15-1A oil, therefore, might be transformed from ring-opening reaction of
+dibenzocarbazoles and benzonaphthocarbazoles, respectively; while the N1O1 compounds
+with DBEs of 15 and 18 might be hydroxydibenzocarbazoles and hydroxybenzonaphtho-
+carbazoles derived from dibenzocarbazoles and benzonaphthocarbazoles, respectively,
+via a hydroxylation pathway. The dominance of N1O1 species with DBEs of 15 and 18 in
+the PL15-8C oil imply preferential hydroxylation pathway versus ring-opening pathway
+for dibenzocarbazoles and benzonaphthocarbazoles biodegradation during very severe
+biodegradation; alternatively, the compounds with DBEs of 15 and 18 are more resistant to
+biodegradation than those with DBEs of 14 and 17.
+The N1O2 species could contain a carboxyl or two hydroxyl groups, and other func-
+tional groups with oxygen are also possible [41,49,65]. The relatively abundant N1O2
+species with a DBE of 11 in the PL15-1A oil could be biodegradation products of benzocar-
+bazoles via angular deoxygenation [67,68]. However, N1O2 species were present at very
+low abundance relative to the N1 class and they did not show evident DBE dominance and
+wide ranges of DBE and carbon number as the N1 class, suggesting that the composition
+and origin of N1O2 class are complicated. Further analysis of the N1O2 compounds is
+needed to elucidate their structures in the future.
+Although the N1O3 species also widely occurred in biodegraded crude oils, they
+were less studied than the N1O1 and N1O2 species. Theoretically, the three oxygen atoms
+could be present in multiple forms, such as hydroxyl, carboxyl, cyclic ether, and carbonyl
+groups, which can form various combinations. In addition, the distributions of carbon
+numbers and DBE values of N1O3 class are different from that of the N1O1 and N1O2
+species, but fall in the range of the N1 class. Therefore, the newly generated N1O3 species
+could originate from bioconversion of the N1 species. However, the molecular structure of
+the N1O3 compounds cannot be ascertained only based on their molecular formulae and
+DBE values.
+
+--- PAGE 12 ---
+Energies 2021, 14, 300
+12 of 17
+3.5. Alteration of Sulfur-Containing Classes
+3.5.1. N1S1 Species
+In the studied oils, the N1S1 and O3S1 are the only two heteroatomic compound types
+which contain a sulfur atom (Figure 3). The N1S1 species contain carbon numbers ranging
+from 10–32, 10–35 and 10–36 with DBEs of 4–16, 5–21 and 5–21 in the PL15-1B, PL15-1A
+and PL15-8C oils, respectively (Figure 7a–c). For the PL15-1B oil, the N1S1 compounds
+were dominated by a few dots in the iso-abundance plot. Two compounds with a DBE of 8
+(C22H30N1S1 and C24H34N1S1) became dominant in the PL15-1A oil; and the components
+with DBEs of 10 and 11 are also present at relatively high abundance (Figure 7b). The
+relative abundance of the components with DBEs of 10 and 11 were depleted in the PL15-8C
+oil, leaving a C22 and a C24 compound with a DBE of 8 became more prominent (Figure 7c).
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+DBE
+N1S1
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+DBE
+N1S1
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+DBE
+Carbon number
+N1S1
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+O3S1
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+O3S1
+0
+5
+10
+15
+20
+25
+30
+10
+15
+20
+25
+30
+35
+40
+Carbon number
+O3S1
+a
+b 
+c 
+d
+e 
+f 
+PL15-1B
+PL15-1A
+PL15-8C
+Increasing biodegradation
+Figure 7. Iso-abundance plots of DBE versus carbon number of N1S1 and O3S1 classes in the crude
+oils. (a–c) show the N1S1 class for the PL15-1B, PL15-1A, and PL15-8C oils, respectively, and (d–f)
+show the O3S1 class for the PL15-1B, PL15-1A, and PL15-8C oils, respectively.
+Due to the ionization mechanism of negative-ion ESI source, only neutral nitrogen-
+containing and acid sulfur-containing compounds can be ionized, while basic nitrogen
+and neutral and basic sulfur compounds are excluded [17,34,41]. Thus, the N1S1 species in
+the samples should contain a pyrrolic structure. The species with DBEs of 8 and 11 could
+contain the substructures of indole and carbazole, respectively, fused with thiophene or
+combined with a two-ring cyclic sulﬁde, while the compounds with a DBE of 10 could
+contain a carbazole substructure with a saturated sulfur ring. The occurrence of these
+compounds in the severely biodegraded crude oils suggest that they are highly resistant to
+biodegradation.
+3.5.2. Benzothiophenes and Dibenzothiophenes
+As discussed in Section 3.1, benzothiophenes and dibenzothiophenes were consider-
+ably consumed in the PL15-1A oil and they were removed from the PL15-8C oil (Figure 2e,f).
+The absence of OxS1 species except those O3S1 contaminants in the analysed oil samples,
+therefore, suggests that benzothiophenes and dibenzothiophenes were not bio-transformed
+
+--- PAGE 13 ---
+Energies 2021, 14, 300
+13 of 17
+to oxygenated sulfur compounds containing hydroxyl or carboxyl groups, which can be
+ionized by negative-ion ESI source.
+Previous studies show that there are three pathways for biodegradation of dibenzoth-
+iophene: (1) the ring-destructive pathway, i.e., the “Kodama pathway”, in which one of the
+benzene rings of DBT is oxidized and cleaved to yield 3-hydroxy-2-formylbenzothiophene
+as the major product [72,73]; (2) the complete pathway, in which DBT is mineralized to
+sulﬁte, carbon dioxide, and water [74]; and (3) the sulfur-speciﬁc pathway, usually called
+“4S” pathway, in which DBT is initially transformed to sulfoxide and sulfone, and then
+these intermediates are further oxidized to yield sulfate, 2-hydroxybiphenyl and/or 2,2’-
+dihydroxybiphenyl [75,76]. As reviewed by Ei-Gendy and Nassar [77], benzothiophenes
+can be altered by similar pathways to yield sulfur-containing metabolites, such as 2,3-dione,
+sulfoxide, sulfone, and carboxylic acid. Thus, we tentatively infer that benzothiophenes
+and dibenzothiophenes were biodegraded by the complete pathway or the sulfur-speciﬁc
+pathway. However, further analysis of neutral and basic sulfur containing compounds by
+positive-ion ESI Orbitrap MS or FT-ICR MS might provide more details on biodegradation
+mechanism of benzothiophenes and dibenzothiophenes.
+4. Conclusions
+Negative-ion ESI Orbitrap MS analysis of a slightly and two severely biodegraded
+crude oils with the same origin showed that the neutral and acidic polar NSO compounds
+consist of O1–O5, N1, N2, N1O1–N1O3, N1S1 and O3S1 species. Microbial alteration was
+observed to occur in most compound classes with preferential consumption of the N1
+species based on their compositional changes with increasing degree of biodegradation.
+The O1 species are likely alkylphenols with additional naphthenic and/or aromatic
+rings, and are readily altered during severe biodegradation. The O2 species in the crude oil
+samples are mainly carboxylic acids. They originated during bioconversion of hydrocar-
+bons. The dominance of O2 species with DBEs of 3–4, which are thought to be 2–3-ring
+naphthenic acids, in the severely biodegraded oils suggest that they are newly formed and
+are highly recalcitrant to biodegradation. Hopanes in our samples could be biodegraded
+by demethylation or via unstable hopanoic acids as intermediates to form 25-norhopanes,
+because hopanoic acids were not observed to increase in the severely biodegraded oils. The
+O3–O5 species were biodegraded under severe conditions with preferential removal of low
+molecular weight components (C20−).
+The slightly biodegraded PL15-1B oil is dominated by the N1 species, which contains
+a pyrrolic structure and varying numbers of aromatic and/or naphthenic rings. They were
+substantially altered under severe biodegradation as being consistent with the removal
+of indoles and carbazoles revealed by GC-NCD analysis. The N1 species could be bio-
+transformed to N1O1–N1O3 species via hydroxylation, ring-opening, and other unknow
+pathways, and these oxygenated nitrogen compounds were further altered.
+The N1S1 species in the oils could contain a pyrrolic structure and they are highly
+resistant to biodegradation. GC-SCD data show substantial removal of benzothiophenes
+and dibenzothiophenes in the two severely biodegraded crude oils, but without generation
+of corresponding acidic oxygenated sulfur compounds. This could be attributed to a
+complete pathway or a sulfur-speciﬁc pathway for biodegradation of benzothiophenes and
+dibenzothiophenes.
+Author Contributions: Conceptualization, X.C.; methodology, X.C.; validation, X.C. and D.H.;
+formal analysis, X.C.; investigation, X.C.; data curation, X.C.; writing—original draft preparation,
+X.C.; writing—review and editing, X.C. and D.H.; visualization, X.C.; supervision, D.H.; project
+administration, D.H. and X.C.; funding acquisition, X.C. and D.H. All authors have read and agreed
+to the published version of the manuscript.
+Funding: This research was funded by the National Science and Technology Major Project, grant num-
+ber 2016ZX05027-001-003, National Natural Science Foundation of China, grant number 41872131,
+China Postdoctoral Science Foundation, grant number 2019M660735, and Fundamental Research
+Funds for the Central Universities, grant number 2-9-2019-013.
+
+--- PAGE 14 ---
+Energies 2021, 14, 300
+14 of 17
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: The data presented in this study are available on request from the
+corresponding author.
+Acknowledgments: Quan Shi (China University of Petroleum, Beijing) is acknowledged for negative-
+ion ESI Orbitrap MS analysis of the samples. We would like to thank three anonymous referees for
+constructive comments which helped to improve the manuscript.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+References
+1.
+Milner, C.W.D.; Rogers, M.A.; Evans, C.R. Petroleum transformations in reservoirs. J. Geochem. Explor. 1977, 7, 101–153. [CrossRef]
+2.
+Volkman, J.K.; Alexander, R.; Kagi, R.I.; Woodhouse, G.W. Demethylated hopanes in crude oils and their applications in petroleum
+geochemistry. Geochim. Cosmochim. Acta 1983, 47, 785–794. [CrossRef]
+3.
+Peters, K.E.; Walters, C.C.; Moldowan, J.M. The Biomarker Guide 2. Biomarkers and Isotopes in Petroleum Exploration and Earth History;
+Cambridge University Press: New York, NY, USA, 2005.
+4.
+Wenger, L.M.; Davis, C.L.; Isaksen, G.H. Multiple controls on petroleum biodegradation and impact on oil quality. SPE Reserv.
+Eval. Eng. 2002, 5, 375–383. [CrossRef]
+5.
+Widdel, F.; Rabus, R. Anaerobic biodegradation of saturated and aromatic hydrocarbons. Curr. Opin. Biotech. 2001, 12, 259–276.
+[CrossRef]
+6.
+Moldowan, J.M.; McCaffrey, M.A. A novel microbial hydrocarbon degradation pathway revealed by hopane demethylation in a
+petroleum reservoir. Geochim. Cosmochim. Acta 1995, 59, 1891–1894. [CrossRef]
+7.
+Meckenstock, R.U.; Boll, M.; Mouttaki, H.; Koelschbach, J.S.; Cunha Tarouco, P.; Weyrauch, P.; Dong, X.; Himmelberg, A.M.
+Anaerobic degradation of benzene and polycyclic aromatic hydrocarbons. Microb. Physiol. 2016, 26, 92–118. [CrossRef]
+8.
+Meredith, W.; Kelland, S.J.; Jones, D.M. Inﬂuence of biodegradation on crude oil acidity and carboxylic acid composition. Org.
+Geochem. 2000, 31, 1059–1073. [CrossRef]
+9.
+Watson, J.S.; Jones, D.M.; Swannell, R.P.J.; van Duin, A.C.T. Formation of carboxylic acids during aerobic biodegradation of crude
+oil and evidence of microbial oxidation of hopanes. Org. Geochem. 2002, 33, 1153–1169. [CrossRef]
+10.
+Behar, F.H.; Albrecht, P. Correlations between carboxylic acids and hydrocarbons in several crude oils. Alter. Biodegrad. Org.
+Geochem. 1984, 6, 597–604. [CrossRef]
+11.
+Marshall, A.G.; Hendrickson, C.L.; Jackson, G.S. Fourier transform ion cyclotron resonance mass spectrometry: A primer. Mass
+Spectrom. Rev. 1998, 17, 1–35. [CrossRef]
+12.
+Rodgers, R.P.; Marshall, A.G. Petroleomics: Advanced characterization of petroleum-derived materials by fourier transform
+ion cyclotron resonance mass spectrometry (FT-ICR MS). In Asphaltenes, Heavy Oils, and Petroleomics; Mullins, O.C., Sheu, E.Y.,
+Hammami, A., Marshall, A.G., Eds.; Springer: New York, NY, USA, 2007; pp. 63–93.
+13.
+Hu, Q.; Noll, R.J.; Li, H.; Makarov, A.; Hardman, M.; Graham Cooks, R. The Orbitrap: A new mass spectrometer. J. Mass Spectrom.
+2005, 40, 430–443. [CrossRef]
+14.
+Schmidt, E.M.; Pudenzi, M.A.; Santos, J.M.; Angolini, C.F.F.; Pereira, R.C.L.; Rocha, Y.S.; Denisov, E.; Damoc, E.; Makarov, A.;
+Eberlin, M.N. Petroleomics via Orbitrap mass spectrometry with resolving power above 1 000 000 at m/z 200. RSC Adv. 2018, 8,
+6183–6191. [CrossRef]
+15.
+Hughey, C.A.; Hendrickson, C.L.; Rodgers, R.P.; Marshall, A.G. Elemental composition analysis of processed and unprocessed
+diesel fuel by electrospray ionization fourier transform ion cyclotron resonance mass spectrometry. Energy Fuels 2001, 15,
+1186–1193. [CrossRef]
+16.
+Qian, K.; Rodgers, R.P.; Hendrickson, C.L.; Emmett, M.R.; Marshall, A.G. Reading chemical ﬁne print: Resolution and identiﬁ-
+cation of 3000 nitrogen-containing aromatic compounds from a single electrospray ionization Fourier transform ion cyclotron
+resonance mass spectrum of heavy petroleum crude oil. Energy Fuels 2001, 15, 492–498. [CrossRef]
+17.
+Hughey, C.A.; Rodgers, R.P.; Marshall, A.G.; Qian, K.; Robbins, W.K. Identiﬁcation of acidic NSO compounds in crude oils of
+different geochemical origins by negative ion electrospray Fourier transform ion cyclotron resonance mass spectrometry. Org.
+Geochem. 2002, 33, 743–759. [CrossRef]
+18.
+Liu, P.; Shi, Q.; Chung, K.H.; Zhang, Y.; Pan, N.; Zhao, S.; Xu, C. Molecular characterization of sulfur compounds in Venezuela
+crude oil and its SARA fractions by electrospray ionization fourier transform ion cyclotron resonance mass spectrometry. Energy
+Fuels 2010, 24, 5089–5096. [CrossRef]
+19.
+Wan, Z.; Li, S.; Pang, X.; Dong, Y.; Wang, Z.; Chen, X.; Meng, X.; Shi, Q. Characteristics and geochemical signiﬁcance of heteroatom
+compounds in terrestrial oils by negative-ion electrospray Fourier transform ion cyclotron resonance mass spectrometry. Org.
+Geochem. 2017, 111, 34–55. [CrossRef]
+20.
+Ji, H.; Li, S.; Greenwood, P.; Zhang, H.; Pang, X.; Xu, T.; He, N.; Shi, Q. Geochemical characteristics and signiﬁcance of heteroatom
+compounds in lacustrine oils of the Dongpu Depression (Bohai Bay Basin, China) by negative-ion Fourier transform ion cyclotron
+resonance mass spectrometry. Mar. Pet. Geol. 2018, 97, 568–591. [CrossRef]
+
+--- PAGE 15 ---
+Energies 2021, 14, 300
+15 of 17
+21.
+Hughey, C.A.; Rodgers, R.P.; Marshall, A.G.; Walters, C.C.; Qian, K.; Mankiewicz, P. Acidic and neutral polar NSO compounds in
+Smackover oils of different thermal maturity revealed by electrospray high ﬁeld Fourier transform ion cyclotron resonance mass
+spectrometry. Org. Geochem. 2004, 35, 863–880. [CrossRef]
+22.
+dos Santos Rocha, Y.; Pereira, R.C.L.; Mendonça Filho, J.G. Negative electrospray Fourier transform ion cyclotron resonance
+mass spectrometry determination of the effects on the distribution of acids and nitrogen-containing compounds in the simulated
+thermal evolution of a Type-I source rock. Org. Geochem. 2018, 115, 32–45.
+23.
+Han, Y.; Poetz, S.; Mahlstedt, N.; Karger, C.; Horsﬁeld, B. Fractionation and origin of NyOx and Ox compounds in the Barnett
+Shale sequence of the Marathon 1 Mesquite well, Texas. Mar. Pet. Geol. 2018, 97, 517–524. [CrossRef]
+24.
+Han, Y.; Poetz, S.; Mahlstedt, N.; Karger, C.; Horsﬁeld, B. Fractionation of pyrrolic nitrogen compounds compounds during
+primary migration of petroleum within the barnett shale sequence of marathon 1 Mesquite well, Texas. Energy Fuels 2018, 32,
+4638–4650. [CrossRef]
+25.
+Liu, P.; Li, M.; Jiang, Q.; Cao, T.; Sun, Y. Effect of secondary oil migration distance on composition of acidic NSO compounds in
+crude oils determined by negative-ion electrospray Fourier transform ion cyclotron resonance mass spectrometry. Org. Geochem.
+2015, 78, 23–31. [CrossRef]
+26.
+Ventura, G.T.; Rossel, P.E.; Simoneit, B.R.T.; Dittmar, T. Fourier transform ion cyclotron resonance mass spectrometric analysis of
+NSO-compounds generated in hydrothermally altered sediments from the Escanaba Trough, northeastern Paciﬁc Ocean. Org.
+Geochem. 2020, 149, 104085. [CrossRef]
+27.
+Gomez-Saez, G.V.; Niggemann, J.; Dittmar, T.; Pohlabeln, A.M.; Lang, S.Q.; Noowong, A.; Pichler, T.; Wörmer, L.; Bühring, S.I.
+Molecular evidence for abiotic sulfurization of dissolved organic matter in marine shallow hydrothermal systems. Geochim.
+Cosmochim. Acta 2016, 190, 35–52. [CrossRef]
+28.
+Yang, C.; Zhang, G.; Serhan, M.; Koivu, G.; Yang, Z.; Hollebone, B.; Lambert, P.; Brown, C.E. Characterization of naphthenic acids
+in crude oils and reﬁned petroleum products. Fuel 2019, 255, 115849. [CrossRef]
+29.
+Liu, Y.; Huang, H.; Liu, Q.; Xu, X.; Cheng, H. The acid and neutral nitrogen compounds characterized by negative ESI Orbitrap
+MS in a heavy oil before and after oxidation. Fuel 2020, 277, 118085. [CrossRef]
+30.
+Xia, Y.; Ma, C.; Ju, R.; Zhao, C.; Zheng, F.; Sun, X.; Li, Z.; Wang, C.; Shi, D.; Lin, X.; et al. Characterization of nitrogen-containing
+compounds in petroleum fractions by online reversed-phase liquid chromatography-electrospray ionization Orbitrap mass
+spectrometry. Fuel 2021, 284, 119035. [CrossRef]
+31.
+Rodrigues Covas, T.; Santos de Freitas, C.; Valadares Tose, L.; Valencia-Dávila, J.A.; dos Santos Rocha, Y.; Duncan Rangel,
+M.; Cabral da Silva, R.; Gontijo Vaz, B. Fractionation of polar compounds from crude oils by hetero-medium pressure liquid
+chromatography (H-MPLC) and molecular characterization by ultrahigh-resolution mass spectrometry. Fuel 2020, 267, 117289.
+[CrossRef]
+32.
+Ghaste, M.; Mistrik, R.; Shulaev, V. Applications of fourier transform ion cyclotron resonance (FT-ICR) and orbitrap based high
+resolution mass spectrometry in metabolomics and lipidomics. Int. J. Mol. Sci. 2016, 17, 816. [CrossRef]
+33.
+Kim, S.; Stanford, L.A.; Rodgers, R.P.; Marshall, A.G.; Walters, C.C.; Qian, K.; Wenger, L.M.; Mankiewicz, P. Microbial alteration
+of the acidic and neutral polar NSO compounds revealed by Fourier transform ion cyclotron resonance mass spectrometry. Org.
+Geochem. 2005, 36, 1117–1134. [CrossRef]
+34.
+Hughey, C.A.; Galasso, S.A.; Zumberge, J.E. Detailed compositional comparison of acidic NSO compounds in biodegraded
+reservoir and surface crude oils by negative ion electrospray Fourier transform ion cyclotron resonance mass spectrometry. Fuel
+2007, 86, 758–768. [CrossRef]
+35.
+Pan, Y.; Liao, Y.; Shi, Q.; Hsu, C.S. Acidic and neutral polar NSO compounds in heavily biodegraded oils characterized by
+negative-ion ESI FT-ICR MS. Energy Fuels 2013, 27, 2960–2973. [CrossRef]
+36.
+Oldenburg, T.B.P.; Jones, M.; Huang, H.; Bennett, B.; Shaﬁee, N.S.; Head, I.; Larter, S.R. The controls on the composition of
+biodegraded oils in the deep subsurface—Part 4. Destruction and production of high molecular weight non-hydrocarbon species
+and destruction of aromatic hydrocarbons during progressive in-reservoir biodegradation. Org. Geochem. 2017, 114, 57–80.
+[CrossRef]
+37.
+Liu, Y.; Wan, Y.Y.; Zhu, Y.; Fei, C.; Shen, Z.; Ying, Y. Impact of biodegradation on polar compounds in crude oil: Comparative
+simulation of biodegradation from two aerobic bacteria using ultrahigh-resolution mass spectrometry. Energy Fuels 2020, 34,
+5553–5565. [CrossRef]
+38.
+Cheng, X.; Hou, D.; Xu, C.; Wang, F. Biodegradation of tricyclic terpanes in crude oils from the Bohai Bay Basin. Org. Geochem.
+2016, 101, 11–21. [CrossRef]
+39.
+Cheng, X.; Hou, D.; Mao, R.; Xu, C. Severe biodegradation of polycyclic aromatic hydrocarbons in reservoired crude oils from the
+Miaoxi Depression, Bohai Bay Basin. Fuel 2018, 211, 859–867. [CrossRef]
+40.
+Cheng, X.; Hou, D.; Xu, C. The effect of biodegradation on adamantanes in reservoired crude oils from the Bohai Bay Basin,
+China. Org. Geochem. 2018, 123, 38–43. [CrossRef]
+41.
+Shi, Q.; Hou, D.; Chung, K.H.; Xu, C.; Zhao, S.; Zhang, Y. Characterization of heteroatom compounds in a crude oil and its
+saturates, aromatics, resins, and asphaltenes (SARA) and non-basic nitrogen fractions analyzed by negative-ion electrospray
+ionization fourier transform ion cyclotron resonance mass spectrometry. Energy Fuels 2010, 24, 2545–2553.
+42.
+Shi, Q.; Pan, N.; Long, H.; Cui, D.; Guo, X.; Long, Y.; Chung, K.H.; Zhao, S.; Xu, C.; Hsu, C.S. characterization of middle-
+temperature gasiﬁcation coal tar. part 3: Molecular composition of acidic compounds. Energy Fuels 2013, 27, 108–117. [CrossRef]
+
+--- PAGE 16 ---
+Energies 2021, 14, 300
+16 of 17
+43.
+Song, H.; Wen, Z.; Bao, J. Inﬂuence of biodegradation on carbazole and benzocarbazole distributions in oils from the Bongor
+Basin, Chad. Org. Geochem. 2016, 100, 18–28. [CrossRef]
+44.
+Liao, Y.; Shi, Q.; Hsu, C.S.; Pan, Y.; Zhang, Y. Distribution of acids and nitrogen-containing compounds in biodegraded oils of the
+Liaohe Basin by negative ion ESI FT-ICR MS. Org. Geochem. 2012, 47, 51–65. [CrossRef]
+45.
+Liu, W.; Liao, Y.; Pan, Y.; Jiang, B.; Zeng, Q.; Shi, Q.; Hsu, C.S. Use of ESI FT–ICR MS to investigate molecular transformation in
+simulated aerobic biodegradation of a sulfur-rich crude oil. Org. Geochem. 2018, 123, 17–26. [CrossRef]
+46.
+Harwood, C.S.; Burchhardt, G.; Herrmann, H.; Fuchs, G. Anaerobic metabolism of aromatic compounds via the benzoyl-CoA
+pathway. FEMS Microbiol. Rev. 1998, 22, 439–458. [CrossRef]
+47.
+Qian, K.; Robbins, W.K.; Hughey, C.A.; Cooper, H.J.; Rodgers, R.P.; Marshall, A.G. Resolution and identiﬁcation of elemental
+compositions for more than 3000 crude acids in heavy petroleum by negative-ion microelectrospray high-ﬁeld fourier transform
+ion cyclotron resonance mass spectrometry. Energy Fuels 2001, 15, 1505–1511. [CrossRef]
+48.
+Colati, K.A.P.; Dalmaschio, G.P.; de Castro, E.V.R.; Gomes, A.O.; Vaz, B.G.; Romão, W. Monitoring the liquid/liquid extraction of
+naphthenic acids in brazilian crude oil using electrospray ionization FT-ICR mass spectrometry (ESI FT-ICR MS). Fuel 2013, 108,
+647–655. [CrossRef]
+49.
+Mapolelo, M.M.; Rodgers, R.P.; Blakney, G.T.; Yen, A.T.; Asomaning, S.; Marshall, A.G. Characterization of naphthenic acids
+in crude oils and naphthenates by electrospray ionization FT-ICR mass spectrometry. Int. J. Mass Spectrom. 2011, 300, 149–157.
+[CrossRef]
+50.
+Cooper, J.E. Fatty acids in recent and ancient sediments and petroleum reservoir waters. Nature 1962, 193, 744–746. [CrossRef]
+51.
+Shimoyama, A.; Johns, W.D. Catalytic conversion of fatty acids to petroleum-like parafﬁns and their maturation. Nat. Phys. Sci.
+1971, 232, 140–144. [CrossRef]
+52.
+Aitken, C.M.; Jones, D.M.; Larter, S.R. Anaerobic hydrocarbon biodegradation in deep subsurface oil reservoirs. Nature 2004, 431,
+291–294. [CrossRef]
+53.
+Barth, T.; Høiland, S.; Fotland, P.; Askvik, K.M.; Pedersen, B.S.; Borgund, A.E. Acidic compounds in biodegraded petroleum. Org.
+Geochem. 2004, 35, 1513–1525. [CrossRef]
+54.
+Bennett, B.; Fustic, M.; Farrimond, P.; Huang, H.; Larter, S.R. 25-Norhopanes: Formation during biodegradation of petroleum in
+the subsurface. Org. Geochem. 2006, 37, 787–797. [CrossRef]
+55.
+Bennett, B.; Aitken, C.M.; Jones, D.M.; Farrimond, P.; Larter, S.R. The occurrence and signiﬁcance of 25-norhopanoic acids in
+petroleum reservoirs. Org. Geochem. 2007, 38, 1977–1985. [CrossRef]
+56.
+Headley, J.V.; McMartin, D.W. A review of the occurrence and fate of naphthenic acids in aquatic environments. J. Environ. Sci.
+Health Part A 2004, 39, 1989–2010. [CrossRef] [PubMed]
+57.
+Clemente, J.S.; Fedorak, P.M. A review of the occurrence, analyses, toxicity, and biodegradation of naphthenic acids. Chemosphere
+2005, 60, 585–600. [CrossRef]
+58.
+Annweiler, E.; Michaelis, W.; Meckenstock, R.U. Identical ring cleavage products during anaerobic degradation of naphthalene,
+2-methylnaphthalene, and tetralin indicate a new metabolic pathway. Appl. Environ. Microbiol. 2002, 68, 852–858. [CrossRef]
+59.
+Meckenstock, R.U.; Mouttaki, H. Anaerobic degradation of non-substituted aromatic hydrocarbons. Curr. Opin. Biotech. 2011, 22,
+406–414. [CrossRef]
+60.
+Eberlein, C.; Estelmann, S.; Seifert, J.; von Bergen, M.; Mueller, M.; Meckenstock, R.U.; Boll, M. Identiﬁcation and characterization
+of 2-naphthoyl-coenzyme A reductase, the prototype of a novel class of dearomatizing reductases. Mol. Microbiol. 2013, 88,
+1032–1039. [CrossRef]
+61.
+Lamorde, U.A.; Parnell, J.; Bowden, S.A. Constraining the genetic relationships of 25-norhopanes, hopanoic and 25-norhopanoic
+acids in onshore Niger Delta oils using a temperature-dependent material balance. Org. Geochem. 2015, 79, 31–43. [CrossRef]
+62.
+Huang, H.; Jin, G.; Lin, C.; Zheng, Y. Origin of an unusual heavy oil from the Baiyinchagan depression, Erlian basin, northern
+China. Mar. Petrol. Geol. 2003, 20, 1–12. [CrossRef]
+63.
+Sun, P.; Cai, C.; Tang, Y.; Tao, Z.; Zhao, W. A new approach to investigate effects of biodegradation on pyrrolic compounds by
+using a modiﬁed Manco scale. Fuel 2020, 265, 116937. [CrossRef]
+64.
+Tomczyk, N.A.; Winans, R.E.; Shinn, J.H.; Robinson, R.C. On the nature and origin of acidic species in petroleum. 1. detailed acid
+type distribution in a california crude oil. Energy Fuels 2001, 15, 1498–1504. [CrossRef]
+65.
+Vaz, B.G.; Silva, R.C.; Klitzke, C.F.; Simas, R.C.; Lopes Nascimento, H.D.; Pereira, R.C.L.; Garcia, D.F.; Eberlin, M.N.; Azevedo,
+D.A. Assessing biodegradation in the llanos orientales crude oils by electrospray ionization ultrahigh resolution and accuracy
+fourier transform mass spectrometry and chemometric analysis. Energy Fuels 2013, 27, 1277–1284. [CrossRef]
+66.
+Grifoli, M.; Selifonov, S.A.; Chapman, P.J. Transformation of substituted ﬂuorenes and ﬂuorene analogs by Pseudomonas sp. strain
+F274. Appl. Environ. Microbiol. 1995, 61, 3490–3493. [CrossRef] [PubMed]
+67.
+Sato, S.I.; Nam, J.W.; Kasuga, K.; Nojiri, H.; Yamane, H.; Omori, T. Identiﬁcation and characterization of genes encoding carbazole
+1,9a-dioxygenase in Pseudomonas sp. strain CA10. J. Bacteriol. 1997, 179, 4850.
+68.
+Nojiri, H.; Nam, J.W.; Kosaka, M.; Morii, K.I.; Takemura, T.; Furihata, K.; Yamane, H.; Omori, T. Diverse oxygenations catalyzed
+by carbazole 1,9a-dioxygenase from Pseudomonas sp strain CA10. J. Bacteriol. 1999, 181, 3105–3113. [CrossRef]
+69.
+Lobastova, T.G.; Sukhodolskaya, G.V.; Nikolayeva, V.M.; Baskunov, B.P.; Turchin, K.F.; Donova, M.V. Hydroxylation of carbazoles
+by Aspergillus ﬂavus VKM F-1024. FEMS Microbiol. Lett. 2004, 235, 51–56. [CrossRef]
+
+--- PAGE 17 ---
+Energies 2021, 14, 300
+17 of 17
+70.
+Yamazoe, A.; Yagi, O.; Oyaizu, H. Biotransformation of ﬂuorene, diphenyl ether, dibenzo-p-dioxin and carbazole by Janibacter sp.
+Biotechnol. Lett. 2004, 26, 479–486.
+71.
+Seo, J.-S.; Keum, Y.-S.; Kyu Cho, I.; Li, Q.X. Degradation of dibenzothiophene and carbazole by Arthrobacter sp. P1-1. Int.
+Biodeterior. Biodegrad. 2006, 58, 36–43. [CrossRef]
+72.
+Kodama, K.; Umehara, K.; Shimizu, K.; Nakatani, S.; Minoda, Y.; Yamada, K. Identiﬁcation of Microbial Products from
+Dibenzothiophene and Its Proposed Oxidation Pathway. Agric. Biol. Chem. 1973, 37, 45–50.
+73.
+Lu, J.; Nakajima-Kambe, T.; Shigeno, T.; Ohbo, A.; Nomura, N.; Nakahara, T. Biodegradation of dibenzothiophene and 4,6-
+dimethyldibenzothiophene by Sphingomonas paucimobilis strain TZS-7. J. Biosci. Bioeng. 1999, 88, 293–299. [CrossRef]
+74.
+van Afferden, M.; Schacht, S.; Klein, J.; Trüper, H.G. Degradation of dibenzothiophene by Brevibacterium sp.DO. Arch. Microbiol.
+1990, 153, 324–328. [CrossRef]
+75.
+Gallagher, J.R.; Olson, E.S.; Stanley, D.C. Microbial desulfurization of dibenzothiophene: A sulfur-speciﬁc pathway. FEMS
+Microbiol. Lett. 1993, 107, 31–35. [CrossRef] [PubMed]
+76.
+Gilbert, S.C.; Morton, J.; Buchanan, S.; Oldﬁeld, C.; McRoberts, A. Isolation of a unique benzothiophene-desulphurizing bacterium,
+Gordona sp. strain 213E (NCIMB 40816), and characterization of the desulphurization pathway. Microbiology 1998, 144, 2545–2553.
+[CrossRef]
+77.
+El-Gendy, N.S.; Nassar, H.N. Microbial attack of organosulfur compounds. In Biodesulfurization in Petroleum Reﬁning; El-Gendy,
+N.S., Nassar, H.N., Eds.; John Wiley & Sons, Inc.: Hoboken, NJ, USA, 2018; pp. 375–458.

@@ -1,0 +1,87 @@
+Version History
+
+
+------------------------------------
+Version 1.0, posted online 11/8/2018
+
+citation: Trost, J.J., Krall, A.L., Baedecker, M., Cozzarelli, I.M., Herkelrath, W.N., Jaeschke, J.B., and Bekins, B.A. 2018. Historical data sets including inorganic and organic chemistry of water, oil, and sediments, aquifer hydraulic conductivity, and sediment grain size distribution at the National Crude Oil Spill Fate and Natural Attenuation Research Site near Bemidji, Minnesota, USA, 1984-2010: U.S. Geological Survey data release, https://doi.org/10.5066/F7J101NV.
+------------------------------------
+
+------------------------------------
+Version 2.0, posted online 09/23/2019
+
+citation: Trost, J.J., Krall, A.L., Baedecker, M., Cozzarelli, I.M., Herkelrath, W.N., Jaeschke, J.B., and Bekins, B.A. 2018. Historical data sets including inorganic and organic chemistry of water, oil, and sediments, aquifer hydraulic conductivity, and sediment grain size distribution at the National Crude Oil Spill Fate and Natural Attenuation Research Site near Bemidji, Minnesota, USA, 1984-2010 (ver. 2.0, September 2019): U.S. Geological Survey data release, https://doi.org/10.5066/F7J101NV.
+
+Changes in version 2.0
+
+1.  Added tblds_11_OrganicAcids_1980s_1990s.csv: Concentrations of low-molecular-weight organic acids in groundwater derived from the degradation of petroleum contamination at National Crude Oil Spill Fate and Natural Attenuation Research Site near Bemidji, Minnesota, USA.
+
+2.  In several of the data tables, the method codes were updated.  The method codes are defined in a companion data dictionary data release (https://doi.org/10.5066/F7736PDR). The following is a summary of the method codes that were changed:
+	New code	Old code
+	LC003		CAL18
+	LC002		CL185
+	LC006		G0052
+	LC005		GCI14
+	LC007		IC062
+	LC004		ISE09
+	LC008		PLM79
+	LDPES		DCPES
+ 
+------------------------------------
+
+------------------------------------
+Version 3.0, posted online 04/02/2020
+
+citation: Trost, J.J., Krall, A.L., Baedecker, M., Cozzarelli, I.M., Herkelrath, W.N., Jaeschke, J.B., Delin, G.N., Berg, A.M., Bekins, B.A. 2020. Data Sets from the National Crude Oil Spill Fate and Natural Attenuation Research Site near Bemidji, Minnesota, USA (ver. 3.0, April 2020): U.S. Geological Survey data release, https://doi.org/10.5066/P9FJ8I0P.
+
+Changes in version 3.0
+
+1.  Gave the data release a new title to accommodate a broader range of data sets from the research site; added a new author, and created a new URL for the data release (see version 3 citation above). 
+
+2.  Added tblds_12_WaterAndOilLevels.csv.   
+
+3.  Removed tblds_04_GrainSizeDist_1980s.csv.  Errors were found in the data that were not easily resolved.  Errors will be fixed and the data table will be re-released in a future version of this data release.  
+
+4.  Added MetadataSummary_ColumnDescriptions.csv: This table contains a list of all of the columns of all of the data tables available at this data release.  It was added to provide users with a more user-friendly way to access metadata information about data in this data release.  It was generated programmatically from the HistoricalData_metadata.xml file.  
+
+5.  Added MetadataSummary_DatasetDescriptions.csv: This table contains a list of the files in the data release and a brief description of each file.  It was added to provide users with a more user-friendly way to access metadata information about data in this data release.  It was generated programmatically from the HistoricalData_metadata.xml file. 
+
+6.  An "x" prefix was added to all values in all fields titled "meth_cd" in all data tables to prevent leading 0 deletion by Excel or other programs used to open the data files.
+
+7.  An "x" prefix was added to all values in all fields titled "parm_cd" in all data tables to prevent leading 0 deletion by Excel or other programs used to open the data files.
+
+8.  the remark code of "m" in all data sets was replaced with "md".  This is a result level remark to signify that data was missing from the original data set used to create the file.  
+
+  
+-----------------------------------
+
+------------------------------------
+Version 4.0, posted 09/31/2025
+
+citation: Trost, J.J., Krall, A.L., Baedecker, M., Cozzarelli, I.M., Herkelrath, W.N., Jaeschke, J.B., Delin, G.N., Berg, A.M., Bekins, B.A., Milinic, B. 2025. Data Sets from the National Crude Oil Spill Fate and Natural Attenuation Research Site near Bemidji, Minnesota, USA (ver. 4.0, September 2025): U.S. Geological Survey data release, https://doi.org/10.5066/P9FJ8I0P.
+
+Changes in version 4.0
+
+1. Data from 2020-2025 added for tblds_12_WaterAndOilLevels.csv
+	- rows of data added: 2210
+	- unique sites in new rows added: 241
+	- no new columns added
+
+2. Updates applied to pre-existing data
+	- "Comments_WaterLevelStatus" column code was updated to include web qualifiers and AQTS reading qualifiers to fit NWIS modernization.
+	- An "x" prefix was added to all values in "USGS_siteno" for "tblds_12_WaterAndOilLevels.csv" to prevent leading 0 deletion by Excel or other programs used to open the data files.
+
+3. Data extract, transform and load process transitioned from R to Python. The following libraries were used with the updated process:
+	- pyodbc
+	- dataretrieval
+	- pandas
+	- numpy
+
+4. Metadata edited and updated using Metadata Wizard. The following tags were updated to follow USGS best practices:
+	- <accconst> updated to "No access constraints. Please see 'Distribution Information' for details."
+    - <useconst> updated to "These data are marked with a Creative Common CC0 1.0 Universal License. These data are in the public domain and do not have any use constraints. Users are advised to read the dataset's metadata thoroughly to understand appropriate use and data limitations."
+
+
+5. Added a new author as shown in the citation
+
+------------------------------------

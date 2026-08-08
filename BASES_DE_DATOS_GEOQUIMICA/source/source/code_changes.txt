@@ -1,0 +1,467 @@
+Publication containing results from models in this model archive:
+---------------------------
+Warren, Ean, and Bekins, B. A., 2018, Relative Contributions of Microbial 
+and Infrastructure Heat at a Crude Oil-Contaminated Site: Journal of 
+Contaminant Hydrology, vol. 211, April 2018, p. 94-103, 
+https://doi.org/10.1016/j.jconhyd.2018.03.011
+
+Model archive:
+---------------------
+Warren, Ean, and Bekins, B. A., 2018, SUTRA model simulations used to evaluate 
+heat flow from microbial activity at a crude oil-contaminated site, 
+https://doi.org/10.5066/F7N58KKX 
+-------------------------------------------------------------------------------
+
+Archive Revision History:
+------------------------    
+   12/10/2017 Model archive created to conform to the structure specified
+              for public release of groundwater flow and transport models.
+   01/11/2018 Model archive update based on Hedeff Essaid's review of model
+              archive.
+   04/17/2018 Model archive update with final information for Warren2018_JCH
+   
+-------------------------------------------------------------------------------
+Below are the modifications of SUTRA 2.2 to allow for spatially-variable 
+thermal properties and density and viscosity variation with temperature. Lines 
+of code that were changed from published source code are marked with "Ean".
+
+Deletions were accomplished by commenting the line; replacements by commenting 
+the old line and adding the new line below; and additions by inserting the line
+into the code.
+
+The text that follows includes module with starting line number affected and
+followed by code changes.
+
+
+I. Changes to fmods_2_2_ean.f
+1. Replacement: ALLARR........1900
+ccc     2   PERMXX, PERMXY, PERMYX, PERMYY, PANGL1                       ! Ean   ALLARR........1900
+     2   PERMXX, PERMXY, PERMYX, PERMYY, PANGL1, SIGS                    ! Ean
+
+
+
+II. Changes to sutra_2_2_ean.f
+1.	 SUTRA_MAIN...78100
+ccc     2   PANGL1(NE))                                                  ! Ean   SUTRA_MAIN...78100
+      2   PANGL1(NE),SIGS(NE))                                            ! Ean
+
+2.	 SUTRA_MAIN...80900
+ccc     2   PERMZX,PERMZY,PERMZZ,PANGL1,PANGL2,PANGL3,SOP,NREG,LREG,     ! Ean   SUTRA_MAIN...80900
+     2   PERMZX,PERMZY,PERMZZ,PANGL1,PANGL2,PANGL3,SIGS,SOP,NREG,LREG,   ! Ean
+	 
+3.	 SUTRA_MAIN..106900
+ccc     5   PANGL1,PANGL2,PANGL3,PBC,UBC,QPLITR,GXSI,GETA,GZET,FWK,B,    ! Ean   SUTRA_MAIN..106900
+     5   PANGL1,PANGL2,PANGL3,SIGS,PBC,UBC,QPLITR,GXSI,GETA,GZET,FWK,B,  ! Ean
+	 
+4.	 BASIS2.......14000
+ccc      RHOG=RHOW0+DRWDU*(UITERG-URHOW0)                                ! Ean   BASIS2.......14000
+      RHOG=RHOFUN(UITERG)                                                ! Ean
+	  
+5.	 BASIS2.......14300
+ccc 1200 VISCG=VISC0*239.4D-7*(10.D0**(248.37D0/(UITERG+133.15D0)))      ! Ean   BASIS2.......14300
+ 1200 VISCG=VISCFUN(UITERG)                                              ! Ean
+ 
+6.	 BASIS3.......19000
+ccc      RHOG=RHOW0+DRWDU*(UITERG-URHOW0)                                ! Ean   BASIS2.......19000
+      RHOG=RHOFUN(UITERG)                                                ! Ean
+	  
+7.	 BASIS3.......19300
+ccc 1200 VISCG=VISC0*239.4D-7*(10.D0**(248.37D0/(UITERG+133.15D0)))      ! Ean   BASIS2.......19300
+ 1200 VISCG=VISCFUN(UITERG)                                              ! Ean
+ 
+8.	 BUDGET........6900
+! New_density - begin - calculating DRWDU for non-linear case	         ! Ean ...
+	IF (RHOW0.LT.0D0) THEN					! New_density                                
+      DRWDU=DBLE(-0.00392982*(UVEC(I)-3.9863)*		! New_density
+     1       (UVEC(I)**2+246.652*UVEC(I)+20123.)/(UVEC(I)+68.1206)**2)    ! New_density
+	END IF									! New_density
+	
+9.	 BUDGET.......19500
+! New_density - begin - calculating DRWDU for non-linear case	         ! Ean ...
+	IF (RHOW0.LT.0D0) THEN					! New_density                                
+      DRWDU=DBLE(-0.00392982*(UVEC(I)-3.9863)*		! New_density
+     1       (UVEC(I)**2+246.652*UVEC(I)+20123.)/(UVEC(I)+68.1206)**2)    ! New_density
+	END IF									! New_density
+	
+10.	 ELEMN2........1600
+ccc     2   VMAG,VANG,VOL,PMAT,PVEC,UMAT,UVEC,GXSI,GETA,PVEL,LREG,IA,JA) ! Ean   ELEMN2........1600
+     2   SIGS,VMAG,VANG,VOL,PMAT,PVEC,UMAT,UVEC,GXSI,GETA,PVEL,LREG,     ! Ean
+     3   IA,JA)                                                          ! Ean
+	 
+11.	 ELEMN2........2400
+ccc     2   GXSI(NE,4),GETA(NE,4),LREG(NE)                               ! Ean   ELEMN2........2400
+     2   GXSI(NE,4),GETA(NE,4),LREG(NE),SIGS(NE)                         ! Ean
+
+12.	 ELEMN2.......27600
+ccc           ESE = ESWG*SIGMAW + (1D0-PORG(KG))*SIGMAS                  ! Ean   ELEMN2.......27600
+           ESE = ESWG*SIGMAW + (1D0-PORG(KG))*SIGS(L)                    ! Ean
+
+13.	 ELEMN3........1700
+ccc     3   PANGL1,PANGL2,PANGL3,VMAG,VANG1,VANG2,VOL,PMAT,PVEC,         ! Ean   ELEMN3........1700
+     3   PANGL1,PANGL2,PANGL3,SIGS,VMAG,VANG1,VANG2,VOL,PMAT,PVEC,       ! Ean
+
+14.	 ELEMN3........2900
+ccc     5   GXSI(NE,8),GETA(NE,8),GZET(NE,8),LREG(NE)                    ! Ean   ELEMN3........2900
+     5   GXSI(NE,8),GETA(NE,8),GZET(NE,8),LREG(NE),SIGS(NE)              ! Ean                       
+
+15.	 ELEMN3.......30900
+ccc           ESE = ESWG*SIGMAW + (1D0-PORG(KG))*SIGMAS                  ! Ean   ELEMN3.......30900
+           ESE = ESWG*SIGMAW + (1D0-PORG(KG))*SIGS(L)                    ! Ean
+
+16.	 INDAT1.........8900
+ccc     2   PERMYZ,PERMZX,PERMZY,PERMZZ,PANGL1,PANGL2,PANGL3,SOP,NREG,LREG, ! Ean  INDAT1.........900
+ccc     3   OBSPTS)                                                         ! Ean  INDAT1........1000
+     2   PERMYZ,PERMZX,PERMZY,PERMZZ,PANGL1,PANGL2,PANGL3,SIGS,SOP,         ! Ean
+     3   NREG,LREG,OBSPTS)                                                  ! Ean
+
+17.	 INDAT1........3200
+ccc     2   PANGL2(NEX),PANGL3(NEX),ALMAX(NE),ALMID(NEX),ALMIN(NE),      ! Ean   INDAT1........3200
+ccc     3   ATMAX(NE),ATMID(NEX),ATMIN(NE),LREG(NE)                      ! Ean   INDAT1........3300
+     2   PANGL2(NEX),PANGL3(NEX),SIGS(NE),ALMAX(NE),ALMID(NEX),          ! Ean
+     3   ALMIN(NE),ATMAX(NE),ATMID(NEX),ATMIN(NE),LREG(NE)               ! Ean
+
+18.	 INDAT1.......67200
+ccc     2     URHOW0,SIGMAW,SIGMAS                                       ! Ean   INDAT1.......67200
+     2     URHOW0,SIGMAW                                                 ! Ean
+
+19.	 INDAT1.......69000
+ccc     7   /11X,1PE15.4,5X,'THERMAL CONDUCTIVITY OF SOLID GRAIN')       ! Ean   INDAT1.......69000
+     7   )                                                               ! Ean
+
+20.	 INDAT1.......85000
+ccc      READ(INTFIL,*,IOSTAT=INERR(1)) CDUM10,PMAXFA,PMIDFA,PMINFA,     ! Ean   INDAT1.......85000
+ccc     1   ANG1FA,ANG2FA,ANG3FA,ALMAXF,ALMIDF,ALMINF,                   ! Ean   INDAT1.......85100
+ccc     1   ATMXF,ATMDF,ATMNF                                            ! Ean   INDAT1.......85200
+      IF (ME.EQ.1) THEN                                                  ! Ean ...
+         READ(INTFIL,*,IOSTAT=INERR(1)) CDUM10,PMAXFA,PMIDFA,PMINFA,       
+     1      ANG1FA,ANG2FA,ANG3FA,ALMAXF,ALMIDF,ALMINF,                      
+     1      ATMXF,ATMDF,ATMNF,SIGSF                                     
+      ELSE
+         READ(INTFIL,*,IOSTAT=INERR(1)) CDUM10,PMAXFA,PMIDFA,PMINFA,       
+     1      ANG1FA,ANG2FA,ANG3FA,ALMAXF,ALMIDF,ALMINF,                      
+     1      ATMXF,ATMDF,ATMNF
+      END IF                                                             ! ... Ean
+
+21.	 INDAT1.......89800
+ccc      READ(INTFIL,*,IOSTAT=INERR(1)) L,LREG(L),PMAX,PMID,PMIN,        ! Ean   INDAT1.......89800
+ccc     1   ANGLE1,ANGLE2,ANGLE3,ALMAX(L),ALMID(L),ALMIN(L),             ! Ean   INDAT1.......89900
+ccc     1   ATMAX(L),ATMID(L),ATMIN(L)                                   ! Ean   INDAT1.......90000
+      IF (ME.EQ.1) THEN                                                  ! Ean ...
+         READ(INTFIL,*,IOSTAT=INERR(1)) L,LREG(L),PMAX,PMID,PMIN,      
+     1      ANGLE1,ANGLE2,ANGLE3,ALMAX(L),ALMID(L),ALMIN(L),             
+     1      ATMAX(L),ATMID(L),ATMIN(L),SIGS(L)                       
+      ELSE
+         READ(INTFIL,*,IOSTAT=INERR(1)) L,LREG(L),PMAX,PMID,PMIN,      
+     1      ANGLE1,ANGLE2,ANGLE3,ALMAX(L),ALMID(L),ALMIN(L),             
+     1      ATMAX(L),ATMID(L),ATMIN(L)
+      END IF                                                             ! ... Ean
+
+22.	 INDAT1.......91600
+ccc      IF(KELMNT.EQ.+1.AND.IUNSAT.NE.1) WRITE(K3,1520) L,              ! Ean ...   INDAT1.......91600
+ccc     1   PMAX,PMID,PMIN,ANGLE1,ANGLE2,ANGLE3,                            INDAT1.......91700
+ccc     2   ALMAX(L),ALMID(L),ALMIN(L),ATMAX(L),ATMID(L),ATMIN(L)           INDAT1.......91800
+ccc 1520 FORMAT(9X,I9,2X,3(1PE14.5,2X),7X,9(G11.4,4X))                      INDAT1.......91900
+ccc      IF(KELMNT.EQ.+1.AND.IUNSAT.EQ.1) WRITE(K3,1530) L,LREG(L),         INDAT1.......92000
+ccc     1   PMAX,PMID,PMIN,ANGLE1,ANGLE2,ANGLE3,                            INDAT1.......92100
+ccc     2   ALMAX(L),ALMID(L),ALMIN(L),ATMAX(L),ATMID(L),ATMIN(L)           INDAT1.......92200
+ccc 1530 FORMAT(9X,I9,4X,I5,2X,3(1PE14.5,2X),7X,9(G11.4,4X))             ! ... Ean   INDAT1.......92300
+      IF (ME.EQ.1) SIGS(L)=SIGS(L)*SIGSF                                 ! Ean ...
+      IF(KELMNT.EQ.+1.AND.IUNSAT.NE.1) THEN                         
+         IF (ME.EQ.1) THEN
+            WRITE(K3,1520) L,PMAX,PMID,PMIN,ANGLE1,ANGLE2,ANGLE3,                            
+     1         ALMAX(L),ALMID(L),ALMIN(L),ATMAX(L),ATMID(L),ATMIN(L),
+     2         SIGS(L)  
+         ELSE
+            WRITE(K3,1520) L,PMAX,PMID,PMIN,ANGLE1,ANGLE2,ANGLE3,                            
+     1         ALMAX(L),ALMID(L),ALMIN(L),ATMAX(L),ATMID(L),ATMIN(L)
+         END IF                                                     
+      END IF                                                        
+ 1520 FORMAT(9X,I9,2X,3(1PE14.5,2X),7X,10(G11.4,4X))                
+      IF(KELMNT.EQ.+1.AND.IUNSAT.EQ.1) THEN                         
+         IF (ME.EQ.1) THEN
+            WRITE(K3,1530) L,LREG(L),PMAX,PMID,PMIN,ANGLE1,ANGLE2,                            
+     1         ANGLE3,ALMAX(L),ALMID(L),ALMIN(L),ATMAX(L),ATMID(L),
+     2         ATMIN(L),SIGS(L)  
+         ELSE
+            WRITE(K3,1530) L,LREG(L),PMAX,PMID,PMIN,ANGLE1,ANGLE2,                            
+     1         ANGLE3,ALMAX(L),ALMID(L),ALMIN(L),ATMAX(L),ATMID(L),
+     2         ATMIN(L)
+         END IF
+      END IF                                                        
+ 1530 FORMAT(9X,I9,4X,I5,2X,3(1PE14.5,2X),7X,10(G11.4,4X))               ! ... Ean
+
+23.	 INDAT1.......93800
+ccc      IF(KELMNT.EQ.0)                                                 ! Ean   INDAT1.......93800
+ccc     1   WRITE(K3,1569) PMAXFA,PMIDFA,PMINFA,ANG1FA,ANG2FA,ANG3FA,    ! Ean   INDAT1.......93900
+ccc     2      ALMAXF,ALMIDF,ALMINF,ATMXF,ATMDF,ATMNF                    ! Ean   INDAT1.......94000
+      IF(KELMNT.EQ.0) THEN                                               ! Ean ...
+         WRITE(K3,1569) PMAXFA,PMIDFA,PMINFA,ANG1FA,ANG2FA,ANG3FA,    
+     1      ALMAXF,ALMIDF,ALMINF,ATMXF,ATMDF,ATMNF                    
+         IF (ME.EQ.1) WRITE(K3,1570) SIGSF                               
+      END IF                                                             ! ... Ean
+
+24.	 INDAT1.......95500
+ 1570 FORMAT(/33X,1PD15.4,5X,'FACTOR FOR THERMAL CONDUCTIVITY',          ! Ean
+     1   ' OF SOLID GRAIN')                                              ! Ean
+
+25.	 INDAT1......103100
+ccc      READ(INTFIL,*,IOSTAT=INERR(1)) CDUM10,PMAXFA,PMINFA,ANGFAC,     ! Ean   INDAT1......103100
+ccc     1   ALMAXF,ALMINF,ATMAXF,ATMINF                                  ! Ean   INDAT1......103200
+      IF (ME.EQ.1) THEN                                                  ! Ean ...
+         READ(INTFIL,*,IOSTAT=INERR(1)) CDUM10,PMAXFA,PMINFA,ANGFAC,        
+     1      ALMAXF,ALMINF,ATMAXF,ATMINF,SIGSF                        
+      ELSE
+         READ(INTFIL,*,IOSTAT=INERR(1)) CDUM10,PMAXFA,PMINFA,ANGFAC,        
+     1      ALMAXF,ALMINF,ATMAXF,ATMINF
+      END IF                                                             ! ... Ean
+
+26.	 INDAT1......107200
+ccc      READ(INTFIL,*,IOSTAT=INERR(1)) L,LREG(L),PMAX,PMIN,ANGLEX,      ! Ean   INDAT1......107200
+ccc     1   ALMAX(L),ALMIN(L),ATMAX(L),ATMIN(L)                          ! Ean   INDAT1......107300
+      IF (ME.EQ.1) THEN                                                  ! Ean ...
+         READ(INTFIL,*,IOSTAT=INERR(1)) L,LREG(L),PMAX,PMIN,ANGLEX,         
+     1      ALMAX(L),ALMIN(L),ATMAX(L),ATMIN(L),SIGS(L)               
+      ELSE
+         READ(INTFIL,*,IOSTAT=INERR(1)) L,LREG(L),PMAX,PMIN,ANGLEX,         
+     1      ALMAX(L),ALMIN(L),ATMAX(L),ATMIN(L)
+      END IF                                                             ! ... Ean
+
+27.	 INDAT1......108400
+ccc      IF(KELMNT.EQ.+1.AND.IUNSAT.NE.1) WRITE(K3,2520) L,              ! Ean ...   INDAT1......108400
+ccc     1   PMAX,PMIN,ANGLEX,ALMAX(L),ALMIN(L),ATMAX(L),ATMIN(L)            INDAT1......108500
+ccc 2520 FORMAT(9X,I9,2X,2(1PE14.5,2X),7X,5(G11.4,4X))                      INDAT1......108600
+ccc      IF(KELMNT.EQ.+1.AND.IUNSAT.EQ.1) WRITE(K3,2530) L,LREG(L),         INDAT1......108700
+ccc     1   PMAX,PMIN,ANGLEX,ALMAX(L),ALMIN(L),ATMAX(L),ATMIN(L)            INDAT1......108800
+ccc 2530 FORMAT(9X,I9,4X,I5,2X,2(1PE14.5,2X),7X,5(G11.4,4X))             ! ... Ean   INDAT1......108900
+      IF (ME.EQ.1) SIGS(L)=SIGS(L)*SIGSF                                 ! Ean ...
+      IF(KELMNT.EQ.+1.AND.IUNSAT.NE.1) THEN                           
+         IF (ME.EQ.1) THEN
+            WRITE(K3,2520) L,PMAX,PMIN,ANGLEX,ALMAX(L),ALMIN(L),
+     1         ATMAX(L),ATMIN(L),SIGS(L)
+         ELSE
+            WRITE(K3,2520) L,PMAX,PMIN,ANGLEX,ALMAX(L),ALMIN(L),
+     1         ATMAX(L),ATMIN(L)
+         END IF                                                       
+      END IF                                                          
+ 2520 FORMAT(9X,I9,2X,2(1PE14.5,2X),7X,6(G11.4,4X))                   
+      IF(KELMNT.EQ.+1.AND.IUNSAT.EQ.1) THEN                           
+         IF (ME.EQ.1) THEN
+            WRITE(K3,2530) L,LREG(L),PMAX,PMIN,ANGLEX,ALMAX(L),ALMIN(L),
+     1         ATMAX(L),ATMIN(L),SIGS(L)
+         ELSE
+            WRITE(K3,2530) L,LREG(L),PMAX,PMIN,ANGLEX,ALMAX(L),ALMIN(L),
+     1         ATMAX(L),ATMIN(L)
+         END IF                                                       
+      END IF                                                         
+ 2530 FORMAT(9X,I9,4X,I5,2X,2(1PE14.5,2X),7X,6(G11.4,4X))                ! ... Ean 
+
+28.	 INDAT1......110300
+ccc      IF(KELMNT.EQ.0)                                                    ! Ean  INDAT1......110300
+ccc     1   WRITE(K3,2569) PMAXFA,PMINFA,ANGFAC,ALMAXF,ALMINF,ATMAXF,ATMINF ! Ean  INDAT1......110400
+      IF(KELMNT.EQ.0) THEN                                                  ! Ean ...
+         WRITE(K3,2569) PMAXFA,PMINFA,ANGFAC,ALMAXF,ALMINF,ATMAXF,ATMINF 
+         IF (ME.EQ.1) WRITE(K3,2570) SIGSF                               
+      END IF                                                                ! ... Ean
+
+29.	 INDAT1......111500
+ 2570 FORMAT(/33X,1PD15.4,5X,'FACTOR FOR THERMAL CONDUCTIVITY',          ! Ean
+     1   ' OF SOLID GRAIN')                                              ! Ean
+
+30.	 INDAT2.......25300
+ccc      RCIT(I)=RHOW0+DRWDU*(UVEC(I)-URHOW0)                            ! Ean   INDAT2.......25300
+      RCIT(I)=RHOFUN(UVEC(I))                                            ! Ean
+NODAL.........5900
+ccc  150 RHO(I)=RHOW0+DRWDU*(UITER(I)-URHOW0)                            ! Ean   NODAL.........6000
+  150 RHO(I)=	RHOFUN(UITER(I))					                     ! Ean
+NODAL.........6800
+!                                                                        ! Ean ...
+! New_density - begin - calculating DRWDU for non-linear case	
+	IF (RHOW0.LT.0D0) THEN					! New_density                                
+      DRWDU=DBLE(-0.00392982*(UITER(I)-3.9863)*		! New_density
+     1     (UITER(I)**2+246.652*UITER(I)+20123.)/(UITER(I)+68.1206)**2)    ! New_density
+ccc	PRINT *, RHO(I), UITER(I), DRWDU
+	END IF									! New_density
+! New_density - end - calculating DRWDU for non-linear case              ! ... Ean
+
+31.	 OUTBCOF.......4900
+      COMMON /SUP/ ITSUP                                                 ! Ean
+
+32.	 OUTBCOF.......6500
+            IF ((ITSUP.GE.0).AND.(JT.LT.ITSUP)) CYCLE                    ! Ean
+
+33.	 OUTBCOF.......8700
+            IF ((ITSUP.GE.0).AND.(JT.LT.ITSUP)) CYCLE                    ! Ean
+
+34.	 OUTBCOP.......5100
+      COMMON /SUP/ ITSUP                                                 ! Ean
+
+35.	 OUTBCOP.......6700
+            IF ((ITSUP.GE.0).AND.(JT.LT.ITSUP)) CYCLE                    ! Ean
+
+36.	 OUTBCOP.......8900
+            IF ((ITSUP.GE.0).AND.(JT.LT.ITSUP)) CYCLE                    ! Ean
+
+37.	 OUTBCOS.......4800
+      COMMON /SUP/ ITSUP                                                 ! Ean
+
+38.	 OUTBCOS.......6400
+            IF ((ITSUP.GE.0).AND.(JT.LT.ITSUP)) CYCLE                    ! Ean
+			
+39. OUTBCOS.......8600
+            IF ((ITSUP.GE.0).AND.(JT.LT.ITSUP)) CYCLE                    ! Ean
+			
+40. OUTBCOU.......5000
+      COMMON /SUP/ ITSUP                                                 ! Ean
+
+41. OUTBCOU.......6600
+            IF ((ITSUP.GE.0).AND.(JT.LT.ITSUP)) CYCLE                    ! Ean
+
+42. OUTBCOU.......8800
+            IF ((ITSUP.GE.0).AND.(JT.LT.ITSUP)) CYCLE                    ! Ean
+			
+43. OUTELE........4600
+      COMMON /SUP/ ITSUP                                                 ! Ean
+	  
+44. OUTELE........6300
+            IF ((ITSUP.GE.0).AND.(JT.LT.ITSUP)) CYCLE                    ! Ean
+			
+45. OUTELE........9700
+            IF ((ITSUP.GE.0).AND.(JT.LT.ITSUP)) CYCLE                    ! Ean
+			
+46. OUTNOD........4800
+      COMMON /SUP/ ITSUP                                                 ! Ean
+	  
+47. OUTNOD........6800
+            IF ((ITSUP.GE.0).AND.(JT.LT.ITSUP)) CYCLE                    ! Ean
+			
+48. OUTNOD.......11400
+            IF ((ITSUP.GE.0).AND.(JT.LT.ITSUP)) CYCLE                    ! Ean
+			
+49. OUTOBC.......20000
+ccc            IF (MOD(JT,NPCYC).EQ.0 .OR. BCSFL(JT)) LCHORP = ITMAX     ! Ean (bug fix)  OUTOBC.......20000
+ccc            IF (MOD(JT,NUCYC).EQ.0 .OR. BCSTR(JT)) LCTORC = ITMAX     ! Ean (bug fix)  OUTOBC.......20100
+            IF (MOD(JT,NPCYC).EQ.0 .OR. BCSFL(ITMAX)) LCHORP = ITMAX     ! Ean (bug fix)
+            IF (MOD(JT,NUCYC).EQ.0 .OR. BCSTR(ITMAX)) LCTORC = ITMAX     ! Ean (bug fix)
+
+50. OUTOBS.......19500
+ccc            IF (MOD(JT,NPCYC).EQ.0 .OR. BCSFL(JT)) LCHORP = ITMAX     ! Ean (bug fix)  OUTOBS.......19500
+ccc            IF (MOD(JT,NUCYC).EQ.0 .OR. BCSTR(JT)) LCTORC = ITMAX     ! Ean (bug fix)  OUTOBS.......19600
+            IF (MOD(JT,NPCYC).EQ.0 .OR. BCSFL(ITMAX)) LCHORP = ITMAX     ! Ean (bug fix)
+            IF (MOD(JT,NUCYC).EQ.0 .OR. BCSTR(ITMAX)) LCTORC = ITMAX     ! Ean (bug fix)
+READIF.......22400
+! New_density                                                            ! Ean ...
+!
+C     FUNCTION          R  H  O  F  U  N           SUTRA VERSION 3.0       
+C                                                                        
+C *** PURPOSE :                                                          
+C ***  RETURNS A VALUE OF DENSITY BASED ON TEMPERATURE OR CONCENTRATION (U), USING EITHER A LINEAR OR CURVED FUNCTION.
+C     
+      DOUBLE PRECISION FUNCTION RHOFUN (U) 
+      IMPLICIT DOUBLE PRECISION (A-H, O-Z)      
+      COMMON /PARAMS/ COMPFL,COMPMA,DRWDU,CW,CS,RHOS,SIGMAW,SIGMAS,
+     1   RHOW0,URHOW0,VISC0,PRODF1,PRODS1,PRODF0,PRODS0,CHI1,CHI2
+C                                                  
+      IF (RHOW0.LT.0D0) THEN                                    
+      RHOFUN=DBLE(-1*RHOW0*1000.*(1-(U+288.9414)
+     1               *(U-3.9863)**2/(508929.2*(U+68.12063))))
+      ELSE                                                          
+      RHOFUN = RHOW0+DRWDU*(U-URHOW0)
+      END IF 
+C                                                                       
+      RETURN                                           
+      END                   
+C                 
+!   d/dT 1000*(1-(T+288.9414)*(T-3.9863)^2/(508929.2*(T+68.12063))) =  0.00392982(T-3.9863)(T^2+246.652T+20123.)/(T+68.1206)^2
+!
+! End New_density
+!
+C     FUNCTION          V  I  S  C  F  U  N          SUTRA VERSION 3.0       
+C                                                                        
+C *** PURPOSE :                                                          
+C ***  RETURNS A VALUE OF VISCOSITY BASED ON TEMPERATURE (U), USING EITHER A CURVED FUNCTION OR A CONSTANT VALUE 
+C ***  DEPENDING ON THE VALUE OF VISC0
+C
+C *** ML Huber,RA Perkins,A Laesecke,DG Friend,MJ Assael,IN Metaxa,E 
+C ***  Vogel,R Mareš,K Miyagawa, New International Formulation for 
+C ***  the Viscosity of H2O, J. Phys. Chem. Ref. Data, Vol. 38, 
+C ***   No. 2, 2009
+!
+ccc 1200 VISCG=VISC0*239.4D-7*(10.D0**(248.37D0/(UITERG+133.15D0)))  ! New_density - original code from BASIS       BASIS2.......14300
+!
+c  VISC0 > 0 - Viscosity units scaling factor (Original method, curved function)
+c  VISC0 < 0 - Viscosity of fluid at base temperature (New Linear method)
+!
+C MOVED FROM BASIS TO A FUNCTION ON SEPT 23,2010 - VOSS AND MCKENZIE
+!     
+      DOUBLE PRECISION FUNCTION VISCFUN (U) 
+      IMPLICIT DOUBLE PRECISION (A-H, O-Z)      
+      COMMON /PARAMS/ COMPFL,COMPMA,DRWDU,CW,CS,RHOS,SIGMAW,SIGMAS,
+     1   RHOW0,URHOW0,VISC0,PRODF1,PRODS1,PRODF0,PRODS0,CHI1,CHI2
+      DATA A1/280.68D0/,a2/511.45D0/,a3/61.131D0/,a4/0.45903D0/,                                BASIS2........3300
+     1     b1/-1.9D0/,B2/-7.7D0/,B3/-19.6D0/,B4/-40.D0/
+      SAVE A1,A2,A3,A4,B1,B2,B3,B4
+C                                                  
+      IF (VISC0 .GT. 0.0)	THEN			
+      TK=U+273.15D0
+      TBAR=TK/300.D0
+      VISCFUN=1.D-6*VISC0*
+	1		(A1*TBAR**B1+A2*TBAR**B2+A3*TBAR**B3+A4*TBAR**B4)
+      ELSE 
+      VISCFUN=DBLE(-1*VISC0)
+      END IF
+C                                                                    
+      RETURN                                           
+      END  
+!                                                                        ! ... Ean
+
+51. SOURCE........7900
+            READ(INTFIL,*,IOSTAT=INERR(1)) IQCP,QINC,UINC                ! Ean
+            IF (INERR(1).NE.0) CALL SUTERR(ERRCOD, CHERR, INERR, RLERR)  ! Ean
+			
+52. SUTRA.........1300
+ccc     5   PANGL1,PANGL2,PANGL3,PBC,UBC,QPLITR,GXSI,GETA,GZET,FWK,B,    ! Ean   SUTRA.........1300
+     5   PANGL1,PANGL2,PANGL3,SIGS,PBC,UBC,QPLITR,GXSI,GETA,GZET,FWK,B,  ! Ean
+	 
+53. SUTRA.........4800
+ccc     2   PANGL1(NE)                                                   ! Ean   SUTRA.........4800
+     2   PANGL1(NE),SIGS(NE)                                             ! Ean
+
+54. SUTRA.........8600
+      COMMON /SUP/ ITSUP                                                 ! Ean
+	  
+55. SUTRA........20000
+ccc         IF ((ITSUP.LE.0)) THEN                                       ! Ean
+
+56. SUTRA........20600
+ccc         END IF                                                       ! Ean
+
+57. SUTRA........21000
+ccc            IF ((ITSUP.LE.0)) THEN                                    ! Ean
+
+58. SUTRA........21200
+ccc            END IF                                                    ! Ean
+
+59. SUTRA........36200
+ccc 2025 RCIT(I)=RHOW0+DRWDU*(UITER(I)-URHOW0)                           ! Ean   SUTRA........36200
+ 2025 RCIT(I)=RHOFUN(UITER(I))                                           ! Ean
+ 
+60. SUTRA........39200
+ccc      RCIT(I)=RHOW0+DRWDU*(UITER(I)-URHOW0)                           ! Ean   SUTRA........39200
+      RCIT(I)=RHOFUN(UITER(I))                                           ! Ean
+	  
+61. SUTRA........45500
+ccc     4   PANGL1,PANGL2,PANGL3,VMAG,VANG1,VANG2,VOL,PMAT,PVEC,         ! Ean   SUTRA........45500
+     4   PANGL1,PANGL2,PANGL3,SIGS,VMAG,VANG1,VANG2,VOL,PMAT,PVEC,       ! Ean
+	 
+62. SUTRA........46100
+ccc     3   VMAG,VANG1,VOL,PMAT,PVEC,UMAT,UVEC,GXSI,GETA,PVEL,LREG,IA,JA)! Ean   SUTRA........46100
+     3   SIGS,VMAG,VANG1,VOL,PMAT,PVEC,UMAT,UVEC,GXSI,GETA,PVEL,LREG,    ! Ean
+     4   IA,JA)                                                          ! Ean
+	 
+63. SUTRA........57500
+      IF ((ISSTRA.EQ.0).AND.(ITSUP.GE.0).AND.(IT.LT.ITSUP)) GOTO 7777    ! Ean
+	  
+64. SUTRA........61900
+ 7777 CONTINUE                                                           ! Ean
+
+

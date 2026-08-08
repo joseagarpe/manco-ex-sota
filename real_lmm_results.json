@@ -1,0 +1,25 @@
+{
+    "beta_fixed_slope": 3.4185,
+    "alpha_fixed_intercept": 7.4598,
+    "se_slope": 0.0551,
+    "p_value_slope": 0.0,
+    "ci_slope_lower": 3.3104,
+    "ci_slope_upper": 3.5266,
+    "r2_marginal": 0.1841,
+    "r2_conditional": 0.9999,
+    "mae_conditional": 0.0082,
+    "mae_logo": 1.3125,
+    "var_random_intercept": 1.7027,
+    "var_residual": 0.0002,
+    "icc": 0.9999,
+    "shapiro_p": 0.0128,
+    "aic": NaN,
+    "bic": NaN,
+    "random_effects_blup": {
+        "Athabasca Oil Sands (Alberta, Canada)": 1.7937,
+        "Bongor Basin (SW Chad)": -1.0449,
+        "Junggar Basin (Chepaizi Uplift, China)": -0.5364,
+        "Orinoco Oil Belt (Jun\u00edn, Venezuela)": 0.9419,
+        "USGS PGRL Repository (USA)": -1.1543
+    }
+}

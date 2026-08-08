@@ -1,0 +1,3 @@
+lab_type_cd,lab_type_cd_descript,version_when_added
+L7,Replicate laboratory analysis of multiple aliquots and/or aliquot runs from a single field sample.,version 1.0
+L9,Regular laboratory analysis of a single aliquot from a single field sample.,version 1.0
