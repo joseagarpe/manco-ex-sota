@@ -1,0 +1,14 @@
+{
+    "Methodology": "PLS Regression with Leave-One-Basin-Out Cross-Validation",
+    "N_Samples": 41,
+    "Basins": [
+        "USGS PGRL Repository (USA)",
+        "Orinoco Oil Belt (Jun\u00edn, Venezuela)",
+        "Bongor Basin (SW Chad)",
+        "Junggar Basin (Chepaizi Uplift, China)",
+        "Athabasca Oil Sands (Alberta, Canada)"
+    ],
+    "R2_LOBO": 0.88,
+    "RMSE_LOBO": 0.42,
+    "Absolute_Error_Percentage": "~52%"
+}
