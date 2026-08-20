@@ -1,8 +1,0 @@
-INP    50 'Case-170912k.inp'
-ICS    55 'Case-170912k.ics'
-LST    60 'Case-170912k.lst'
-RST    66 'Case-170912k.rst'
-NOD    30 'Case-170912k.nod'
-ELE    40 'Case-170912k.ele'
-OBS    70 'Case-170912k.obs'
-SMY    80 'Case-170912k.smy'

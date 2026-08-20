@@ -1,8 +1,0 @@
-INP    50 'CasePO-170912h.inp'
-ICS    55 'CasePO-170912h.ics'
-LST    60 'CasePO-170912h.lst'
-RST    66 'CasePO-170912h.rst'
-NOD    30 'CasePO-170912h.nod'
-ELE    40 'CasePO-170912h.ele'
-OBS    70 'CasePO-170912h.obs'
-SMY    80 'CasePO-170912h.smy'
