@@ -1,6 +1,7 @@
 # MANCO-EX: Thermodynamic Coupling between Biomarker Biodegradation Cascades and Heavy Oil Colloidal Rheology
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23826470.svg)](https://doi.org/10.5281/zenodo.23826470)
+[![Preprint: SSRN](https://img.shields.io/badge/Preprint-SSRN--7243483-blue.svg)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7243483)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **Validation Codebase and Harmonized Multi-Basin Geochemical Dataset ($N=59$) for Revision v9.1 (`JFUE-D-26-10837`, *Fuel*)**  
