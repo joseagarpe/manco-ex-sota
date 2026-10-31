@@ -1,14 +1,69 @@
 {
-    "Methodology": "PLS Regression with Leave-One-Basin-Out Cross-Validation",
-    "N_Samples": 41,
-    "Basins": [
-        "USGS PGRL Repository (USA)",
-        "Orinoco Oil Belt (Jun\u00edn, Venezuela)",
-        "Bongor Basin (SW Chad)",
-        "Junggar Basin (Chepaizi Uplift, China)",
-        "Athabasca Oil Sands (Alberta, Canada)"
-    ],
-    "R2_LOBO": 0.88,
-    "RMSE_LOBO": 0.42,
-    "Absolute_Error_Percentage": "~52%"
+    "Manuscript_Reference": "JFUE-D-26-10837 (Revision v9.1)",
+    "N_Samples": 59,
+    "N_Basins": 4,
+    "Common_Slope_beta_mol_per_kJ": 2.19,
+    "Dimensionless_Coupling_beta_ex": 5.33,
+    "Max_Cooks_Distance_D": 0.14,
+    "Global_Multi_Basin_ANCOVA": {
+        "R2": 0.88,
+        "RMSE_ln_cP": 0.94
+    },
+    "Stratified_5Fold_CV": {
+        "R2": 0.86,
+        "RMSE_ln_cP": 1.02
+    },
+    "Unanchored_LOBO_CV": {
+        "R2": -0.38,
+        "RMSE_ln_cP": 3.22
+    },
+    "Single_Anchor_LOBO_CV_N1": {
+        "R2": 0.83,
+        "RMSE_ln_cP": 1.15
+    },
+    "Literature_Benchmarks_Table_2": {
+        "Beggs_Robinson_1975": {
+            "R2": 0.65,
+            "RMSE_ln_cP": 1.63
+        },
+        "De_Ghetto_1995_Piecewise": {
+            "R2": 0.52,
+            "RMSE_ln_cP": 1.89
+        },
+        "Linear_PM_Scale": {
+            "R2": 0.33,
+            "RMSE_ln_cP": 2.25
+        }
+    },
+    "Basin_Metrics_Table_S2": {
+        "Eastern Venezuela (Orinoco)": {
+            "N": 15,
+            "R2": -0.88,
+            "RMSE_ln_cP": 0.61
+        },
+        "Junggar Basin (China)": {
+            "N": 15,
+            "R2": 0.54,
+            "RMSE_ln_cP": 1.46
+        },
+        "Songliao Basin (China)": {
+            "N": 14,
+            "R2": 0.81,
+            "RMSE_ln_cP": 0.63
+        },
+        "Western Canada (Athabasca)": {
+            "N": 15,
+            "R2": 0.63,
+            "RMSE_ln_cP": 0.75
+        }
+    },
+    "Exergoeconomic_Abandonment_Threshold_kJ_per_mol": {
+        "Baseline_Breakeven": 6.85,
+        "Monte_Carlo_Mean": 6.85,
+        "Std_Dev": 0.35,
+        "CI_95": [
+            6.15,
+            7.55
+        ]
+    }
 }
